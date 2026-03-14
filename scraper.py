@@ -9,7 +9,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Configure logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 class LiveTVScraper:
@@ -76,6 +76,8 @@ class LiveTVScraper:
                     seen.add(m['detail_url'])
                     
             logger.info(f"Found {len(unique_matches)} unique matches")
+            if len(unique_matches) == 0:
+                logger.debug(f"HTML snippet: {response.text[:1000]}")
             return unique_matches
             
         except Exception as e:

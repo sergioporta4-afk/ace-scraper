@@ -1,4 +1,5 @@
 import logging
+import re
 from scraper import LiveTVScraper
 import concurrent.futures
 
@@ -8,6 +9,11 @@ logger = logging.getLogger(__name__)
 
 ACESTREAM_IP = "192.168.1.58"
 ACESTREAM_PORT = "6878"
+
+def extract_time(time_str):
+    """Extract clean HH:MM from strings like '22:30 (Brazil. Serie A)' or '14 March at 22:30(Brazil. Serie A)'"""
+    m = re.search(r'\b(\d{1,2}:\d{2})\b', time_str)
+    return m.group(1) if m else time_str
 
 def generate_m3u(output_path="playlist.m3u"):
     scraper = LiveTVScraper()
@@ -20,27 +26,35 @@ def generate_m3u(output_path="playlist.m3u"):
         return match, streams
     
     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
-        results = executor.map(fetch_match_streams, matches)
+        results = list(executor.map(fetch_match_streams, matches))
+    
+    # Global dedup: track which acestream IDs have already been written
+    seen_acestream_ids = set()
+    link_counters = {}  # track per-match link numbering after dedup
     
     for match, streams in results:
         teams = match['teams']
         comp = match['competition']
-        time_str = match['time']
+        time_str = extract_time(match['time'])
         
-        for i, stream_url in enumerate(streams):
+        # Collect unique, valid URLs for this match (dedup acestream IDs globally)
+        unique_streams = []
+        for stream_url in streams:
             if stream_url.startswith("acestream://"):
-                # Extract ID from acestream://ID
-                acestream_id = stream_url.replace("acestream://", "")
-                final_url = f"http://{ACESTREAM_IP}:{ACESTREAM_PORT}/ace/getstream?id={acestream_id}"
+                ace_id = stream_url.replace("acestream://", "")
+                if ace_id in seen_acestream_ids:
+                    continue
+                seen_acestream_ids.add(ace_id)
+                final_url = f"http://{ACESTREAM_IP}:{ACESTREAM_PORT}/ace/getstream?id={ace_id}"
             else:
                 if "cdn.live" in stream_url or "http://:" in stream_url:
                     continue
                 final_url = stream_url
-            
-            # Create M3U entry
-            # i+1 is used to differentiate multiple streams for the same match
+            unique_streams.append(final_url)
+        
+        for i, final_url in enumerate(unique_streams):
             display_name = f"{teams} ({comp}) - {time_str}"
-            if len(streams) > 1:
+            if len(unique_streams) > 1:
                 display_name += f" - Link {i+1}"
                 
             m3u_content.append(f'#EXTINF:-1 tvg-name="{teams}" group-title="Sports",{display_name}')
@@ -49,7 +63,7 @@ def generate_m3u(output_path="playlist.m3u"):
     if len(m3u_content) > 1:
         with open(output_path, "w", encoding="utf-8") as f:
             f.write("\n".join(m3u_content))
-        logger.info(f"Successfully generated {output_path} with {len(m3u_content)//2} entries")
+        logger.info(f"Successfully generated {output_path} with {(len(m3u_content)-1)//2} entries")
     else:
         logger.warning("No streams found to populate the M3U file")
 

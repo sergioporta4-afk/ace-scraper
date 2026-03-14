@@ -42,6 +42,8 @@ class LiveTVScraper:
             detail_links = soup.select("a[href*='/enx/event/']")
             if not detail_links:
                 detail_links = soup.select("a[href*='/event/']")
+            if not detail_links:
+                detail_links = soup.select("a[href*='event']")
             
             matches = []
             for link in detail_links:

@@ -1,71 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Arouca –  Benfica (Portugal. Primeira Liga)" group-title="Sports",Arouca –  Benfica (Portugal. Primeira Liga) (21:30 (Portugal. Primeira Liga)) -  - Link 2
-http://get.adobe.com/ru/flashplayer
-#EXTINF:-1 tvg-name="Vitoria-BA –  Atletico-MG (Brazil. Serie A)" group-title="Sports",Vitoria-BA –  Atletico-MG (Brazil. Serie A) (22:30 (Brazil. Serie A)) -  - Link 1
+#EXTINF:-1 tvg-name="Vitoria-BA – Atletico-MG" group-title="Sports",Vitoria-BA – Atletico-MG (22:30 (Brazil. Serie A)) - 
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Vitoria-BA –  Atletico-MG (Brazil. Serie A)" group-title="Sports",Vitoria-BA –  Atletico-MG (Brazil. Serie A) (22:30 (Brazil. Serie A)) -  - Link 3
-http://get.adobe.com/ru/flashplayer
-#EXTINF:-1 tvg-name="Atletico Platense –  Velez Sarsfield (Argentina. Liga Profesional)" group-title="Sports",Atletico Platense –  Velez Sarsfield (Argentina. Liga Profesional) (23:00 (Argentina. Liga Profesional)) -  - Link 2
-http://get.adobe.com/ru/flashplayer
-#EXTINF:-1 tvg-name="RS Berkane –  Al Hilal Omdurman (CAF Champions League)" group-title="Sports",RS Berkane –  Al Hilal Omdurman (CAF Champions League) (23:00 (CAF Champions League)) -  - Link 2
-http://get.adobe.com/ru/flashplayer
-#EXTINF:-1 tvg-name="Arouca – Benfica(Portugal. Primeira Liga)" group-title="Sports",Arouca – Benfica(Portugal. Primeira Liga) (14 March at 21:30(Portugal. Primeira Liga)) -  - Link 2
-http://get.adobe.com/en/flashplayer
-#EXTINF:-1 tvg-name="Vitoria-BA – Atletico-MG(Brazil. Serie A)" group-title="Sports",Vitoria-BA – Atletico-MG(Brazil. Serie A) (14 March at 22:30(Brazil. Serie A)) -  - Link 1
+#EXTINF:-1 tvg-name="Vitoria-BA – Atletico-MG" group-title="Sports",Vitoria-BA – Atletico-MG (14 March at 22:30(Brazil. Serie A)) - 
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Vitoria-BA – Atletico-MG(Brazil. Serie A)" group-title="Sports",Vitoria-BA – Atletico-MG(Brazil. Serie A) (14 March at 22:30(Brazil. Serie A)) -  - Link 3
-http://get.adobe.com/en/flashplayer
-#EXTINF:-1 tvg-name="Atletico Platense – Velez Sarsfield(Argentina. Liga Profesional)" group-title="Sports",Atletico Platense – Velez Sarsfield(Argentina. Liga Profesional) (14 March at 23:00(Argentina. Liga Profesional)) -  - Link 2
-http://get.adobe.com/en/flashplayer
-#EXTINF:-1 tvg-name="Botafogo-RJ – Flamengo-RJ(Brazil. Serie A)" group-title="Sports",Botafogo-RJ – Flamengo-RJ(Brazil. Serie A) (15 March at 0:30(Brazil. Serie A)) -  - Link 1
+#EXTINF:-1 tvg-name="Botafogo-RJ – Flamengo-RJ" group-title="Sports",Botafogo-RJ – Flamengo-RJ (15 March at 0:30(Brazil. Serie A)) - 
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Botafogo-RJ – Flamengo-RJ(Brazil. Serie A)" group-title="Sports",Botafogo-RJ – Flamengo-RJ(Brazil. Serie A) (15 March at 0:30(Brazil. Serie A)) -  - Link 3
-http://get.adobe.com/en/flashplayer
-#EXTINF:-1 tvg-name="RS Berkane – Al Hilal Omdurman(CAF Champions League)" group-title="Sports",RS Berkane – Al Hilal Omdurman(CAF Champions League) (14 March at 23:00(CAF Champions League)) -  - Link 2
-http://get.adobe.com/en/flashplayer
-#EXTINF:-1 tvg-name="Atletico de San Luis – Pachuca(Mexico. Liga MX)" group-title="Sports",Atletico de San Luis – Pachuca(Mexico. Liga MX) (15 March at 0:00(Mexico. Liga MX)) -  - Link 2
-http://get.adobe.com/en/flashplayer
-#EXTINF:-1 tvg-name="Deportivo Garcilaso – Alianza Lima(Peru. Liga 1)" group-title="Sports",Deportivo Garcilaso – Alianza Lima(Peru. Liga 1) (15 March at 0:00(Peru. Liga 1)) -  - Link 2
-http://get.adobe.com/en/flashplayer
-#EXTINF:-1 tvg-name="Guadalajara – Santos Laguna(Mexico. Liga MX)" group-title="Sports",Guadalajara – Santos Laguna(Mexico. Liga MX) (15 March at 0:07(Mexico. Liga MX)) -  - Link 2
-http://get.adobe.com/en/flashplayer
-#EXTINF:-1 tvg-name="Liverpool – Tottenham(England. Premier League)" group-title="Sports",Liverpool – Tottenham(England. Premier League) (15 March at 17:30(England. Premier League)) -  - Link 4
-https://livetv.sx/dex/eventinfo/348427032_live
-#EXTINF:-1 tvg-name="Liverpool – Tottenham(England. Premier League)" group-title="Sports",Liverpool – Tottenham(England. Premier League) (15 March at 17:30(England. Premier League)) -  - Link 5
-https://livetv.sx/enx/eventinfo/348427032_live
-#EXTINF:-1 tvg-name="Liverpool – Tottenham(England. Premier League)" group-title="Sports",Liverpool – Tottenham(England. Premier League) (15 March at 17:30(England. Premier League)) -  - Link 6
-https://livetv.sx/es/eventinfo/348427032_live
-#EXTINF:-1 tvg-name="Liverpool – Tottenham(England. Premier League)" group-title="Sports",Liverpool – Tottenham(England. Premier League) (15 March at 17:30(England. Premier League)) -  - Link 7
-https://livetv.sx/eventinfo/348427032_live
-#EXTINF:-1 tvg-name="Liverpool – Tottenham(England. Premier League)" group-title="Sports",Liverpool – Tottenham(England. Premier League) (15 March at 17:30(England. Premier League)) -  - Link 8
-https://livetv.sx/frx/eventinfo/348427032_live
-#EXTINF:-1 tvg-name="Liverpool – Tottenham(England. Premier League)" group-title="Sports",Liverpool – Tottenham(England. Premier League) (15 March at 17:30(England. Premier League)) -  - Link 9
-https://livetv.sx/it/eventinfo/348427032_live
-#EXTINF:-1 tvg-name="Liverpool – Tottenham(England. Premier League)" group-title="Sports",Liverpool – Tottenham(England. Premier League) (15 March at 17:30(England. Premier League)) -  - Link 10
-https://livetv.sx/pl/eventinfo/348427032_live
-#EXTINF:-1 tvg-name="Liverpool – Tottenham(England. Premier League)" group-title="Sports",Liverpool – Tottenham(England. Premier League) (15 March at 17:30(England. Premier League)) -  - Link 11
-https://livetv.sx/pt/eventinfo/348427032_live
-#EXTINF:-1 tvg-name="Liverpool – Tottenham(England. Premier League)" group-title="Sports",Liverpool – Tottenham(England. Premier League) (15 March at 17:30(England. Premier League)) -  - Link 12
-https://livetv.sx/rs/eventinfo/348427032_live
-#EXTINF:-1 tvg-name="Liverpool – Tottenham(England. Premier League)" group-title="Sports",Liverpool – Tottenham(England. Premier League) (15 March at 17:30(England. Premier League)) -  - Link 13
-https://livetv.sx/tr/eventinfo/348427032_live
-#EXTINF:-1 tvg-name="Porto B – Oliveirense(Portugal. Segunda Liga)" group-title="Sports",Porto B – Oliveirense(Portugal. Segunda Liga) (16 March at 19:45(Portugal. Segunda Liga)) -  - Link 4
-https://livetv.sx/dex/eventinfo/348456739_porto_b_olive
-#EXTINF:-1 tvg-name="Porto B – Oliveirense(Portugal. Segunda Liga)" group-title="Sports",Porto B – Oliveirense(Portugal. Segunda Liga) (16 March at 19:45(Portugal. Segunda Liga)) -  - Link 5
-https://livetv.sx/enx/eventinfo/348456739_porto_b_olive
-#EXTINF:-1 tvg-name="Porto B – Oliveirense(Portugal. Segunda Liga)" group-title="Sports",Porto B – Oliveirense(Portugal. Segunda Liga) (16 March at 19:45(Portugal. Segunda Liga)) -  - Link 6
-https://livetv.sx/es/eventinfo/348456739_porto_b_olive
-#EXTINF:-1 tvg-name="Porto B – Oliveirense(Portugal. Segunda Liga)" group-title="Sports",Porto B – Oliveirense(Portugal. Segunda Liga) (16 March at 19:45(Portugal. Segunda Liga)) -  - Link 7
-https://livetv.sx/eventinfo/348456739_porto_b_olive
-#EXTINF:-1 tvg-name="Porto B – Oliveirense(Portugal. Segunda Liga)" group-title="Sports",Porto B – Oliveirense(Portugal. Segunda Liga) (16 March at 19:45(Portugal. Segunda Liga)) -  - Link 8
-https://livetv.sx/frx/eventinfo/348456739_porto_b_olive
-#EXTINF:-1 tvg-name="Porto B – Oliveirense(Portugal. Segunda Liga)" group-title="Sports",Porto B – Oliveirense(Portugal. Segunda Liga) (16 March at 19:45(Portugal. Segunda Liga)) -  - Link 9
-https://livetv.sx/it/eventinfo/348456739_porto_b_olive
-#EXTINF:-1 tvg-name="Porto B – Oliveirense(Portugal. Segunda Liga)" group-title="Sports",Porto B – Oliveirense(Portugal. Segunda Liga) (16 March at 19:45(Portugal. Segunda Liga)) -  - Link 10
-https://livetv.sx/pl/eventinfo/348456739_porto_b_olive
-#EXTINF:-1 tvg-name="Porto B – Oliveirense(Portugal. Segunda Liga)" group-title="Sports",Porto B – Oliveirense(Portugal. Segunda Liga) (16 March at 19:45(Portugal. Segunda Liga)) -  - Link 11
-https://livetv.sx/pt/eventinfo/348456739_porto_b_olive
-#EXTINF:-1 tvg-name="Porto B – Oliveirense(Portugal. Segunda Liga)" group-title="Sports",Porto B – Oliveirense(Portugal. Segunda Liga) (16 March at 19:45(Portugal. Segunda Liga)) -  - Link 12
-https://livetv.sx/rs/eventinfo/348456739_порто_б_olive
-#EXTINF:-1 tvg-name="Porto B – Oliveirense(Portugal. Segunda Liga)" group-title="Sports",Porto B – Oliveirense(Portugal. Segunda Liga) (16 March at 19:45(Portugal. Segunda Liga)) -  - Link 13
-https://livetv.sx/tr/eventinfo/348456739_porto_b_olive

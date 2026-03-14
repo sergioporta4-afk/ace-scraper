@@ -12,6 +12,11 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
+FOOTBALL_KEYWORDS = {
+    "football", "soccer", "premier", "liga", "bundesliga", "serie a",
+    "ligue", "champions league", "europa league", "uefa", "fifa", "world cup"
+}
+
 class LiveTVScraper:
     def __init__(self, base_url="https://livetv.sx/enx/allupcomingsports/1/"):
         self.base_url = base_url
@@ -62,12 +67,14 @@ class LiveTVScraper:
                 competition = row.select_one(".league, .competition, td.league > a").get_text(strip=True) if row.select_one(".league, .competition, td.league > a") else ""
                 
                 if len(teams) > 3:
-                    matches.append({
-                        "teams": teams,
-                        "time": time_text,
-                        "competition": competition,
-                        "detail_url": detail_url
-                    })
+                    combined_text = (teams + " " + competition).lower()
+                    if any(k in combined_text for k in FOOTBALL_KEYWORDS):
+                        matches.append({
+                            "teams": teams,
+                            "time": time_text,
+                            "competition": competition,
+                            "detail_url": detail_url
+                        })
             
             # Dedup by detail_url
             seen = set()

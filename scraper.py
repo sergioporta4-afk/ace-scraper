@@ -62,10 +62,48 @@ class LiveTVScraper:
                 row = link.find_parent('tr') or link.parent
                 
                 # Extract metadata
-                time_text = row.select_one(".time, td.time, [class*='time']").get_text(strip=True) if row.select_one(".time, td.time, [class*='time']") else ""
-                teams = row.select_one(".evdesc, .event-title, .event-desc").get_text(strip=True) if row.select_one(".evdesc, .event-title, .event-desc") else link.get_text(strip=True)
-                competition = row.select_one(".league, .competition, td.league > a").get_text(strip=True) if row.select_one(".league, .competition, td.league > a") else ""
+                time_elem = row.select_one("td.time, .time, [class*='time'], td:nth-child(1)")
+                teams_elem = row.select_one("td.evdesc, .evdesc, .event-title, .event-desc, [class*='event'], [class*='team'], td:nth-child(3)")
+                comp_elem = row.select_one("td.league > a, .league, .competition, [class*='league'], td:nth-child(2)")
                 
+                time_text = time_elem.get_text(strip=True) if time_elem else ""
+                teams = teams_elem.get_text(strip=True) if teams_elem else ""
+                competition = comp_elem.get_text(strip=True) if comp_elem else ""
+                
+                if not teams or len(teams) < 5:
+                    teams = link.get_text(strip=True)
+                
+                if not teams or len(teams) < 5:
+                    parent = link.parent
+                    attempts = 0
+                    while parent and attempts < 3 and (not teams or len(teams) < 5):
+                        # Get text of parent WITHOUT its children's text
+                        t = ''.join([c if isinstance(c, str) else '' for c in parent.contents]).strip()
+                        if t and len(t) > 5:
+                            teams = t
+                            break
+                        parent = parent.parent
+                        attempts += 1
+
+                # Heuristic: swap teams/competition if their content looks reversed.
+                if teams and competition:
+                    teams_looks_like_league = (
+                        len(teams) < 10 or 
+                        re.search(r'\([^)]+\)', teams) or 
+                        re.search(r'\d{1,2}\s+\w+\s+at', teams) or 
+                        re.search(r'\b(ncaa|nba|nfl|mlb|nhl|premier|liga|serie|bundesliga|league|cup|championship|division|conference|botola|pro|first|elite)\b', teams.lower())
+                    )
+                    comp_looks_like_teams = (
+                        len(competition) > 15 or 
+                        re.search(r'[–—-]', competition) or 
+                        re.search(r'\bvs?\.?\b', competition) or 
+                        re.search(r'\d+:\d+', competition) or
+                        len(re.split(r'[–—-]', competition)) == 2
+                    )
+                    
+                    if teams_looks_like_league and comp_looks_like_teams:
+                        teams, competition = competition, teams
+                        
                 # Basic cleaning of teams string
                 teams = re.sub(r'\d{1,2}\s+\w+\s+at\s*', '', teams)
                 teams = re.sub(r'\d{1,2}:\d{2}', '', teams)

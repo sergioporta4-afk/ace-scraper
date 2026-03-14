@@ -28,11 +28,14 @@ def generate_m3u(output_path="playlist.m3u"):
         time_str = match['time']
         
         for i, stream_url in enumerate(streams):
-            # Extract ID from acestream://ID
-            acestream_id = stream_url.replace("acestream://", "")
-            
-            # Format proxy URL
-            proxy_url = f"http://{ACESTREAM_IP}:{ACESTREAM_PORT}/ace/getstream?id={acestream_id}"
+            if stream_url.startswith("acestream://"):
+                # Extract ID from acestream://ID
+                acestream_id = stream_url.replace("acestream://", "")
+                final_url = f"http://{ACESTREAM_IP}:{ACESTREAM_PORT}/ace/getstream?id={acestream_id}"
+            else:
+                if "cdn.live" in stream_url or "http://:" in stream_url:
+                    continue
+                final_url = stream_url
             
             # Create M3U entry
             # i+1 is used to differentiate multiple streams for the same match
@@ -41,7 +44,7 @@ def generate_m3u(output_path="playlist.m3u"):
                 display_name += f" - Link {i+1}"
                 
             m3u_content.append(f'#EXTINF:-1 tvg-name="{teams}" group-title="Sports",{display_name}')
-            m3u_content.append(proxy_url)
+            m3u_content.append(final_url)
 
     if len(m3u_content) > 1:
         with open(output_path, "w", encoding="utf-8") as f:

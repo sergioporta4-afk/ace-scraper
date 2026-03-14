@@ -66,6 +66,12 @@ class LiveTVScraper:
                 teams = row.select_one(".evdesc, .event-title, .event-desc").get_text(strip=True) if row.select_one(".evdesc, .event-title, .event-desc") else link.get_text(strip=True)
                 competition = row.select_one(".league, .competition, td.league > a").get_text(strip=True) if row.select_one(".league, .competition, td.league > a") else ""
                 
+                # Basic cleaning of teams string
+                teams = re.sub(r'\d{1,2}\s+\w+\s+at\s*', '', teams)
+                teams = re.sub(r'\d{1,2}:\d{2}', '', teams)
+                teams = teams.strip()
+
+                
                 if len(teams) > 3:
                     combined_text = (teams + " " + competition).lower()
                     if any(k in combined_text for k in FOOTBALL_KEYWORDS):
@@ -110,15 +116,28 @@ class LiveTVScraper:
             for tag in acestream_tags:
                 links.add(tag['href'])
             
-            # 2. Regex fallbacks
+            # 2. Regex fallback on entire HTML string
+            # Livetv.sx often hides stream links in javascript variables or other elements
+            
+            # Acestream pattern
             acestream_regex = re.compile(r"acestream://[a-zA-Z0-9]+")
-            
-            # Search in body text
-            body_text = soup.body.get_text() if soup.body else ""
-            links.update(acestream_regex.findall(body_text))
-            
-            # Search in raw HTML
             links.update(acestream_regex.findall(html))
+            
+            # Webplayer pattern (often protocol-relative starting with //)
+            webplayer_regex = re.compile(r"(?:https?:)?//[^\s\"'<>]+webplayer[^\s\"'<]*", re.IGNORECASE)
+            webplayer_links = webplayer_regex.findall(html)
+            
+            for wl in webplayer_links:
+                if wl.startswith("//"):
+                    links.add(f"https:{wl}")
+                else:
+                    links.add(wl)
+            
+            # Additional fallback: JS_URL_REGEX from original code for common stream words
+            js_url_regex = re.compile(r"https?://[^\s\"'<>]+(?:\.m3u8|stream|live|watch|player)", re.IGNORECASE)
+            links.update(js_url_regex.findall(html))
+
+
             
             logger.info(f"Found {len(links)} Acestream links for {detail_url}")
             return sorted(list(links))

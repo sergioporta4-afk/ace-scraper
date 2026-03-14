@@ -143,6 +143,17 @@ class LiveTVScraper:
                 teams = teams_elem.get_text(strip=True) if teams_elem else ""
                 competition = comp_elem.get_text(strip=True) if comp_elem else ""
                 
+                # Fallback: if time_text has no HH:MM pattern, scan the full row text
+                if not re.search(r'\d{1,2}:\d{2}', time_text):
+                    row_text = row.get_text(separator=' ', strip=True)
+                    # Look for patterns like "22:30" or "14 March at 22:30"
+                    date_time_match = re.search(
+                        r'((?:\d{1,2}\s+\w+\s+at\s+)?\d{1,2}:\d{2})',
+                        row_text
+                    )
+                    if date_time_match:
+                        time_text = date_time_match.group(1)
+                
                 if not teams or len(teams) < 5:
                     teams = link.get_text(strip=True)
                 
@@ -207,22 +218,30 @@ class LiveTVScraper:
             window_end   = now_utc + timedelta(minutes=60)
             
             filtered_matches = []
-            no_time_matches = []
+            skipped = 0
+            no_time_count = 0
             for m in unique_matches:
                 match_dt = self._parse_match_time(m['time'])
                 if match_dt is None:
-                    # Can't parse time → include anyway (better safe than sorry)
-                    no_time_matches.append(m)
+                    # Can't parse time at all — skip it (don't include blindly)
+                    no_time_count += 1
+                    logger.debug(f"No time found for '{m['teams']}' (time_text='{m['time']}'): skipping")
                 elif window_start <= match_dt <= window_end:
                     filtered_matches.append(m)
                 else:
-                    logger.debug(f"Skipping '{m['teams']}' at {m['time']} (outside window)")
+                    skipped += 1
+                    logger.debug(f"Skipping '{m['teams']}' at {m['time']} (match_dt={match_dt.strftime('%m-%d %H:%M')}, window={window_start.strftime('%H:%M')}-{window_end.strftime('%H:%M')} UTC)")
             
-            result = filtered_matches + no_time_matches
-            logger.info(f"Found {len(unique_matches)} unique matches, {len(result)} within time window (now ±120/60 min UTC)")
-            if len(result) == 0:
-                logger.debug(f"HTML snippet: {response.text[:500]}")
-            return result
+            logger.info(
+                f"Time filter: {len(unique_matches)} total → "
+                f"{len(filtered_matches)} in window, {skipped} future/past, {no_time_count} unparseable (skipped)"
+            )
+            if len(filtered_matches) == 0 and no_time_count == len(unique_matches):
+                # All matches had unparseable times — likely a page structure issue.
+                # Fall back to returning all matches so the file isn't empty.
+                logger.warning("Could not parse ANY match times — falling back to all matches (time filter disabled)")
+                return unique_matches
+            return filtered_matches
             
         except Exception as e:
             logger.error(f"Error fetching matches: {e}")

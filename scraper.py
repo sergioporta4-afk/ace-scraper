@@ -34,6 +34,40 @@ class LiveTVScraper:
         parsed = urlparse(url)
         return f"{parsed.scheme}://{parsed.netloc}"
 
+    def clean_team_names(self, teams, competition):
+        cleaned = teams
+        
+        # Remove date patterns
+        cleaned = re.sub(r'\d{1,2}\s+\w+\s+at\s*', '', cleaned)
+        cleaned = re.sub(r'\w+\s+\d{1,2}\s+at\s*', '', cleaned)
+        cleaned = re.sub(r'\d{1,2}\s+\w+\s+\d{4}\s+at\s*', '', cleaned)
+        
+        # Remove time patterns
+        cleaned = re.sub(r'\d{1,2}:\d{2}', '', cleaned)
+        cleaned = re.sub(r'at\s+\d{1,2}:\d{2}', '', cleaned)
+        
+        # Remove parentheses content
+        cleaned = re.sub(r'\([^)]*\)', '', cleaned)
+        
+        if competition:
+            # Re.escape is needed for competition string
+            cleaned = re.sub(re.escape(competition), '', cleaned, flags=re.IGNORECASE)
+            
+        patterns = [
+            r'live|today|tomorrow|now',
+            r'GMT|UTC|CET|EST|PST',
+            r'\s+0:\d+\s*$'
+        ]
+        for p in patterns:
+            cleaned = re.sub(p, '', cleaned, flags=re.IGNORECASE)
+            
+        cleaned = re.sub(r'\s+', ' ', cleaned).strip()
+        cleaned = re.sub(r'^[|:,.;\s]+|[|:,.;\s]+$', '', cleaned)
+        
+        if len(cleaned) > 3 and any(sep in cleaned for sep in ['-', '–', 'vs', 'v ']):
+            return cleaned
+        return teams
+
     def get_matches(self):
         """Scrapes the main page for upcoming matches."""
         logger.info(f"Fetching matches from {self.base_url}")
@@ -105,9 +139,7 @@ class LiveTVScraper:
                         teams, competition = competition, teams
                         
                 # Basic cleaning of teams string
-                teams = re.sub(r'\d{1,2}\s+\w+\s+at\s*', '', teams)
-                teams = re.sub(r'\d{1,2}:\d{2}', '', teams)
-                teams = teams.strip()
+                teams = self.clean_team_names(teams, competition)
 
                 
                 if len(teams) > 3:
@@ -172,13 +204,26 @@ class LiveTVScraper:
                     links.add(wl)
             
             # Additional fallback: JS_URL_REGEX from original code for common stream words
+            # Should only search within <script> tags to avoid catching UI links
             js_url_regex = re.compile(r"https?://[^\s\"'<>]+(?:\.m3u8|stream|live|watch|player)", re.IGNORECASE)
-            links.update(js_url_regex.findall(html))
-
-
+            for script_tag in soup.find_all('script'):
+                if script_tag.string:
+                    links.update(js_url_regex.findall(script_tag.string))
             
-            logger.info(f"Found {len(links)} Acestream links for {detail_url}")
-            return sorted(list(links))
+            # Filter out invalid or garbage links (flashplayer, livetv interface links)
+            valid_links = set()
+            for link in links:
+                if "get.adobe.com" in link or "flashplayer" in link.lower():
+                    continue
+                if "livetv.sx" in link and "eventinfo" in link:
+                    # these are language switcher links for the same event
+                    continue
+                if link.startswith("http://cdn.live") or link.startswith("https://cdn.live"):
+                    continue
+                valid_links.add(link)
+            
+            logger.info(f"Found {len(valid_links)} valid stream links for {detail_url}")
+            return sorted(list(valid_links))
             
         except Exception as e:
             logger.error(f"Error fetching streams for {detail_url}: {e}")

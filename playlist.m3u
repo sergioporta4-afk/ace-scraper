@@ -1,7 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Vitoria-BA – Atletico-MG" group-title="Sports",Vitoria-BA – Atletico-MG (22:30 (Brazil. Serie A)) - 
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Vitoria-BA – Atletico-MG" group-title="Sports",Vitoria-BA – Atletico-MG (14 March at 22:30(Brazil. Serie A)) - 
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Botafogo-RJ – Flamengo-RJ" group-title="Sports",Botafogo-RJ – Flamengo-RJ (15 March at 0:30(Brazil. Serie A)) - 
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

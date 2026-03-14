@@ -2,7 +2,7 @@ name: Update M3U Playlist
 
 on:
   schedule:
-    - cron: '0 11-23 * * *' # Every hour from 12:00 to 00:00 Italian time (CET = UTC+1)
+    - cron: '29 11-23 * * *' # Every hour at :29 from 12:29 to 23:29 Italian time (CET = UTC+1)
   workflow_dispatch: # Allow manual trigger
 
 jobs:

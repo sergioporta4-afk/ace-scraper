@@ -28,7 +28,8 @@ class LiveTVScraper:
         """Scrapes the main page for upcoming matches."""
         logger.info(f"Fetching matches from {self.base_url}")
         try:
-            response = self.session.get(self.base_url, timeout=30)
+            # Disable SSL verification to bypass CERTIFICATE_VERIFY_FAILED
+            response = self.session.get(self.base_url, timeout=30, verify=False)
             response.raise_for_status()
             soup = BeautifulSoup(response.text, 'html.parser')
             
@@ -80,7 +81,8 @@ class LiveTVScraper:
         """Scrapes a detail page for Acestream links."""
         logger.info(f"Fetching streams from {detail_url}")
         try:
-            response = self.session.get(detail_url, timeout=30)
+            # Disable SSL verification
+            response = self.session.get(detail_url, timeout=30, verify=False)
             response.raise_for_status()
             html = response.text
             soup = BeautifulSoup(html, 'html.parser')

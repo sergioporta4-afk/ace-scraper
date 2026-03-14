@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="22:30 (Brazil. Serie A)" group-title="Sports",22:30 (Brazil. Serie A) () - 
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="14 March at 22:30(Brazil. Serie A)" group-title="Sports",14 March at 22:30(Brazil. Serie A) () - 
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

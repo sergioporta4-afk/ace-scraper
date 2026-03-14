@@ -1,5 +1,6 @@
 import logging
 from scraper import LiveTVScraper
+import concurrent.futures
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -14,13 +15,17 @@ def generate_m3u(output_path="playlist.m3u"):
     
     m3u_content = ["#EXTM3U"]
     
-    for match in matches:
+    def fetch_match_streams(match):
+        streams = scraper.get_acestream_links(match['detail_url'])
+        return match, streams
+    
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+        results = executor.map(fetch_match_streams, matches)
+    
+    for match, streams in results:
         teams = match['teams']
         comp = match['competition']
         time_str = match['time']
-        
-        # We only want matches that actually have stream links
-        streams = scraper.get_acestream_links(match['detail_url'])
         
         for i, stream_url in enumerate(streams):
             # Extract ID from acestream://ID

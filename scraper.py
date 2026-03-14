@@ -4,6 +4,7 @@ import re
 import logging
 import time
 import urllib3
+from datetime import datetime, timedelta, timezone
 
 # Disable insecure request warnings
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -33,6 +34,44 @@ class LiveTVScraper:
         from urllib.parse import urlparse
         parsed = urlparse(url)
         return f"{parsed.scheme}://{parsed.netloc}"
+
+    def _parse_match_time(self, time_text):
+        """Parse match time string to a UTC datetime for today.
+        Handles formats: '22:30', '14 March at 22:30', '15 March at 0:30(Brazil...)'.
+        Returns a datetime (UTC) or None if unparseable."""
+        if not time_text:
+            return None
+        
+        now_utc = datetime.now(timezone.utc)
+        
+        # Extract HH:MM
+        time_match = re.search(r'(\d{1,2}):(\d{2})', time_text)
+        if not time_match:
+            return None
+        hour, minute = int(time_match.group(1)), int(time_match.group(2))
+        
+        # Extract date if present (e.g. "15 March")
+        date_match = re.search(
+            r'(\d{1,2})\s+(January|February|March|April|May|June|July|August|September|October|November|December)',
+            time_text, re.IGNORECASE
+        )
+        if date_match:
+            day = int(date_match.group(1))
+            month_str = date_match.group(2).capitalize()
+            month = datetime.strptime(month_str, '%B').month
+            year = now_utc.year
+            try:
+                dt = datetime(year, month, day, hour, minute, tzinfo=timezone.utc)
+                return dt
+            except ValueError:
+                pass
+        
+        # No date — assume it's today in UTC
+        try:
+            dt = now_utc.replace(hour=hour, minute=minute, second=0, microsecond=0)
+            return dt
+        except ValueError:
+            return None
 
     def clean_team_names(self, teams, competition):
         cleaned = teams
@@ -159,11 +198,31 @@ class LiveTVScraper:
                 if m['detail_url'] not in seen:
                     unique_matches.append(m)
                     seen.add(m['detail_url'])
-                    
-            logger.info(f"Found {len(unique_matches)} unique matches")
-            if len(unique_matches) == 0:
-                logger.debug(f"HTML snippet: {response.text[:1000]}")
-            return unique_matches
+            
+            # Time-window filter: only keep matches that are live or starting within 60 min
+            # Live = started up to 120 minutes ago
+            # Upcoming = starts within 60 minutes
+            now_utc = datetime.now(timezone.utc)
+            window_start = now_utc - timedelta(minutes=120)
+            window_end   = now_utc + timedelta(minutes=60)
+            
+            filtered_matches = []
+            no_time_matches = []
+            for m in unique_matches:
+                match_dt = self._parse_match_time(m['time'])
+                if match_dt is None:
+                    # Can't parse time → include anyway (better safe than sorry)
+                    no_time_matches.append(m)
+                elif window_start <= match_dt <= window_end:
+                    filtered_matches.append(m)
+                else:
+                    logger.debug(f"Skipping '{m['teams']}' at {m['time']} (outside window)")
+            
+            result = filtered_matches + no_time_matches
+            logger.info(f"Found {len(unique_matches)} unique matches, {len(result)} within time window (now ±120/60 min UTC)")
+            if len(result) == 0:
+                logger.debug(f"HTML snippet: {response.text[:500]}")
+            return result
             
         except Exception as e:
             logger.error(f"Error fetching matches: {e}")

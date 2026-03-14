@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 class LiveTVScraper:
-    def __init__(self, base_url="https://livetv.sx/enx/"):
+    def __init__(self, base_url="https://livetv.sx/enx/allupcomingsports/1/"):
         self.base_url = base_url
         self.session = requests.Session()
         self.session.verify = False

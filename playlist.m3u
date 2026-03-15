@@ -1,5 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="World Cup, Holmenkollen9:00 (Ski Jumping)" group-title="Sports",World Cup, Holmenkollen9:00 (Ski Jumping) (9:00 (Ski Jumping)) - 9:00
+#EXTINF:-1 tvg-name="Akron – Akhmat" group-title="Sports",Akron – Akhmat (12:00 (Russia. Premier League)) - 12:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
+#EXTINF:-1 tvg-name="Akron – Akhmat" group-title="Sports",Akron – Akhmat (12:00 (Russia. Premier League)) - 12:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Hellas Verona – Genoa" group-title="Sports",Hellas Verona – Genoa (12:30 (Italy. Serie A)) - 12:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Hellas Verona – Genoa" group-title="Sports",Hellas Verona – Genoa (12:30 (Italy. Serie A)) - 12:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Hellas Verona – Genoa" group-title="Sports",Hellas Verona – Genoa (12:30 (Italy. Serie A)) - 12:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
+#EXTINF:-1 tvg-name="Hellas Verona – Genoa" group-title="Sports",Hellas Verona – Genoa (12:30 (Italy. Serie A)) - 12:30 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="Hellas Verona – Genoa" group-title="Sports",Hellas Verona – Genoa (12:30 (Italy. Serie A)) - 12:30 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Hellas Verona – Genoa" group-title="Sports",Hellas Verona – Genoa (12:30 (Italy. Serie A)) - 12:30 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=d8adc12780ce2ec8a3f5afda63606382a480e85c
+#EXTINF:-1 tvg-name="World Cup, Otepaa12:20 (Biathlon)" group-title="Sports",World Cup, Otepaa12:20 (Biathlon) (12:20 (Biathlon)) - 12:20
 http://192.168.1.58:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
-#EXTINF:-1 tvg-name="World Cup, Are9:15 (Alpine Skiing)" group-title="Sports",World Cup, Are9:15 (Alpine Skiing) (9:15 (Alpine Skiing)) - 9:15
+#EXTINF:-1 tvg-name="World Cup, Are12:25 (Alpine Skiing)" group-title="Sports",World Cup, Are12:25 (Alpine Skiing) (12:25 (Alpine Skiing)) - 12:25
 http://192.168.1.58:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62

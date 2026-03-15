@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Fluminense – Athletico-PR" group-title="Sports",Fluminense – Athletico-PR (20:00 (Brazil. Serie A)) - 20:00
+#EXTINF:-1 tvg-name="Palmeiras – Mirassol" group-title="Sports",Palmeiras – Mirassol (22:30 (Brazil. Serie A)) - 22:30
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
 #EXTINF:-1 tvg-name="Lazio – Milan" group-title="Sports",Lazio – Milan (20:45 (Italy. Serie A)) - 20:45 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865

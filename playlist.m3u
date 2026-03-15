@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Botafogo-RJ – Flamengo-RJ:30" group-title="Sports",Botafogo-RJ – Flamengo-RJ:30 (0:30 (Brazil. Serie A)) - 0:30
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Sada Cruzeiro – Guarulhos" group-title="Sports",Sada Cruzeiro – Guarulhos (1:00 (Brazil. Superliga)) - 1:00
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="World Cup, Holmenkollen9:00 (Ski Jumping)" group-title="Sports",World Cup, Holmenkollen9:00 (Ski Jumping) (9:00 (Ski Jumping)) - 9:00
+http://192.168.1.58:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
+#EXTINF:-1 tvg-name="World Cup, Are9:15 (Alpine Skiing)" group-title="Sports",World Cup, Are9:15 (Alpine Skiing) (9:15 (Alpine Skiing)) - 9:15
+http://192.168.1.58:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62

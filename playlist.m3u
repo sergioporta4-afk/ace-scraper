@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Nizhnyi Novgorod – Krylia Sovetov" group-title="Sports",Nizhnyi Novgorod – Krylia Sovetov (14:30 (Russia. Premier League)) - 14:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Nizhnyi Novgorod – Krylia Sovetov" group-title="Sports",Nizhnyi Novgorod – Krylia Sovetov (14:30 (Russia. Premier League)) - 14:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Nizhnyi Novgorod – Krylia Sovetov" group-title="Sports",Nizhnyi Novgorod – Krylia Sovetov (14:30 (Russia. Premier League)) - 14:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
 #EXTINF:-1 tvg-name="Nottingham For – Fulham" group-title="Sports",Nottingham For – Fulham (15:00 (England. Premier League)) - 15:00
 http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 tvg-name="Mancher Utd – Aston Villa" group-title="Sports",Mancher Utd – Aston Villa (15:00 (England. Premier League)) - 15:00 - Link 1
@@ -31,9 +25,11 @@ http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f
 http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
 #EXTINF:-1 tvg-name="Sassuolo – Bologna" group-title="Sports",Sassuolo – Bologna (15:00 (Italy. Serie A)) - 15:00 - Link 4
 http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
-#EXTINF:-1 tvg-name="Pisa – Cagliari" group-title="Sports",Pisa – Cagliari (15:00 (Italy. Serie A)) - 15:00
+#EXTINF:-1 tvg-name="Pisa – Cagliari" group-title="Sports",Pisa – Cagliari (15:00 (Italy. Serie A)) - 15:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 tvg-name="Pisa – Cagliari" group-title="Sports",Pisa – Cagliari (15:00 (Italy. Serie A)) - 15:00 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
 #EXTINF:-1 tvg-name="German Championship14:00 (Germany. Bundesliga)" group-title="Sports",German Championship14:00 (Germany. Bundesliga) (14:00 (Germany. Bundesliga)) - 14:00
 http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
-#EXTINF:-1 tvg-name="World Cup, Otepaa14:30 (Biathlon)" group-title="Sports",World Cup, Otepaa14:30 (Biathlon) (14:30 (Biathlon)) - 14:30
+#EXTINF:-1 tvg-name="World Cup, Holmenkollen16:00 (Ski Jumping)" group-title="Sports",World Cup, Holmenkollen16:00 (Ski Jumping) (16:00 (Ski Jumping)) - 16:00
 http://192.168.1.58:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62

@@ -1,21 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Akron – Akhmat" group-title="Sports",Akron – Akhmat (12:00 (Russia. Premier League)) - 12:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-#EXTINF:-1 tvg-name="Akron – Akhmat" group-title="Sports",Akron – Akhmat (12:00 (Russia. Premier League)) - 12:00 - Link 2
+#EXTINF:-1 tvg-name="Nizhnyi Novgorod – Krylia Sovetov" group-title="Sports",Nizhnyi Novgorod – Krylia Sovetov (14:30 (Russia. Premier League)) - 14:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Nizhnyi Novgorod – Krylia Sovetov" group-title="Sports",Nizhnyi Novgorod – Krylia Sovetov (14:30 (Russia. Premier League)) - 14:30 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Hellas Verona – Genoa" group-title="Sports",Hellas Verona – Genoa (12:30 (Italy. Serie A)) - 12:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Hellas Verona – Genoa" group-title="Sports",Hellas Verona – Genoa (12:30 (Italy. Serie A)) - 12:30 - Link 2
+#EXTINF:-1 tvg-name="Nizhnyi Novgorod – Krylia Sovetov" group-title="Sports",Nizhnyi Novgorod – Krylia Sovetov (14:30 (Russia. Premier League)) - 14:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
+#EXTINF:-1 tvg-name="Nottingham For – Fulham" group-title="Sports",Nottingham For – Fulham (15:00 (England. Premier League)) - 15:00
+http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-name="Mancher Utd – Aston Villa" group-title="Sports",Mancher Utd – Aston Villa (15:00 (England. Premier League)) - 15:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 tvg-name="Mancher Utd – Aston Villa" group-title="Sports",Mancher Utd – Aston Villa (15:00 (England. Premier League)) - 15:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="Mancher Utd – Aston Villa" group-title="Sports",Mancher Utd – Aston Villa (15:00 (England. Premier League)) - 15:00 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Hellas Verona – Genoa" group-title="Sports",Hellas Verona – Genoa (12:30 (Italy. Serie A)) - 12:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
-#EXTINF:-1 tvg-name="Hellas Verona – Genoa" group-title="Sports",Hellas Verona – Genoa (12:30 (Italy. Serie A)) - 12:30 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-name="Hellas Verona – Genoa" group-title="Sports",Hellas Verona – Genoa (12:30 (Italy. Serie A)) - 12:30 - Link 5
+#EXTINF:-1 tvg-name="Mancher Utd – Aston Villa" group-title="Sports",Mancher Utd – Aston Villa (15:00 (England. Premier League)) - 15:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 tvg-name="Mancher Utd – Aston Villa" group-title="Sports",Mancher Utd – Aston Villa (15:00 (England. Premier League)) - 15:00 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 tvg-name="Mancher Utd – Aston Villa" group-title="Sports",Mancher Utd – Aston Villa (15:00 (England. Premier League)) - 15:00 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="Mancher Utd – Aston Villa" group-title="Sports",Mancher Utd – Aston Villa (15:00 (England. Premier League)) - 15:00 - Link 7
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Crystal Palace – Leeds Utd" group-title="Sports",Crystal Palace – Leeds Utd (15:00 (England. Premier League)) - 15:00
+http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="Sassuolo – Bologna" group-title="Sports",Sassuolo – Bologna (15:00 (Italy. Serie A)) - 15:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=0891665b3d5b40b58129a021314286b96e1910c6
+#EXTINF:-1 tvg-name="Sassuolo – Bologna" group-title="Sports",Sassuolo – Bologna (15:00 (Italy. Serie A)) - 15:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Sassuolo – Bologna" group-title="Sports",Sassuolo – Bologna (15:00 (Italy. Serie A)) - 15:00 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Hellas Verona – Genoa" group-title="Sports",Hellas Verona – Genoa (12:30 (Italy. Serie A)) - 12:30 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=d8adc12780ce2ec8a3f5afda63606382a480e85c
-#EXTINF:-1 tvg-name="World Cup, Otepaa12:20 (Biathlon)" group-title="Sports",World Cup, Otepaa12:20 (Biathlon) (12:20 (Biathlon)) - 12:20
-http://192.168.1.58:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
-#EXTINF:-1 tvg-name="World Cup, Are12:25 (Alpine Skiing)" group-title="Sports",World Cup, Are12:25 (Alpine Skiing) (12:25 (Alpine Skiing)) - 12:25
+#EXTINF:-1 tvg-name="Sassuolo – Bologna" group-title="Sports",Sassuolo – Bologna (15:00 (Italy. Serie A)) - 15:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1 tvg-name="Pisa – Cagliari" group-title="Sports",Pisa – Cagliari (15:00 (Italy. Serie A)) - 15:00
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="German Championship14:00 (Germany. Bundesliga)" group-title="Sports",German Championship14:00 (Germany. Bundesliga) (14:00 (Germany. Bundesliga)) - 14:00
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="World Cup, Otepaa14:30 (Biathlon)" group-title="Sports",World Cup, Otepaa14:30 (Biathlon) (14:30 (Biathlon)) - 14:30
 http://192.168.1.58:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62

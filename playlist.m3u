@@ -1,3 +1,19 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Cremonese – Fiorentina" group-title="Sports",Cremonese – Fiorentina (20:45 (Italy. Serie A)) - 20:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Cremonese – Fiorentina" group-title="Sports",Cremonese – Fiorentina (20:45 (Italy. Serie A)) - 20:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Cremonese – Fiorentina" group-title="Sports",Cremonese – Fiorentina (20:45 (Italy. Serie A)) - 20:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Cremonese – Fiorentina" group-title="Sports",Cremonese – Fiorentina (20:45 (Italy. Serie A)) - 20:45 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=d8adc12780ce2ec8a3f5afda63606382a480e85c
+#EXTINF:-1 tvg-name="Cremonese – Fiorentina" group-title="Sports",Cremonese – Fiorentina (20:45 (Italy. Serie A)) - 20:45 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1 tvg-name="Brentford – Wolverhampton" group-title="Sports",Brentford – Wolverhampton (21:00 (England. Premier League)) - 21:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Brentford – Wolverhampton" group-title="Sports",Brentford – Wolverhampton (21:00 (England. Premier League)) - 21:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Brentford – Wolverhampton" group-title="Sports",Brentford – Wolverhampton (21:00 (England. Premier League)) - 21:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 tvg-name="German Championship19:00 (Germany. Bundesliga)" group-title="Sports",German Championship19:00 (Germany. Bundesliga) (19:00 (Germany. Bundesliga)) - 19:00
 http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b

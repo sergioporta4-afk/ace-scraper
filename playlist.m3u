@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Chapecoense – Gremio-RS" group-title="Sports",Chapecoense – Gremio-RS (17 March at 0:00(Brazil. Serie A)) - 0:00
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Cuprum – Kedzierzyn-Kozle" group-title="Sports",Cuprum – Kedzierzyn-Kozle (17:30 (Poland. PlusLiga)) - 17:30
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-name="Sporting – Bodoe/Glimt" group-title="Sports",Sporting – Bodoe/Glimt (18:45 (Champions League)) - 18:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-name="Sporting – Bodoe/Glimt" group-title="Sports",Sporting – Bodoe/Glimt (18:45 (Champions League)) - 18:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
+#EXTINF:-1 tvg-name="Sporting – Bodoe/Glimt" group-title="Sports",Sporting – Bodoe/Glimt (18:45 (Champions League)) - 18:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
+#EXTINF:-1 tvg-name="Sporting – Bodoe/Glimt" group-title="Sports",Sporting – Bodoe/Glimt (18:45 (Champions League)) - 18:45 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="Sporting – Bodoe/Glimt" group-title="Sports",Sporting – Bodoe/Glimt (18:45 (Champions League)) - 18:45 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 tvg-name="German Championship19:00 (Germany. Bundesliga)" group-title="Sports",German Championship19:00 (Germany. Bundesliga) (19:00 (Germany. Bundesliga)) - 19:00
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b

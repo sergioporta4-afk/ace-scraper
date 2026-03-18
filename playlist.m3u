@@ -1,17 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Braga – Ferencvaros" group-title="Sports",Braga – Ferencvaros (16:30 (Europa League)) - 16:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=04ca5cbc7308bbbd059c50290e7cb9c15514efc9
-#EXTINF:-1 tvg-name="Braga – Ferencvaros" group-title="Sports",Braga – Ferencvaros (16:30 (Europa League)) - 16:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=0c0c60d2b202a0c52132af17a7a5852b9a1db85b
-#EXTINF:-1 tvg-name="Braga – Ferencvaros" group-title="Sports",Braga – Ferencvaros (16:30 (Europa League)) - 16:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
-#EXTINF:-1 tvg-name="Braga – Ferencvaros" group-title="Sports",Braga – Ferencvaros (16:30 (Europa League)) - 16:30 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-name="Braga – Ferencvaros" group-title="Sports",Braga – Ferencvaros (16:30 (Europa League)) - 16:30 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=43ac1bcbf20633ad0761ab441e383016c4f14a46
-#EXTINF:-1 tvg-name="Braga – Ferencvaros" group-title="Sports",Braga – Ferencvaros (16:30 (Europa League)) - 16:30 - Link 6
+#EXTINF:-1 tvg-name="Barcelona – Newcastle United" group-title="Sports",Barcelona – Newcastle United (18:45 (Champions League)) - 18:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=01a65083f003c8c7b018505faf5064c1d0e5246b
+#EXTINF:-1 tvg-name="Barcelona – Newcastle United" group-title="Sports",Barcelona – Newcastle United (18:45 (Champions League)) - 18:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=286fa53c42215de0dd1651355db54442e106eb01
+#EXTINF:-1 tvg-name="Barcelona – Newcastle United" group-title="Sports",Barcelona – Newcastle United (18:45 (Champions League)) - 18:45 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=4a533eb10595e25eb0bbe1d1615505dd15763e47
-#EXTINF:-1 tvg-name="Braga – Ferencvaros" group-title="Sports",Braga – Ferencvaros (16:30 (Europa League)) - 16:30 - Link 7
+#EXTINF:-1 tvg-name="Barcelona – Newcastle United" group-title="Sports",Barcelona – Newcastle United (18:45 (Champions League)) - 18:45 - Link 4
 http://192.168.1.58:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
-#EXTINF:-1 tvg-name="Braga – Ferencvaros" group-title="Sports",Braga – Ferencvaros (16:30 (Europa League)) - 16:30 - Link 8
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="Barcelona – Newcastle United" group-title="Sports",Barcelona – Newcastle United (18:45 (Champions League)) - 18:45 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=848b6bfe9b18b7884c9007e773586466f8b2c3ca
+#EXTINF:-1 tvg-name="Barcelona – Newcastle United" group-title="Sports",Barcelona – Newcastle United (18:45 (Champions League)) - 18:45 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="Barcelona – Newcastle United" group-title="Sports",Barcelona – Newcastle United (18:45 (Champions League)) - 18:45 - Link 7
+http://192.168.1.58:6878/ace/getstream?id=951ac24d390c0f94bb0e4cc672a36aea2c8f32c3
+#EXTINF:-1 tvg-name="Barcelona – Newcastle United" group-title="Sports",Barcelona – Newcastle United (18:45 (Champions League)) - 18:45 - Link 8
+http://192.168.1.58:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
+#EXTINF:-1 tvg-name="Barcelona – Newcastle United" group-title="Sports",Barcelona – Newcastle United (18:45 (Champions League)) - 18:45 - Link 9
+http://192.168.1.58:6878/ace/getstream?id=c8d11809772dc9a902d4ebc70bed3c9451f740d4
+#EXTINF:-1 tvg-name="Barcelona – Newcastle United" group-title="Sports",Barcelona – Newcastle United (18:45 (Champions League)) - 18:45 - Link 10
+http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-name="Barcelona – Newcastle United" group-title="Sports",Barcelona – Newcastle United (18:45 (Champions League)) - 18:45 - Link 11
+http://192.168.1.58:6878/ace/getstream?id=fa968fa59de3a550e0a51f1aa5bdf8dbec6e1062
+#EXTINF:-1 tvg-name="German Championship19:00 (Germany. Bundesliga)" group-title="Sports",German Championship19:00 (Germany. Bundesliga) (19:00 (Germany. Bundesliga)) - 19:00
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Rzeszow – Eczacibasi" group-title="Sports",Rzeszow – Eczacibasi (20:30 (Women. Champions League)) - 20:30
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-name="Conegliano – Zeren Spor" group-title="Sports",Conegliano – Zeren Spor (20:30 (Women. Champions League)) - 20:30
+http://192.168.1.58:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c

@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Midtjylland – Nottingham For" group-title="Sports",Midtjylland – Nottingham For (18:45 (Europa League)) - 18:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
-#EXTINF:-1 tvg-name="Midtjylland – Nottingham For" group-title="Sports",Midtjylland – Nottingham For (18:45 (Europa League)) - 18:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-name="Aston Villa – Lille" group-title="Sports",Aston Villa – Lille (21:00 (Europa League)) - 21:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 #EXTINF:-1 tvg-name="Aston Villa – Lille" group-title="Sports",Aston Villa – Lille (21:00 (Europa League)) - 21:00 - Link 2
@@ -11,11 +7,11 @@ http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c
 http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
 #EXTINF:-1 tvg-name="Real Betis – Panathinaikos" group-title="Sports",Real Betis – Panathinaikos (21:00 (Europa League)) - 21:00 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-name="Roma – Bologna" group-title="Sports",Roma – Bologna (21:00 (Europa League)) - 21:00
+#EXTINF:-1 tvg-name="Roma – Bologna" group-title="Sports",Roma – Bologna (21:00 (Europa League)) - 21:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
-#EXTINF:-1 tvg-name="Porto – Stuttgart" group-title="Sports",Porto – Stuttgart (21:00 (Europa League)) - 21:00
-http://192.168.1.58:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-name="Resovia Rzeszow – Jastrzebski Wegiel" group-title="Sports",Resovia Rzeszow – Jastrzebski Wegiel (20:00 (Poland. PlusLiga)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 tvg-name="Roma – Bologna" group-title="Sports",Roma – Bologna (21:00 (Europa League)) - 21:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-name="Premier League, Dublin20:00 (PDC)" group-title="Sports",Premier League, Dublin20:00 (PDC) (20:00 (PDC)) - 20:00
 http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Mackenzie – Maringa" group-title="Sports",Mackenzie – Maringa (22:30 (Brazil. Women. Superliga)) - 22:30
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b

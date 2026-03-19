@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Palmeiras – Botafogo-RJ" group-title="Sports",Palmeiras – Botafogo-RJ (23:00 (Brazil. Serie A)) - 23:00
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Praia Clube – Sada Cruzeiro" group-title="Sports",Praia Clube – Sada Cruzeiro (23:00 (Brazil. Superliga)) - 23:00
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Fenerbahce – Scandicci" group-title="Sports",Fenerbahce – Scandicci (15:00 (Women. Champions League)) - 15:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
+#EXTINF:-1 tvg-name="Fenerbahce – Scandicci" group-title="Sports",Fenerbahce – Scandicci (15:00 (Women. Champions League)) - 15:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee

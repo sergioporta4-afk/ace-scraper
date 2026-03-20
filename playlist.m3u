@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Gremio-RS – Vitoria-BA" group-title="Sports",Gremio-RS – Vitoria-BA (23:00 (Brazil. Serie A)) - 23:00
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="World Cup, Lake Placid18:00 (Cross-Country Skiing)" group-title="Sports",World Cup, Lake Placid18:00 (Cross-Country Skiing) (18:00 (Cross-Country Skiing)) - 18:00
+http://192.168.1.58:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-name="Shveriner – Aachen" group-title="Sports",Shveriner – Aachen (18:00 (Germany. Women. Bundesliga)) - 18:00
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b

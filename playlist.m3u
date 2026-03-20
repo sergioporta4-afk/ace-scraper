@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="World Cup, Lake Placid18:00 (Cross-Country Skiing)" group-title="Sports",World Cup, Lake Placid18:00 (Cross-Country Skiing) (18:00 (Cross-Country Skiing)) - 18:00
+#EXTINF:-1 tvg-name="Cagliari – Napoli" group-title="Sports",Cagliari – Napoli (18:30 (Italy. Serie A)) - 18:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Cagliari – Napoli" group-title="Sports",Cagliari – Napoli (18:30 (Italy. Serie A)) - 18:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Cagliari – Napoli" group-title="Sports",Cagliari – Napoli (18:30 (Italy. Serie A)) - 18:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Cagliari – Napoli" group-title="Sports",Cagliari – Napoli (18:30 (Italy. Serie A)) - 18:30 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="World Cup, Lake Placid20:00 (Cross-Country Skiing)" group-title="Sports",World Cup, Lake Placid20:00 (Cross-Country Skiing) (20:00 (Cross-Country Skiing)) - 20:00
 http://192.168.1.58:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 tvg-name="Shveriner – Aachen" group-title="Sports",Shveriner – Aachen (18:00 (Germany. Women. Bundesliga)) - 18:00
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b

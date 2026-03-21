@@ -1,13 +1,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="RB Bragantino – Botafogo-RJ" group-title="Sports",RB Bragantino – Botafogo-RJ (20:00 (Brazil. Serie A)) - 20:00
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Juventus – Sassuolo" group-title="Sports",Juventus – Sassuolo (20:45 (Italy. Serie A)) - 20:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Juventus – Sassuolo" group-title="Sports",Juventus – Sassuolo (20:45 (Italy. Serie A)) - 20:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="Juventus – Sassuolo" group-title="Sports",Juventus – Sassuolo (20:45 (Italy. Serie A)) - 20:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Juventus – Sassuolo" group-title="Sports",Juventus – Sassuolo (20:45 (Italy. Serie A)) - 20:45 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Juventus – Sassuolo" group-title="Sports",Juventus – Sassuolo (20:45 (Italy. Serie A)) - 20:45 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-name="Juventus – Sassuolo" group-title="Sports",Juventus – Sassuolo (20:45 (Italy. Serie A)) - 20:45 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=d8adc12780ce2ec8a3f5afda63606382a480e85c
+#EXTINF:-1 tvg-name="Leeds Utd – Brentford" group-title="Sports",Leeds Utd – Brentford (21:00 (England. Premier League)) - 21:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="Leeds Utd – Brentford" group-title="Sports",Leeds Utd – Brentford (21:00 (England. Premier League)) - 21:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 tvg-name="Leeds Utd – Brentford" group-title="Sports",Leeds Utd – Brentford (21:00 (England. Premier League)) - 21:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Leeds Utd – Brentford" group-title="Sports",Leeds Utd – Brentford (21:00 (England. Premier League)) - 21:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-name="Nice – PSG" group-title="Sports",Nice – PSG (21:05 (France. Ligue 1)) - 21:05 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="Nice – PSG" group-title="Sports",Nice – PSG (21:05 (France. Ligue 1)) - 21:05 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
+#EXTINF:-1 tvg-name="Nice – PSG" group-title="Sports",Nice – PSG (21:05 (France. Ligue 1)) - 21:05 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
 #EXTINF:-1 tvg-name="LKPS Lublin – Norwid Czochowa" group-title="Sports",LKPS Lublin – Norwid Czochowa (20:00 (Poland. PlusLiga)) - 20:00
 http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-name="Baltika – Sochi" group-title="Sports",Baltika – Sochi (18:30 (Russia. Premier League)) - 18:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Baltika – Sochi" group-title="Sports",Baltika – Sochi (18:30 (Russia. Premier League)) - 18:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-#EXTINF:-1 tvg-name="Baltika – Sochi" group-title="Sports",Baltika – Sochi (18:30 (Russia. Premier League)) - 18:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Baltika – Sochi" group-title="Sports",Baltika – Sochi (18:30 (Russia. Premier League)) - 18:30 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f

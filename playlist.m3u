@@ -1,9 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Akhmat – Rostov" group-title="Sports",Akhmat – Rostov (11:45 (Russia. Premier League)) - 11:45 - Link 1
+#EXTINF:-1 tvg-name="Brighton – rpool" group-title="Sports",Brighton – rpool (13:45 (England. Premier League)) - 13:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 tvg-name="Brighton – rpool" group-title="Sports",Brighton – rpool (13:45 (England. Premier League)) - 13:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="Brighton – rpool" group-title="Sports",Brighton – rpool (13:45 (England. Premier League)) - 13:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Brighton – rpool" group-title="Sports",Brighton – rpool (13:45 (England. Premier League)) - 13:45 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
+#EXTINF:-1 tvg-name="Brighton – rpool" group-title="Sports",Brighton – rpool (13:45 (England. Premier League)) - 13:45 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 tvg-name="Brighton – rpool" group-title="Sports",Brighton – rpool (13:45 (England. Premier League)) - 13:45 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="CSKA – Dynamo Makhachkala" group-title="Sports",CSKA – Dynamo Makhachkala (14:00 (Russia. Premier League)) - 14:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Akhmat – Rostov" group-title="Sports",Akhmat – Rostov (11:45 (Russia. Premier League)) - 11:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-#EXTINF:-1 tvg-name="Akhmat – Rostov" group-title="Sports",Akhmat – Rostov (11:45 (Russia. Premier League)) - 11:45 - Link 3
+#EXTINF:-1 tvg-name="CSKA – Dynamo Makhachkala" group-title="Sports",CSKA – Dynamo Makhachkala (14:00 (Russia. Premier League)) - 14:00 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Akhmat – Rostov" group-title="Sports",Akhmat – Rostov (11:45 (Russia. Premier League)) - 11:45 - Link 4
+#EXTINF:-1 tvg-name="CSKA – Dynamo Makhachkala" group-title="Sports",CSKA – Dynamo Makhachkala (14:00 (Russia. Premier League)) - 14:00 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
+#EXTINF:-1 tvg-name="Warta Zawiercie – Kedzierzyn-Kozle" group-title="Sports",Warta Zawiercie – Kedzierzyn-Kozle (14:45 (Poland. PlusLiga)) - 14:45
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-name="Odra Opole – Wisla Krakow" group-title="Sports",Odra Opole – Wisla Krakow (14:00 (Poland. I Liga)) - 14:00
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="Slavia Mazyr – Dinamo Minsk" group-title="Sports",Slavia Mazyr – Dinamo Minsk (14:10 (Belarus. Vysheyshaya Liga)) - 14:10
+http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f

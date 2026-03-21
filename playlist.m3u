@@ -27,5 +27,3 @@ http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351
 http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
 #EXTINF:-1 tvg-name="Nice – PSG" group-title="Sports",Nice – PSG (21:05 (France. Ligue 1)) - 21:05 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
-#EXTINF:-1 tvg-name="LKPS Lublin – Norwid Czochowa" group-title="Sports",LKPS Lublin – Norwid Czochowa (20:00 (Poland. PlusLiga)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee

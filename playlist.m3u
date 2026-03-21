@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Leeds Utd – Brentford" group-title="Sports",Leeds Utd – Brentford (21:00 (England. Premier League)) - 21:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-name="Leeds Utd – Brentford" group-title="Sports",Leeds Utd – Brentford (21:00 (England. Premier League)) - 21:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-name="Leeds Utd – Brentford" group-title="Sports",Leeds Utd – Brentford (21:00 (England. Premier League)) - 21:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-name="Leeds Utd – Brentford" group-title="Sports",Leeds Utd – Brentford (21:00 (England. Premier League)) - 21:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 tvg-name="Nice – PSG" group-title="Sports",Nice – PSG (21:05 (France. Ligue 1)) - 21:05 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Nice – PSG" group-title="Sports",Nice – PSG (21:05 (France. Ligue 1)) - 21:05 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
-#EXTINF:-1 tvg-name="Nice – PSG" group-title="Sports",Nice – PSG (21:05 (France. Ligue 1)) - 21:05 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
 #EXTINF:-1 tvg-name="Fluminense – Atletico-MG" group-title="Sports",Fluminense – Atletico-MG (22:30 (Brazil. Serie A)) - 22:30
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
 #EXTINF:-1 tvg-name="Guarulhos – SESI Bauru" group-title="Sports",Guarulhos – SESI Bauru (22:30 (Brazil. Superliga)) - 22:30

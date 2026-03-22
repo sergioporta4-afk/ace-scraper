@@ -1,5 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Fluminense – Atletico-MG" group-title="Sports",Fluminense – Atletico-MG (22:30 (Brazil. Serie A)) - 22:30
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Guarulhos – SESI Bauru" group-title="Sports",Guarulhos – SESI Bauru (22:30 (Brazil. Superliga)) - 22:30
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Orenburg – Spartak M" group-title="Sports",Orenburg – Spartak M (11:45 (Russia. Premier League)) - 11:45
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Como – Pisa" group-title="Sports",Como – Pisa (12:30 (Italy. Serie A)) - 12:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="Como – Pisa" group-title="Sports",Como – Pisa (12:30 (Italy. Serie A)) - 12:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="Como – Pisa" group-title="Sports",Como – Pisa (12:30 (Italy. Serie A)) - 12:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Como – Pisa" group-title="Sports",Como – Pisa (12:30 (Italy. Serie A)) - 12:30 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=d8adc12780ce2ec8a3f5afda63606382a480e85c
+#EXTINF:-1 tvg-name="Como – Pisa" group-title="Sports",Como – Pisa (12:30 (Italy. Serie A)) - 12:30 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1 tvg-name="World Cup, Kvitfjell12:00 (Alpine Skiing)" group-title="Sports",World Cup, Kvitfjell12:00 (Alpine Skiing) (12:00 (Alpine Skiing)) - 12:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-name="World Cup, Kvitfjell12:00 (Alpine Skiing)" group-title="Sports",World Cup, Kvitfjell12:00 (Alpine Skiing) (12:00 (Alpine Skiing)) - 12:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b

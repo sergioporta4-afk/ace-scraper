@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Athletico-PR – Coritiba" group-title="Sports",Athletico-PR – Coritiba (20:00 (Brazil. Serie A)) - 20:00
+#EXTINF:-1 tvg-name="Inter-RS – Chapecoense" group-title="Sports",Inter-RS – Chapecoense (22:30 (Brazil. Serie A)) - 22:30
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Skra Belchatow – Cuprum Gorzow" group-title="Sports",Skra Belchatow – Cuprum Gorzow (20:00 (Poland. PlusLiga)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-name="Fiorentina – Inter" group-title="Sports",Fiorentina – Inter (20:45 (Italy. Serie A)) - 20:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Fiorentina – Inter" group-title="Sports",Fiorentina – Inter (20:45 (Italy. Serie A)) - 20:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
-#EXTINF:-1 tvg-name="Fiorentina – Inter" group-title="Sports",Fiorentina – Inter (20:45 (Italy. Serie A)) - 20:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Nantes – Strasbourg" group-title="Sports",Nantes – Strasbourg (20:45 (France. Ligue 1)) - 20:45
-http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea

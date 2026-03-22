@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Aston Villa – W Ham United" group-title="Sports",Aston Villa – W Ham United (15:15 (England. Premier League)) - 15:15 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Aston Villa – W Ham United" group-title="Sports",Aston Villa – W Ham United (15:15 (England. Premier League)) - 15:15 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-name="Aston Villa – W Ham United" group-title="Sports",Aston Villa – W Ham United (15:15 (England. Premier League)) - 15:15 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 tvg-name="Tottenham – Nottingham For" group-title="Sports",Tottenham – Nottingham For (15:15 (England. Premier League)) - 15:15 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
-#EXTINF:-1 tvg-name="Tottenham – Nottingham For" group-title="Sports",Tottenham – Nottingham For (15:15 (England. Premier League)) - 15:15 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
-#EXTINF:-1 tvg-name="Tottenham – Nottingham For" group-title="Sports",Tottenham – Nottingham For (15:15 (England. Premier League)) - 15:15 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-name="World Cup, Holmenkollen16:15 (Biathlon)" group-title="Sports",World Cup, Holmenkollen16:15 (Biathlon) (16:15 (Biathlon)) - 16:15
+#EXTINF:-1 tvg-name="Roma – Lecce" group-title="Sports",Roma – Lecce (18:00 (Italy. Serie A)) - 18:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Roma – Lecce" group-title="Sports",Roma – Lecce (18:00 (Italy. Serie A)) - 18:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Roma – Lecce" group-title="Sports",Roma – Lecce (18:00 (Italy. Serie A)) - 18:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1 tvg-name="Lokomotiv M – Akron" group-title="Sports",Lokomotiv M – Akron (17:00 (Russia. Premier League)) - 17:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Lokomotiv M – Akron" group-title="Sports",Lokomotiv M – Akron (17:00 (Russia. Premier League)) - 17:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="World Cup, Vikersund17:15 (Ski Jumping)" group-title="Sports",World Cup, Vikersund17:15 (Ski Jumping) (17:15 (Ski Jumping)) - 17:15
 http://192.168.1.58:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-name="Resovia Rzeszow – Slepsk Suwalki" group-title="Sports",Resovia Rzeszow – Slepsk Suwalki (17:30 (Poland. PlusLiga)) - 17:30
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee

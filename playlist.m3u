@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Krylia Sovetov – Rubin" group-title="Sports",Krylia Sovetov – Rubin (14:30 (Russia. Premier League)) - 14:30
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1 tvg-name="Jastrzebski Wegiel – Olsztyn" group-title="Sports",Jastrzebski Wegiel – Olsztyn (14:45 (Poland. PlusLiga)) - 14:45
 http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 #EXTINF:-1 tvg-name="Bologna – Lazio" group-title="Sports",Bologna – Lazio (15:00 (Italy. Serie A)) - 15:00 - Link 1
@@ -9,23 +11,23 @@ http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0
 http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
 #EXTINF:-1 tvg-name="Atalanta – Hellas Verona" group-title="Sports",Atalanta – Hellas Verona (15:00 (Italy. Serie A)) - 15:00
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Newcastle United – Sunderland" group-title="Sports",Newcastle United – Sunderland (13:00 (England. Premier League)) - 13:00 - Link 1
+#EXTINF:-1 tvg-name="Aston Villa – W Ham United" group-title="Sports",Aston Villa – W Ham United (15:15 (England. Premier League)) - 15:15 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Newcastle United – Sunderland" group-title="Sports",Newcastle United – Sunderland (13:00 (England. Premier League)) - 13:00 - Link 2
+#EXTINF:-1 tvg-name="Aston Villa – W Ham United" group-title="Sports",Aston Villa – W Ham United (15:15 (England. Premier League)) - 15:15 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-name="Newcastle United – Sunderland" group-title="Sports",Newcastle United – Sunderland (13:00 (England. Premier League)) - 13:00 - Link 3
+#EXTINF:-1 tvg-name="Aston Villa – W Ham United" group-title="Sports",Aston Villa – W Ham United (15:15 (England. Premier League)) - 15:15 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 tvg-name="Dundee United – Celtic" group-title="Sports",Dundee United – Celtic (13:30 (Scotland. Premiership)) - 13:30
-http://192.168.1.58:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-name="Tottenham – Nottingham For" group-title="Sports",Tottenham – Nottingham For (15:15 (England. Premier League)) - 15:15 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 tvg-name="Tottenham – Nottingham For" group-title="Sports",Tottenham – Nottingham For (15:15 (England. Premier League)) - 15:15 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
+#EXTINF:-1 tvg-name="Tottenham – Nottingham For" group-title="Sports",Tottenham – Nottingham For (15:15 (England. Premier League)) - 15:15 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-name="Leicer Tigers – Bristol Bears" group-title="Sports",Leicer Tigers – Bristol Bears (16:00 (England. Premiership)) - 16:00
+http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-name="Dynamo M – Zenit" group-title="Sports",Dynamo M – Zenit (14:00 (Russia. Premier League)) - 14:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
 #EXTINF:-1 tvg-name="Dynamo M – Zenit" group-title="Sports",Dynamo M – Zenit (14:00 (Russia. Premier League)) - 14:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Dynamo M – Zenit" group-title="Sports",Dynamo M – Zenit (14:00 (Russia. Premier League)) - 14:00 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="World Cup, Holmenkollen14:00 (Biathlon)" group-title="Sports",World Cup, Holmenkollen14:00 (Biathlon) (14:00 (Biathlon)) - 14:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
-#EXTINF:-1 tvg-name="World Cup, Holmenkollen14:00 (Biathlon)" group-title="Sports",World Cup, Holmenkollen14:00 (Biathlon) (14:00 (Biathlon)) - 14:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-name="Skierniewice – Podhale" group-title="Sports",Skierniewice – Podhale (14:45 (Poland. II Liga)) - 14:45
 http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867

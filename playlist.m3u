@@ -1,15 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Roma – Lecce" group-title="Sports",Roma – Lecce (18:00 (Italy. Serie A)) - 18:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Roma – Lecce" group-title="Sports",Roma – Lecce (18:00 (Italy. Serie A)) - 18:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Roma – Lecce" group-title="Sports",Roma – Lecce (18:00 (Italy. Serie A)) - 18:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
-#EXTINF:-1 tvg-name="Lokomotiv M – Akron" group-title="Sports",Lokomotiv M – Akron (17:00 (Russia. Premier League)) - 17:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Lokomotiv M – Akron" group-title="Sports",Lokomotiv M – Akron (17:00 (Russia. Premier League)) - 17:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="World Cup, Vikersund17:15 (Ski Jumping)" group-title="Sports",World Cup, Vikersund17:15 (Ski Jumping) (17:15 (Ski Jumping)) - 17:15
-http://192.168.1.58:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 tvg-name="Resovia Rzeszow – Slepsk Suwalki" group-title="Sports",Resovia Rzeszow – Slepsk Suwalki (17:30 (Poland. PlusLiga)) - 17:30
+#EXTINF:-1 tvg-name="Athletico-PR – Coritiba" group-title="Sports",Athletico-PR – Coritiba (20:00 (Brazil. Serie A)) - 20:00
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Skra Belchatow – Cuprum Gorzow" group-title="Sports",Skra Belchatow – Cuprum Gorzow (20:00 (Poland. PlusLiga)) - 20:00
 http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee

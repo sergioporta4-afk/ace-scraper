@@ -1,25 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Champions League20:00 (Russian Pyramid)" group-title="Sports",Champions League20:00 (Russian Pyramid) (20:00 (Russian Pyramid)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
-#EXTINF:-1 tvg-name="Czech Republic CZE – Ireland IRL" group-title="Sports",Czech Republic CZE – Ireland IRL (26 March at 20:45(World Cup Qualification. Europe)) - 20:45 - Link 1
+#EXTINF:-1 tvg-name="Poland POL – Albania ALB" group-title="Sports",Poland POL – Albania ALB (26 March at 20:45(World Cup Qualification. Europe)) - 20:45 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
-#EXTINF:-1 tvg-name="Czech Republic CZE – Ireland IRL" group-title="Sports",Czech Republic CZE – Ireland IRL (26 March at 20:45(World Cup Qualification. Europe)) - 20:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-name="Czech Republic CZE – Ireland IRL" group-title="Sports",Czech Republic CZE – Ireland IRL (26 March at 20:45(World Cup Qualification. Europe)) - 20:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
-#EXTINF:-1 tvg-name="Poland POL – Albania ALB" group-title="Sports",Poland POL – Albania ALB (26 March at 20:45(World Cup Qualification. Europe)) - 20:45
+#EXTINF:-1 tvg-name="Poland POL – Albania ALB" group-title="Sports",Poland POL – Albania ALB (26 March at 20:45(World Cup Qualification. Europe)) - 20:45 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 tvg-name="Wales WAL – Bosnia and Herzegovina BIH" group-title="Sports",Wales WAL – Bosnia and Herzegovina BIH (26 March at 20:45(World Cup Qualification. Europe)) - 20:45
+#EXTINF:-1 tvg-name="Wales WAL – Bosnia and Herzegovina BIH" group-title="Sports",Wales WAL – Bosnia and Herzegovina BIH (26 March at 20:45(World Cup Qualification. Europe)) - 20:45 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
-#EXTINF:-1 tvg-name="Denmark DEN – North Macedonia MKD" group-title="Sports",Denmark DEN – North Macedonia MKD (26 March at 20:45(World Cup Qualification. Europe)) - 20:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
-#EXTINF:-1 tvg-name="Denmark DEN – North Macedonia MKD" group-title="Sports",Denmark DEN – North Macedonia MKD (26 March at 20:45(World Cup Qualification. Europe)) - 20:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
-#EXTINF:-1 tvg-name="Ukraine UKR – Sweden SWE" group-title="Sports",Ukraine UKR – Sweden SWE (26 March at 20:45(World Cup Qualification. Europe)) - 20:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=0891665b3d5b40b58129a021314286b96e1910c6
-#EXTINF:-1 tvg-name="Ukraine UKR – Sweden SWE" group-title="Sports",Ukraine UKR – Sweden SWE (26 March at 20:45(World Cup Qualification. Europe)) - 20:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
-#EXTINF:-1 tvg-name="Italy ITA – Northern Ireland NIR" group-title="Sports",Italy ITA – Northern Ireland NIR (26 March at 20:45(World Cup Qualification. Europe)) - 20:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Italy ITA – Northern Ireland NIR" group-title="Sports",Italy ITA – Northern Ireland NIR (26 March at 20:45(World Cup Qualification. Europe)) - 20:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=d8adc12780ce2ec8a3f5afda63606382a480e85c
+#EXTINF:-1 tvg-name="Wales WAL – Bosnia and Herzegovina BIH" group-title="Sports",Wales WAL – Bosnia and Herzegovina BIH (26 March at 20:45(World Cup Qualification. Europe)) - 20:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f

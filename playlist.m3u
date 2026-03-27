@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Poland POL – Albania ALB" group-title="Sports",Poland POL – Albania ALB (26 March at 20:45(World Cup Qualification. Europe)) - 20:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
-#EXTINF:-1 tvg-name="Poland POL – Albania ALB" group-title="Sports",Poland POL – Albania ALB (26 March at 20:45(World Cup Qualification. Europe)) - 20:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 tvg-name="Wales WAL – Bosnia and Herzegovina BIH" group-title="Sports",Wales WAL – Bosnia and Herzegovina BIH (26 March at 20:45(World Cup Qualification. Europe)) - 20:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
-#EXTINF:-1 tvg-name="Wales WAL – Bosnia and Herzegovina BIH" group-title="Sports",Wales WAL – Bosnia and Herzegovina BIH (26 March at 20:45(World Cup Qualification. Europe)) - 20:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1 tvg-name="World Cup, Planica15:00 (Ski Jumping)" group-title="Sports",World Cup, Planica15:00 (Ski Jumping) (15:00 (Ski Jumping)) - 15:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-name="World Cup, Planica15:00 (Ski Jumping)" group-title="Sports",World Cup, Planica15:00 (Ski Jumping) (15:00 (Ski Jumping)) - 15:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce

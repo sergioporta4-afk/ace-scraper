@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Schwerin – LB Aachen" group-title="Sports",Schwerin – LB Aachen (17:15 (Germany. Women. Bundesliga)) - 17:15
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="LKPS Lublin – Skra Belchatow" group-title="Sports",LKPS Lublin – Skra Belchatow (20:00 (Poland. PlusLiga)) - 20:00
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee

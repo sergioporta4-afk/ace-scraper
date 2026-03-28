@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="German Championship18:30 (Germany. Bundesliga)" group-title="Sports",German Championship18:30 (Germany. Bundesliga) (18:30 (Germany. Bundesliga)) - 18:30
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
-#EXTINF:-1 tvg-name="Projekt Warszawa – Jastrzebski Wegiel" group-title="Sports",Projekt Warszawa – Jastrzebski Wegiel (20:00 (Poland. PlusLiga)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-name="World Cup, Gallivare11:20 (Freestyle)" group-title="Sports",World Cup, Gallivare11:20 (Freestyle) (11:20 (Freestyle)) - 11:20
+http://192.168.1.58:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62

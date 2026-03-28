@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bristol Bears – Harlequins" group-title="Sports",Bristol Bears – Harlequins (16:30 (England. Premiership)) - 16:30
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-name="Royal Challengers – Hyderabad Sun Risers" group-title="Sports",Royal Challengers – Hyderabad Sun Risers (15:00 (India. Premier League)) - 15:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-name="Royal Challengers – Hyderabad Sun Risers" group-title="Sports",Royal Challengers – Hyderabad Sun Risers (15:00 (India. Premier League)) - 15:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-name="German Championship15:00 (Germany. Bundesliga)" group-title="Sports",German Championship15:00 (Germany. Bundesliga) (15:00 (Germany. Bundesliga)) - 15:00
+#EXTINF:-1 tvg-name="Schwerin – LB Aachen" group-title="Sports",Schwerin – LB Aachen (17:15 (Germany. Women. Bundesliga)) - 17:15
 http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="German Championship13:00 (Germany. Bundesliga)" group-title="Sports",German Championship13:00 (Germany. Bundesliga) (13:00 (Germany. Bundesliga)) - 13:00
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
 #EXTINF:-1 tvg-name="Mumbai Indians – Kolkata Knight Riders" group-title="Sports",Mumbai Indians – Kolkata Knight Riders (14:00 (India. Premier League)) - 14:00
 http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="Friedrichshafen – Ludwigsburg" group-title="Sports",Friedrichshafen – Ludwigsburg (16:00 (Germany. Bundesliga)) - 16:00
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b

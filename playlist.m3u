@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Athletico-PR – Botafogo-RJ" group-title="Sports",Athletico-PR – Botafogo-RJ (30 March at 0:30(Brazil. Serie A)) - 0:30
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Rajasthan Royals – Chennai Super Kings" group-title="Sports",Rajasthan Royals – Chennai Super Kings (15:00 (India. Premier League)) - 15:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="Rajasthan Royals – Chennai Super Kings" group-title="Sports",Rajasthan Royals – Chennai Super Kings (15:00 (India. Premier League)) - 15:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e

@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Punjab Kings – Gujarat Titans" group-title="Sports",Punjab Kings – Gujarat Titans (15:00 (India. Premier League)) - 15:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-name="Punjab Kings – Gujarat Titans" group-title="Sports",Punjab Kings – Gujarat Titans (15:00 (India. Premier League)) - 15:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Sweden SWE – Poland POL" group-title="Sports",Sweden SWE – Poland POL (31 March at 19:45(World Cup Qualification. Europe)) - 19:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
+#EXTINF:-1 tvg-name="Sweden SWE – Poland POL" group-title="Sports",Sweden SWE – Poland POL (31 March at 19:45(World Cup Qualification. Europe)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="Kosovo KOS – Turkey TUR" group-title="Sports",Kosovo KOS – Turkey TUR (31 March at 19:45(World Cup Qualification. Europe)) - 19:45
+http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 tvg-name="Czech Republic CZE – Denmark DEN" group-title="Sports",Czech Republic CZE – Denmark DEN (31 March at 19:45(World Cup Qualification. Europe)) - 19:45
+http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
+#EXTINF:-1 tvg-name="Bosnia and Herzegovina BIH – Italy ITA" group-title="Sports",Bosnia and Herzegovina BIH – Italy ITA (31 March at 19:45(World Cup Qualification. Europe)) - 19:45
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc

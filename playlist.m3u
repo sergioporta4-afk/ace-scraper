@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Perugia – Guaguas" group-title="Sports",Perugia – Guaguas (19:30 (Champions League)) - 19:30
-http://192.168.1.58:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+#EXTINF:-1 tvg-name="Inter-RS – Sao Paolo" group-title="Sports",Inter-RS – Sao Paolo (23:30 (Brazil. Serie A)) - 23:30
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

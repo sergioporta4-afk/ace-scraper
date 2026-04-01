@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Mackenzie – SESC RJ" group-title="Sports",Mackenzie – SESC RJ (22:30 (Brazil. Women. Superliga)) - 22:30
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Luck Super Giants – Delhi Daredevils" group-title="Sports",Luck Super Giants – Delhi Daredevils (15:00 (India. Premier League)) - 15:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="Luck Super Giants – Delhi Daredevils" group-title="Sports",Luck Super Giants – Delhi Daredevils (15:00 (India. Premier League)) - 15:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e

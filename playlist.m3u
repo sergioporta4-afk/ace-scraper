@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Premier League19:10 (PDC)" group-title="Sports",Premier League19:10 (PDC) (19:10 (PDC)) - 19:10
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Chapecoense – Atletico-MG" group-title="Sports",Chapecoense – Atletico-MG (23:00 (Brazil. Serie A)) - 23:00
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Volei Bauru – Praia Clube" group-title="Sports",Volei Bauru – Praia Clube (22:30 (Brazil. Women. Superliga)) - 22:30
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b

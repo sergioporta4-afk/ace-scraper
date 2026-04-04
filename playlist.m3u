@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Lazio – Parma" group-title="Sports",Lazio – Parma (19:45 (Italy. Serie A)) - 19:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Lazio – Parma" group-title="Sports",Lazio – Parma (19:45 (Italy. Serie A)) - 19:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
-#EXTINF:-1 tvg-name="Lazio – Parma" group-title="Sports",Lazio – Parma (19:45 (Italy. Serie A)) - 19:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Skra Belchatow – LKPS Lublin" group-title="Sports",Skra Belchatow – LKPS Lublin (19:00 (Poland. PlusLiga)) - 19:00
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-name="Ostrovia – Stal Mielec" group-title="Sports",Ostrovia – Stal Mielec (19:30 (Poland. Superliga)) - 18:23
-http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 tvg-name="Sao Paolo – Cruzeiro-MG" group-title="Sports",Sao Paolo – Cruzeiro-MG (22:30 (Brazil. Serie A)) - 22:30
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Renata – Uberlandia Monte Carmelo" group-title="Sports",Renata – Uberlandia Monte Carmelo (22:30 (Brazil. Superliga)) - 22:30
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b

@@ -1,27 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Zenit – Krylia Sovetov" group-title="Sports",Zenit – Krylia Sovetov (13:15 (Russia. Premier League)) - 13:15
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Olsztyn – Resovia Rzeszow" group-title="Sports",Olsztyn – Resovia Rzeszow (13:45 (Poland. PlusLiga)) - 13:45
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-name="Sassuolo – Cagliari" group-title="Sports",Sassuolo – Cagliari (14:00 (Italy. Serie A)) - 14:00 - Link 1
+#EXTINF:-1 tvg-name="Strasbourg – Nice" group-title="Sports",Strasbourg – Nice (16:00 (France. Ligue 1)) - 16:00
 http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
-#EXTINF:-1 tvg-name="Sassuolo – Cagliari" group-title="Sports",Sassuolo – Cagliari (14:00 (Italy. Serie A)) - 14:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Hoffenheim – Mainz 0" group-title="Sports",Hoffenheim – Mainz 0 (14:30 (Germany. Bundesliga)) - 14:30
-http://192.168.1.58:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
-#EXTINF:-1 tvg-name="Freiburg – Bayern Munich" group-title="Sports",Freiburg – Bayern Munich (14:30 (Germany. Bundesliga)) - 14:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
-#EXTINF:-1 tvg-name="Freiburg – Bayern Munich" group-title="Sports",Freiburg – Bayern Munich (14:30 (Germany. Bundesliga)) - 14:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Freiburg – Bayern Munich" group-title="Sports",Freiburg – Bayern Munich (14:30 (Germany. Bundesliga)) - 14:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Freiburg – Bayern Munich" group-title="Sports",Freiburg – Bayern Munich (14:30 (Germany. Bundesliga)) - 14:30 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
-#EXTINF:-1 tvg-name="Leverkusen – Wolfsburg" group-title="Sports",Leverkusen – Wolfsburg (14:30 (Germany. Bundesliga)) - 14:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
-#EXTINF:-1 tvg-name="Leverkusen – Wolfsburg" group-title="Sports",Leverkusen – Wolfsburg (14:30 (Germany. Bundesliga)) - 14:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
+#EXTINF:-1 tvg-name="Jastrzebski Wegiel – Projekt Warszawa" group-title="Sports",Jastrzebski Wegiel – Projekt Warszawa (16:30 (Poland. PlusLiga)) - 16:30
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 #EXTINF:-1 tvg-name="Gujarat Titans – Rajasthan Royals" group-title="Sports",Gujarat Titans – Rajasthan Royals (15:00 (India. Premier League)) - 15:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 tvg-name="Gujarat Titans – Rajasthan Royals" group-title="Sports",Gujarat Titans – Rajasthan Royals (15:00 (India. Premier League)) - 15:00 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Dynamo M – Orenburg" group-title="Sports",Dynamo M – Orenburg (15:30 (Russia. Premier League)) - 15:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
+#EXTINF:-1 tvg-name="Dynamo M – Orenburg" group-title="Sports",Dynamo M – Orenburg (15:30 (Russia. Premier League)) - 15:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12

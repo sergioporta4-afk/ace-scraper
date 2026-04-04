@@ -1,23 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Hellas Verona – Fiorentina" group-title="Sports",Hellas Verona – Fiorentina (17:00 (Italy. Serie A)) - 17:00 - Link 1
+#EXTINF:-1 tvg-name="Lazio – Parma" group-title="Sports",Lazio – Parma (19:45 (Italy. Serie A)) - 19:45 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Hellas Verona – Fiorentina" group-title="Sports",Hellas Verona – Fiorentina (17:00 (Italy. Serie A)) - 17:00 - Link 2
+#EXTINF:-1 tvg-name="Lazio – Parma" group-title="Sports",Lazio – Parma (19:45 (Italy. Serie A)) - 19:45 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
-#EXTINF:-1 tvg-name="Hellas Verona – Fiorentina" group-title="Sports",Hellas Verona – Fiorentina (17:00 (Italy. Serie A)) - 17:00 - Link 3
+#EXTINF:-1 tvg-name="Lazio – Parma" group-title="Sports",Lazio – Parma (19:45 (Italy. Serie A)) - 19:45 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Stuttgart – Dortmund" group-title="Sports",Stuttgart – Dortmund (17:30 (Germany. Bundesliga)) - 17:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Stuttgart – Dortmund" group-title="Sports",Stuttgart – Dortmund (17:30 (Germany. Bundesliga)) - 17:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-name="Jastrzebski Wegiel – Projekt Warszawa" group-title="Sports",Jastrzebski Wegiel – Projekt Warszawa (16:30 (Poland. PlusLiga)) - 16:30
+#EXTINF:-1 tvg-name="Skra Belchatow – LKPS Lublin" group-title="Sports",Skra Belchatow – LKPS Lublin (19:00 (Poland. PlusLiga)) - 19:00
 http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-name="Akhmat – Krasnodar" group-title="Sports",Akhmat – Krasnodar (17:45 (Russia. Premier League)) - 17:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-#EXTINF:-1 tvg-name="Akhmat – Krasnodar" group-title="Sports",Akhmat – Krasnodar (17:45 (Russia. Premier League)) - 17:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Akhmat – Krasnodar" group-title="Sports",Akhmat – Krasnodar (17:45 (Russia. Premier League)) - 17:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="Skierniewice – Podbeskidzie" group-title="Sports",Skierniewice – Podbeskidzie (17:45 (Poland. II Liga)) - 17:45
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 tvg-name="Giesen – Dueren" group-title="Sports",Giesen – Dueren (18:00 (Germany. Bundesliga)) - 18:00
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Ostrovia – Stal Mielec" group-title="Sports",Ostrovia – Stal Mielec (19:30 (Poland. Superliga)) - 18:23
+http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f

@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SESC RJ – Mackenzie" group-title="Sports",SESC RJ – Mackenzie (22:30 (Brazil. Women. Superliga)) - 22:30
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Akron – CSKA" group-title="Sports",Akron – CSKA (11:00 (Russia. Premier League)) - 11:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Akron – CSKA" group-title="Sports",Akron – CSKA (11:00 (Russia. Premier League)) - 11:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Akron – CSKA" group-title="Sports",Akron – CSKA (11:00 (Russia. Premier League)) - 11:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
+#EXTINF:-1 tvg-name="Delhi Capitals – Mumbai Indians" group-title="Sports",Delhi Capitals – Mumbai Indians (11:00 (India. Premier League)) - 11:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="Delhi Capitals – Mumbai Indians" group-title="Sports",Delhi Capitals – Mumbai Indians (11:00 (India. Premier League)) - 11:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Neman – Vitebsk" group-title="Sports",Neman – Vitebsk (12:00 (Belarus. Vysheyshaya Liga)) - 12:00
+http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f

@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Praia Clube – Guarulhos" group-title="Sports",Praia Clube – Guarulhos (21:00 (Brazil. Superliga)) - 21:00
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
-#EXTINF:-1 tvg-name="Atletico-MG – Athletico-PR" group-title="Sports",Atletico-MG – Athletico-PR (21:30 (Brazil. Serie A)) - 21:30
+#EXTINF:-1 tvg-name="Bahia – Palmeiras" group-title="Sports",Bahia – Palmeiras (23:30 (Brazil. Serie A)) - 23:30
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Cremonese – Bologna" group-title="Sports",Cremonese – Bologna (14:00 (Italy. Serie A)) - 14:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Cremonese – Bologna" group-title="Sports",Cremonese – Bologna (14:00 (Italy. Serie A)) - 14:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Dynamo Makhachkala – Baltika" group-title="Sports",Dynamo Makhachkala – Baltika (14:30 (Russia. Premier League)) - 14:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Dynamo Makhachkala – Baltika" group-title="Sports",Dynamo Makhachkala – Baltika (14:30 (Russia. Premier League)) - 14:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="Livingston – Hearts" group-title="Sports",Livingston – Hearts (14:00 (Scotland. Premiership)) - 14:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-name="Livingston – Hearts" group-title="Sports",Livingston – Hearts (14:00 (Scotland. Premiership)) - 14:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-name="Royal Challengers – Chennai Super Kings" group-title="Sports",Royal Challengers – Chennai Super Kings (15:00 (India. Premier League)) - 15:00
 http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="Dundee – Celtic" group-title="Sports",Dundee – Celtic (16:30 (Scotland. Premiership)) - 16:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Dundee – Celtic" group-title="Sports",Dundee – Celtic (16:30 (Scotland. Premiership)) - 16:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-name="Dundee – Celtic" group-title="Sports",Dundee – Celtic (16:30 (Scotland. Premiership)) - 16:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e

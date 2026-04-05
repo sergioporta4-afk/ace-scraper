@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Inter – Roma" group-title="Sports",Inter – Roma (19:45 (Italy. Serie A)) - 19:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Inter – Roma" group-title="Sports",Inter – Roma (19:45 (Italy. Serie A)) - 19:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Inter – Roma" group-title="Sports",Inter – Roma (19:45 (Italy. Serie A)) - 19:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-name="Inter – Roma" group-title="Sports",Inter – Roma (19:45 (Italy. Serie A)) - 19:45 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="Inter – Roma" group-title="Sports",Inter – Roma (19:45 (Italy. Serie A)) - 19:45 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Inter – Roma" group-title="Sports",Inter – Roma (19:45 (Italy. Serie A)) - 19:45 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="Praia Clube – Guarulhos" group-title="Sports",Praia Clube – Guarulhos (21:00 (Brazil. Superliga)) - 21:00
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Atletico-MG – Athletico-PR" group-title="Sports",Atletico-MG – Athletico-PR (21:30 (Brazil. Serie A)) - 21:30
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

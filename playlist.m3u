@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kedzierzyn-Kozle – Warta Zawiercie" group-title="Sports",Kedzierzyn-Kozle – Warta Zawiercie (16:30 (Poland. PlusLiga)) - 16:30
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-name="Sochi – Rubin" group-title="Sports",Sochi – Rubin (17:30 (Russia. Premier League)) - 17:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Sochi – Rubin" group-title="Sports",Sochi – Rubin (17:30 (Russia. Premier League)) - 17:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Sochi – Rubin" group-title="Sports",Sochi – Rubin (17:30 (Russia. Premier League)) - 17:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
+#EXTINF:-1 tvg-name="Napoli – Milan" group-title="Sports",Napoli – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Napoli – Milan" group-title="Sports",Napoli – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Napoli – Milan" group-title="Sports",Napoli – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
+#EXTINF:-1 tvg-name="Napoli – Milan" group-title="Sports",Napoli – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="Napoli – Milan" group-title="Sports",Napoli – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Napoli – Milan" group-title="Sports",Napoli – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b

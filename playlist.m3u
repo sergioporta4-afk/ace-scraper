@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Napoli – Milan" group-title="Sports",Napoli – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Napoli – Milan" group-title="Sports",Napoli – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Napoli – Milan" group-title="Sports",Napoli – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
-#EXTINF:-1 tvg-name="Napoli – Milan" group-title="Sports",Napoli – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="Napoli – Milan" group-title="Sports",Napoli – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Napoli – Milan" group-title="Sports",Napoli – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="Rajasthan Royals – Mumbai Indians" group-title="Sports",Rajasthan Royals – Mumbai Indians (15:00 (India. Premier League)) - 15:00
+http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd

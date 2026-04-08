@@ -1,27 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Real Madrid RM – Bayern Munich" group-title="Sports",Real Madrid RM – Bayern Munich (20:00 (Champions League)) - 20:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Real Madrid RM – Bayern Munich" group-title="Sports",Real Madrid RM – Bayern Munich (20:00 (Champions League)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=45650fc19ea12518ff1ece14bc0cdec02f422e85
-#EXTINF:-1 tvg-name="Real Madrid RM – Bayern Munich" group-title="Sports",Real Madrid RM – Bayern Munich (20:00 (Champions League)) - 20:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=4f2c0c0495ac272105a4e2c38111a3de4063f867
-#EXTINF:-1 tvg-name="Real Madrid RM – Bayern Munich" group-title="Sports",Real Madrid RM – Bayern Munich (20:00 (Champions League)) - 20:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
-#EXTINF:-1 tvg-name="Real Madrid RM – Bayern Munich" group-title="Sports",Real Madrid RM – Bayern Munich (20:00 (Champions League)) - 20:00 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=e26b1d508c1273dd0aa6ac0bae8fc2ecef60d26b
-#EXTINF:-1 tvg-name="Real Madrid RM – Bayern Munich" group-title="Sports",Real Madrid RM – Bayern Munich (20:00 (Champions League)) - 20:00 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
-#EXTINF:-1 tvg-name="Real Madrid RM – Bayern Munich" group-title="Sports",Real Madrid RM – Bayern Munich (20:00 (Champions League)) - 20:00 - Link 7
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-name="Sporting – Arsenal" group-title="Sports",Sporting – Arsenal (20:00 (Champions League)) - 20:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=3a8b5068d7ddda4f050554f23f26a8917a147f42
-#EXTINF:-1 tvg-name="Sporting – Arsenal" group-title="Sports",Sporting – Arsenal (20:00 (Champions League)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
-#EXTINF:-1 tvg-name="Sporting – Arsenal" group-title="Sports",Sporting – Arsenal (20:00 (Champions League)) - 20:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-name="Sporting – Arsenal" group-title="Sports",Sporting – Arsenal (20:00 (Champions League)) - 20:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=949608243b0051c7f17a1d1bb31506319e040be0
-#EXTINF:-1 tvg-name="Sporting – Arsenal" group-title="Sports",Sporting – Arsenal (20:00 (Champions League)) - 20:00 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=acf12ae023f74550f9a14697f0f6d7bfd67120c6
-#EXTINF:-1 tvg-name="Sporting – Arsenal" group-title="Sports",Sporting – Arsenal (20:00 (Champions League)) - 20:00 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Praia Clube – Volei Bauru" group-title="Sports",Praia Clube – Volei Bauru (0:00 (Brazil. Women. Superliga)) - 0:00
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b

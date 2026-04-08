@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Praia Clube – Volei Bauru" group-title="Sports",Praia Clube – Volei Bauru (0:00 (Brazil. Women. Superliga)) - 0:00
+#EXTINF:-1 tvg-name="Sparta Praha – Dynamo Pardubice" group-title="Sports",Sparta Praha – Dynamo Pardubice (16:45 (Czech Republic. Extraliga)) - 16:45
+http://192.168.1.58:6878/ace/getstream?id=9684937e371227cf251a1dc721a4a70a42aa9cf8
+#EXTINF:-1 tvg-name="Schwerin – VfB 91 Suhl" group-title="Sports",Schwerin – VfB 91 Suhl (17:00 (Germany. Women. Bundesliga)) - 17:00
 http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Anioly Torun – Avia Swidnik" group-title="Sports",Anioly Torun – Avia Swidnik (17:00 (Poland. I Liga)) - 17:00
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee

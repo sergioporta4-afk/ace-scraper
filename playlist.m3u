@@ -13,6 +13,8 @@ http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a90
 http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-name="Barcelona – Atletico Madrid" group-title="Sports",Barcelona – Atletico Madrid (20:00 (Champions League)) - 20:00 - Link 7
 http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-name="Barcelona – Atletico Madrid" group-title="Sports",Barcelona – Atletico Madrid (20:00 (Champions League)) - 20:00 - Link 8
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
 #EXTINF:-1 tvg-name="PSG – rpool" group-title="Sports",PSG – rpool (20:00 (Champions League)) - 20:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-name="PSG – rpool" group-title="Sports",PSG – rpool (20:00 (Champions League)) - 20:00 - Link 2
@@ -23,7 +25,57 @@ http://192.168.1.58:6878/ace/getstream?id=99da47072cf6d0d9323479791026c489618895
 http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-name="PSG – rpool" group-title="Sports",PSG – rpool (20:00 (Champions League)) - 20:00 - Link 5
 http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-name="Simulcast20:00 (Champions League)" group-title="Sports",Simulcast20:00 (Champions League) (20:00 (Champions League)) - 20:00
+#EXTINF:-1 tvg-name="PSG – rpool" group-title="Sports",PSG – rpool (20:00 (Champions League)) - 20:00 - Link 6
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Simulcast20:00 (Champions League)" group-title="Sports",Simulcast20:00 (Champions League) (20:00 (Champions League)) - 20:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="Lube – Verona" group-title="Sports",Lube – Verona (19:30 (Italy. Serie A)) - 19:30
+#EXTINF:-1 tvg-name="Simulcast20:00 (Champions League)" group-title="Sports",Simulcast20:00 (Champions League) (20:00 (Champions League)) - 20:00 - Link 2
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Bolzano – Brixen" group-title="Sports",Bolzano – Brixen (18:30 (Italy. Serie A)) - 18:30
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Trie – Eppan" group-title="Sports",Trie – Eppan (18:30 (Italy. Serie A)) - 18:30
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Bears Academy – BMS Herlev" group-title="Sports",Bears Academy – BMS Herlev (18:30 (Sweden. Basketligan)) - 18:30
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Amager – Holbaek" group-title="Sports",Amager – Holbaek (18:45 (Sweden. Basketligan)) - 18:45
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Haras El Hodood – Modern Sport" group-title="Sports",Haras El Hodood – Modern Sport (19:00 (Egypt. Premier League)) - 19:00
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Ghazl El Mehalla – El Gouna" group-title="Sports",Ghazl El Mehalla – El Gouna (19:00 (Egypt. Premier League)) - 19:00
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Gran Canaria – epona" group-title="Sports",Gran Canaria – epona (19:00 (Spain. Women. Liga Femenina)) - 19:00
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Joventut – Jairis" group-title="Sports",Joventut – Jairis (19:00 (Spain. Women. Liga Femenina)) - 19:00
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Zaragoza – Leganes" group-title="Sports",Zaragoza – Leganes (19:00 (Spain. Women. Liga Femenina)) - 19:00
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Marignano – Bergamo" group-title="Sports",Marignano – Bergamo (19:00 (Italy. Women. Serie A)) - 19:00
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Amfora – Jazine" group-title="Sports",Amfora – Jazine (19:00 (Croatia. Prva Liga)) - 19:00
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Badel 1862 – Vardar" group-title="Sports",Badel 1862 – Vardar (19:00 (Prva Liga)) - 19:00
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Spartak do 18 – Tofas U18" group-title="Sports",Spartak do 18 – Tofas U18 (19:00 (Youth Champions League)) - 19:00
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Grenoble – Angers" group-title="Sports",Grenoble – Angers (19:15 (France. Ligue Magnus)) - 19:15
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Fasano – Conversano" group-title="Sports",Fasano – Conversano (19:15 (Italy. Serie A)) - 19:15
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Lube – Verona" group-title="Sports",Lube – Verona (19:30 (Italy. Serie A)) - 19:30 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 tvg-name="Lube – Verona" group-title="Sports",Lube – Verona (19:30 (Italy. Serie A)) - 19:30 - Link 2
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="England – Northern Ireland" group-title="Sports",England – Northern Ireland (19:30 (World Cup)) - 19:30
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Cassano – Albatro" group-title="Sports",Cassano – Albatro (19:45 (Italy. Serie A)) - 19:45
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="UNAN Managua U-20 – ART Jalapa U-20" group-title="Sports",UNAN Managua U-20 – ART Jalapa U-20 (20:00 (Nicaragua. Liga Primera U20)) - 20:00
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Barcelona – Atletico Madrid" group-title="Sports",Barcelona – Atletico Madrid (8 April at 20:00(Champions League)) - 20:00
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="PSG – rpool" group-title="Sports",PSG – rpool (8 April at 20:00(Champions League)) - 20:00
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Haras El Hodood – Modern Sport" group-title="Sports",Haras El Hodood – Modern Sport (8 April at 19:00(Egypt. Premier League)) - 19:00
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a
+#EXTINF:-1 tvg-name="Ghazl El Mehalla – El Gouna" group-title="Sports",Ghazl El Mehalla – El Gouna (8 April at 19:00(Egypt. Premier League)) - 19:00
+https://livetv.sx/webplayer2.php?test=seo&t=alieztv&c=253609&lang=en&eid=361314908&lid=2991282&ci=7&si=1&a

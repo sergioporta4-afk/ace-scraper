@@ -1,5 +1,59 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Warta Zawiercie – Kedzierzyn-Kozle" group-title="Sports",Warta Zawiercie – Kedzierzyn-Kozle (16:30 (Poland. PlusLiga)) - 16:30
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-name="Tours – Paris Volley" group-title="Sports",Tours – Paris Volley (19:00 (France. Ligue A)) - 19:00
+http://192.168.1.58:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1 tvg-name="Piacenza – Perugia" group-title="Sports",Piacenza – Perugia (19:30 (Italy. Serie A)) - 19:30
+http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 tvg-name="Bologna – Aston Villa" group-title="Sports",Bologna – Aston Villa (20:00 (Europa League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=0cccb73c2fbb1a2dfc905b51d002867c21faa671
+#EXTINF:-1 tvg-name="Bologna – Aston Villa" group-title="Sports",Bologna – Aston Villa (20:00 (Europa League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
+#EXTINF:-1 tvg-name="Bologna – Aston Villa" group-title="Sports",Bologna – Aston Villa (20:00 (Europa League)) - 20:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=347fff1faa228de89c04bdb21c26f40653002fd5
+#EXTINF:-1 tvg-name="Bologna – Aston Villa" group-title="Sports",Bologna – Aston Villa (20:00 (Europa League)) - 20:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="Bologna – Aston Villa" group-title="Sports",Bologna – Aston Villa (20:00 (Europa League)) - 20:00 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=59acfb19d757ebc02fe5c67357af354d7e9ef4ee
+#EXTINF:-1 tvg-name="Bologna – Aston Villa" group-title="Sports",Bologna – Aston Villa (20:00 (Europa League)) - 20:00 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-name="Bologna – Aston Villa" group-title="Sports",Bologna – Aston Villa (20:00 (Europa League)) - 20:00 - Link 7
+http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-name="Bologna – Aston Villa" group-title="Sports",Bologna – Aston Villa (20:00 (Europa League)) - 20:00 - Link 8
+http://192.168.1.58:6878/ace/getstream?id=aeffb08400bdf06c962e8facdc707c7de4d1d75f
+#EXTINF:-1 tvg-name="Bologna – Aston Villa" group-title="Sports",Bologna – Aston Villa (20:00 (Europa League)) - 20:00 - Link 9
+http://192.168.1.58:6878/ace/getstream?id=c4b4277061b1d2db78b6c6bb0713ca89dbed77a6
+#EXTINF:-1 tvg-name="Bologna – Aston Villa" group-title="Sports",Bologna – Aston Villa (20:00 (Europa League)) - 20:00 - Link 10
+http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-name="Bologna – Aston Villa" group-title="Sports",Bologna – Aston Villa (20:00 (Europa League)) - 20:00 - Link 11
+http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1 tvg-name="Porto – Nottingham For" group-title="Sports",Porto – Nottingham For (20:00 (Europa League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=120a6a13fadec9e1be53099b3e3dd6f31f2aa3d7
+#EXTINF:-1 tvg-name="Porto – Nottingham For" group-title="Sports",Porto – Nottingham For (20:00 (Europa League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=3bb6fd633c73c27485f140e4431227274681f39c
+#EXTINF:-1 tvg-name="Porto – Nottingham For" group-title="Sports",Porto – Nottingham For (20:00 (Europa League)) - 20:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 tvg-name="Porto – Nottingham For" group-title="Sports",Porto – Nottingham For (20:00 (Europa League)) - 20:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=bf21da902699022fd2644c3d2db05bf0c20eb79d
+#EXTINF:-1 tvg-name="Porto – Nottingham For" group-title="Sports",Porto – Nottingham For (20:00 (Europa League)) - 20:00 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="Freiburg – Celta" group-title="Sports",Freiburg – Celta (20:00 (Europa League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=144ce79c5b4bac867b1b324bcdb89dbfbb84cbf7
+#EXTINF:-1 tvg-name="Freiburg – Celta" group-title="Sports",Freiburg – Celta (20:00 (Europa League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=289356d56cbef42c25a957b74ac95de352668123
+#EXTINF:-1 tvg-name="Freiburg – Celta" group-title="Sports",Freiburg – Celta (20:00 (Europa League)) - 20:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
+#EXTINF:-1 tvg-name="Freiburg – Celta" group-title="Sports",Freiburg – Celta (20:00 (Europa League)) - 20:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-name="Freiburg – Celta" group-title="Sports",Freiburg – Celta (20:00 (Europa League)) - 20:00 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=fb4547b20c3a5c650e0eb9c53c588a85254eab8c
+#EXTINF:-1 tvg-name="Freiburg – Celta" group-title="Sports",Freiburg – Celta (20:00 (Europa League)) - 20:00 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-name="UKF Nitra – Slovan Bratislava" group-title="Sports",UKF Nitra – Slovan Bratislava (18:00 (Slovakia. Women. Extraliga)) - 18:00
 http://192.168.1.58:6878/ace/getstream?id=06c6acedf71f489ac9b28535ced923fc9ce91ee8
+#EXTINF:-1 tvg-name="Premier League19:00 (PDC)" group-title="Sports",Premier League19:00 (PDC) (19:00 (PDC)) - 19:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="Premier League19:00 (PDC)" group-title="Sports",Premier League19:00 (PDC) (19:00 (PDC)) - 19:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=1950633a3723cb52b17c764125decc04445bd5ff
+#EXTINF:-1 tvg-name="Premier League19:00 (PDC)" group-title="Sports",Premier League19:00 (PDC) (19:00 (PDC)) - 19:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
+#EXTINF:-1 tvg-name="Premier League19:00 (PDC)" group-title="Sports",Premier League19:00 (PDC) (19:00 (PDC)) - 19:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=d2771c32ddfe83e04d7d2775338f50ea61e3968d

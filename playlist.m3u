@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Warta Zawiercie – Kedzierzyn-Kozle" group-title="Sports",Warta Zawiercie – Kedzierzyn-Kozle (16:30 (Poland. PlusLiga)) - 16:30
 http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-name="Kolkata Knight Riders – Luck Super Giants" group-title="Sports",Kolkata Knight Riders – Luck Super Giants (15:00 (India. Premier League)) - 15:00
-http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="UKF Nitra – Slovan Bratislava" group-title="Sports",UKF Nitra – Slovan Bratislava (18:00 (Slovakia. Women. Extraliga)) - 18:00
+http://192.168.1.58:6878/ace/getstream?id=06c6acedf71f489ac9b28535ced923fc9ce91ee8

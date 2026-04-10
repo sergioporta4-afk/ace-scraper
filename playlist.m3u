@@ -1,9 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rajasthan Royals – Royal Challengers" group-title="Sports",Rajasthan Royals – Royal Challengers (15:00 (India. Premier League)) - 15:00
-http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="Paris – AS Monaco" group-title="Sports",Paris – AS Monaco (18:00 (France. Ligue 1)) - 18:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 tvg-name="Paris – AS Monaco" group-title="Sports",Paris – AS Monaco (18:00 (France. Ligue 1)) - 18:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-name="Paris – AS Monaco" group-title="Sports",Paris – AS Monaco (18:00 (France. Ligue 1)) - 18:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="Eisenach – Hanover-Burgdorf" group-title="Sports",Eisenach – Hanover-Burgdorf (18:00 (Germany. Bundesliga)) - 18:00
+http://192.168.1.58:6878/ace/getstream?id=ebecf3cf1ff78961601f6f0d1764314a78d420ae
 #EXTINF:-1 tvg-name="Primorje – Koper" group-title="Sports",Primorje – Koper (16:30 (Slovenia. PrvaLiga)) - 16:30
 http://192.168.1.58:6878/ace/getstream?id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
 #EXTINF:-1 tvg-name="Klagenfurt – KSV 191" group-title="Sports",Klagenfurt – KSV 191 (17:00 (Austria. 2. Liga)) - 17:00
 http://192.168.1.58:6878/ace/getstream?id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
 #EXTINF:-1 tvg-name="Polonia Warsaw – Slask" group-title="Sports",Polonia Warsaw – Slask (17:00 (Poland. I Liga)) - 17:00
 http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="Karlsruhe – Arminia" group-title="Sports",Karlsruhe – Arminia (17:30 (Germany. 2 Bundesliga)) - 17:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Karlsruhe – Arminia" group-title="Sports",Karlsruhe – Arminia (17:30 (Germany. 2 Bundesliga)) - 17:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="Fortuna – Holstein Kiel" group-title="Sports",Fortuna – Holstein Kiel (17:30 (Germany. 2 Bundesliga)) - 17:30
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="Patrioti Levice – Spisski Rytieri" group-title="Sports",Patrioti Levice – Spisski Rytieri (18:00 (Slovakia. Extraliga)) - 18:00
+http://192.168.1.58:6878/ace/getstream?id=06c6acedf71f489ac9b28535ced923fc9ce91ee8

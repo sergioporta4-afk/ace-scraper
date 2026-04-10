@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Marseille – Metz" group-title="Sports",Marseille – Metz (20:05 (France. Ligue 1)) - 20:05 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=1408de419b1abeac470094e284a07c3512342d69
-#EXTINF:-1 tvg-name="Marseille – Metz" group-title="Sports",Marseille – Metz (20:05 (France. Ligue 1)) - 20:05 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Marseille – Metz" group-title="Sports",Marseille – Metz (20:05 (France. Ligue 1)) - 20:05 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
+#EXTINF:-1 tvg-name="Guarulhos – Praia Clube" group-title="Sports",Guarulhos – Praia Clube (22:30 (Brazil. Superliga)) - 22:30
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b

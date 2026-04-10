@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Rajasthan Royals – Royal Challengers" group-title="Sports",Rajasthan Royals – Royal Challengers (15:00 (India. Premier League)) - 15:00
 http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="Primorje – Koper" group-title="Sports",Primorje – Koper (16:30 (Slovenia. PrvaLiga)) - 16:30
+http://192.168.1.58:6878/ace/getstream?id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
+#EXTINF:-1 tvg-name="Klagenfurt – KSV 191" group-title="Sports",Klagenfurt – KSV 191 (17:00 (Austria. 2. Liga)) - 17:00
+http://192.168.1.58:6878/ace/getstream?id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
+#EXTINF:-1 tvg-name="Polonia Warsaw – Slask" group-title="Sports",Polonia Warsaw – Slask (17:00 (Poland. I Liga)) - 17:00
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867

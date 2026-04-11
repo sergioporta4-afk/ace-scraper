@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Atalanta – Juventus" group-title="Sports",Atalanta – Juventus (19:45 (Italy. Serie A)) - 19:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="Atalanta – Juventus" group-title="Sports",Atalanta – Juventus (19:45 (Italy. Serie A)) - 19:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Atalanta – Juventus" group-title="Sports",Atalanta – Juventus (19:45 (Italy. Serie A)) - 19:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
-#EXTINF:-1 tvg-name="Atalanta – Juventus" group-title="Sports",Atalanta – Juventus (19:45 (Italy. Serie A)) - 19:45 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Atalanta – Juventus" group-title="Sports",Atalanta – Juventus (19:45 (Italy. Serie A)) - 19:45 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
 #EXTINF:-1 tvg-name="Rennes – Angers" group-title="Sports",Rennes – Angers (20:05 (France. Ligue 1)) - 20:05 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=2857b4180b06927798ce3f7acca685ca381c04f5
 #EXTINF:-1 tvg-name="Rennes – Angers" group-title="Sports",Rennes – Angers (20:05 (France. Ligue 1)) - 20:05 - Link 2
@@ -19,9 +9,7 @@ http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4
 http://192.168.1.58:6878/ace/getstream?id=7b54c27cc75ae3c617bf13953844da341a84dfeb
 #EXTINF:-1 tvg-name="rela – Sporting" group-title="Sports",rela – Sporting (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 tvg-name="Saint-Etienne – Dunkerque" group-title="Sports",Saint-Etienne – Dunkerque (19:00 (France. Ligue 2)) - 19:00
-http://192.168.1.58:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-name="Darmstadt – Hanover 9" group-title="Sports",Darmstadt – Hanover 9 (19:30 (Germany. 2 Bundesliga)) - 19:30
-http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
 #EXTINF:-1 tvg-name="Vitoria-BA – Sao Paolo" group-title="Sports",Vitoria-BA – Sao Paolo (20:30 (Brazil. Serie A)) - 20:30
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="World Cup Puebla21:00 (Archery)" group-title="Sports",World Cup Puebla21:00 (Archery) (21:00 (Archery)) - 21:00
+http://192.168.1.58:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5

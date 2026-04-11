@@ -9,6 +9,10 @@ http://192.168.1.58:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c9
 http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1 tvg-name="Atalanta – Juventus" group-title="Sports",Atalanta – Juventus (19:45 (Italy. Serie A)) - 19:45 - Link 5
 http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Rennes – Angers" group-title="Sports",Rennes – Angers (20:05 (France. Ligue 1)) - 20:05 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=2857b4180b06927798ce3f7acca685ca381c04f5
+#EXTINF:-1 tvg-name="Rennes – Angers" group-title="Sports",Rennes – Angers (20:05 (France. Ligue 1)) - 20:05 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
 #EXTINF:-1 tvg-name="Saint-Etienne – Dunkerque" group-title="Sports",Saint-Etienne – Dunkerque (19:00 (France. Ligue 2)) - 19:00
 http://192.168.1.58:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-name="Darmstadt – Hanover 9" group-title="Sports",Darmstadt – Hanover 9 (19:30 (Germany. 2 Bundesliga)) - 19:30

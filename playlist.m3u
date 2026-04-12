@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Botafogo-RJ – Coritiba" group-title="Sports",Botafogo-RJ – Coritiba (20:00 (Brazil. Serie A)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="oril Praia – Porto" group-title="Sports",oril Praia – Porto (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="oril Praia – Porto" group-title="Sports",oril Praia – Porto (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 2
+#EXTINF:-1 tvg-name="Fluminense – Flamengo-RJ" group-title="Sports",Fluminense – Flamengo-RJ (22:00 (Brazil. Serie A)) - 22:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="oril Praia – Porto" group-title="Sports",oril Praia – Porto (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-name="Fluminense – Flamengo-RJ" group-title="Sports",Fluminense – Flamengo-RJ (22:00 (Brazil. Serie A)) - 22:00
+#EXTINF:-1 tvg-name="Fluminense – Flamengo-RJ" group-title="Sports",Fluminense – Flamengo-RJ (22:00 (Brazil. Serie A)) - 22:00 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-name="Fluminense – Flamengo-RJ" group-title="Sports",Fluminense – Flamengo-RJ (22:00 (Brazil. Serie A)) - 22:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

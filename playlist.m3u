@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Fluminense – Flamengo-RJ" group-title="Sports",Fluminense – Flamengo-RJ (22:00 (Brazil. Serie A)) - 22:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="Fluminense – Flamengo-RJ" group-title="Sports",Fluminense – Flamengo-RJ (22:00 (Brazil. Serie A)) - 22:00 - Link 2
+#EXTINF:-1 tvg-name="Racing – River Plate" group-title="Sports",Racing – River Plate (13 April at 0:00(Argentina. Liga Profesional)) - 0:00
 http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-name="Fluminense – Flamengo-RJ" group-title="Sports",Fluminense – Flamengo-RJ (22:00 (Brazil. Serie A)) - 22:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

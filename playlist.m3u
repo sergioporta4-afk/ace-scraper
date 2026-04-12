@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Mainz 05 – Freiburg" group-title="Sports",Mainz 05 – Freiburg (18:30 (Germany. Bundesliga)) - 18:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Mainz 05 – Freiburg" group-title="Sports",Mainz 05 – Freiburg (18:30 (Germany. Bundesliga)) - 18:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-name="Mainz 05 – Freiburg" group-title="Sports",Mainz 05 – Freiburg (18:30 (Germany. Bundesliga)) - 18:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
-#EXTINF:-1 tvg-name="Mainz 05 – Freiburg" group-title="Sports",Mainz 05 – Freiburg (18:30 (Germany. Bundesliga)) - 18:30 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-name="Como – Inter" group-title="Sports",Como – Inter (19:45 (Italy. Serie A)) - 19:45 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-name="Como – Inter" group-title="Sports",Como – Inter (19:45 (Italy. Serie A)) - 19:45 - Link 2
@@ -25,5 +17,11 @@ http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c
 http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
 #EXTINF:-1 tvg-name="Lyon – Lorient" group-title="Sports",Lyon – Lorient (19:45 (France. Ligue 1)) - 19:45 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
+#EXTINF:-1 tvg-name="oril Praia – Porto" group-title="Sports",oril Praia – Porto (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="oril Praia – Porto" group-title="Sports",oril Praia – Porto (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="oril Praia – Porto" group-title="Sports",oril Praia – Porto (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-name="Botafogo-RJ – Coritiba" group-title="Sports",Botafogo-RJ – Coritiba (20:00 (Brazil. Serie A)) - 20:00
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Hyderabad Sun Risers – Rajasthan Royals" group-title="Sports",Hyderabad Sun Risers – Rajasthan Royals (11:00 (India. Premier League)) - 11:00 - Link 1
+#EXTINF:-1 tvg-name="Hyderabad Sun Risers – Rajasthan Royals" group-title="Sports",Hyderabad Sun Risers – Rajasthan Royals (15:00 (India. Premier League)) - 15:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-name="Hyderabad Sun Risers – Rajasthan Royals" group-title="Sports",Hyderabad Sun Risers – Rajasthan Royals (11:00 (India. Premier League)) - 11:00 - Link 2
+#EXTINF:-1 tvg-name="Hyderabad Sun Risers – Rajasthan Royals" group-title="Sports",Hyderabad Sun Risers – Rajasthan Royals (15:00 (India. Premier League)) - 15:00 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e

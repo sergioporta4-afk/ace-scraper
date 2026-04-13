@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Akron – Dynamo M" group-title="Sports",Akron – Dynamo M (15:15 (Russia. Premier League)) - 15:15 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Akron – Dynamo M" group-title="Sports",Akron – Dynamo M (15:15 (Russia. Premier League)) - 15:15 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-#EXTINF:-1 tvg-name="Akron – Dynamo M" group-title="Sports",Akron – Dynamo M (15:15 (Russia. Premier League)) - 15:15 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Akron – Dynamo M" group-title="Sports",Akron – Dynamo M (15:15 (Russia. Premier League)) - 15:15 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
 #EXTINF:-1 tvg-name="Al Ahli Jeddah – Al-Duhail" group-title="Sports",Al Ahli Jeddah – Al-Duhail (15:45 (AFC Champions League Elite)) - 15:45
 http://192.168.1.58:6878/ace/getstream?id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
-#EXTINF:-1 tvg-name="Hyderabad Sun Risers – Rajasthan Royals" group-title="Sports",Hyderabad Sun Risers – Rajasthan Royals (15:00 (India. Premier League)) - 15:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-name="Hyderabad Sun Risers – Rajasthan Royals" group-title="Sports",Hyderabad Sun Risers – Rajasthan Royals (15:00 (India. Premier League)) - 15:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e

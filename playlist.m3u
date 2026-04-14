@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Tractor – Shabab Al Ahli" group-title="Sports",Tractor – Shabab Al Ahli (15:45 (AFC Champions League Elite)) - 15:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
-#EXTINF:-1 tvg-name="Tractor – Shabab Al Ahli" group-title="Sports",Tractor – Shabab Al Ahli (15:45 (AFC Champions League Elite)) - 15:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
-#EXTINF:-1 tvg-name="Tractor – Shabab Al Ahli" group-title="Sports",Tractor – Shabab Al Ahli (15:45 (AFC Champions League Elite)) - 15:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
-#EXTINF:-1 tvg-name="Olsztyn – Skra Belchatow" group-title="Sports",Olsztyn – Skra Belchatow (16:30 (Poland. PlusLiga)) - 16:30
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-name="Chennai Super Kings – Kolkata Knight Riders" group-title="Sports",Chennai Super Kings – Kolkata Knight Riders (15:00 (India. Premier League)) - 15:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-name="Chennai Super Kings – Kolkata Knight Riders" group-title="Sports",Chennai Super Kings – Kolkata Knight Riders (15:00 (India. Premier League)) - 15:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="German Championship17:30 (Germany. Bundesliga)" group-title="Sports",German Championship17:30 (Germany. Bundesliga) (17:30 (Germany. Bundesliga)) - 17:30
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Germany – Austria" group-title="Sports",Germany – Austria (14 April at 17:15(Women. World Cup Qualification. Europe)) - 17:15 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=6e672fbd2d325fde727a61aa2ef8b8b02e05c6a4
+#EXTINF:-1 tvg-name="Germany – Austria" group-title="Sports",Germany – Austria (14 April at 17:15(Women. World Cup Qualification. Europe)) - 17:15 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=c9d6412050226de0968cea19a383b50dc1966363
+#EXTINF:-1 tvg-name="Sweden – Denmark" group-title="Sports",Sweden – Denmark (14 April at 18:00(Women. World Cup Qualification. Europe)) - 18:00
+http://192.168.1.58:6878/ace/getstream?id=ebecf3cf1ff78961601f6f0d1764314a78d420ae

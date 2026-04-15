@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bangkok Utd – Gamba Osaka" group-title="Sports",Bangkok Utd – Gamba Osaka (13:15 (AFC Champions League 2)) - 13:15 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="Bangkok Utd – Gamba Osaka" group-title="Sports",Bangkok Utd – Gamba Osaka (13:15 (AFC Champions League 2)) - 13:15 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-name="Royal Challengers Bengaluru – Luck Super Giants" group-title="Sports",Royal Challengers Bengaluru – Luck Super Giants (15:00 (India. Premier League)) - 15:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 tvg-name="Royal Challengers Bengaluru – Luck Super Giants" group-title="Sports",Royal Challengers Bengaluru – Luck Super Giants (15:00 (India. Premier League)) - 15:00 - Link 2

@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Royal Challengers Bengaluru – Luck Super Giants" group-title="Sports",Royal Challengers Bengaluru – Luck Super Giants (15:00 (India. Premier League)) - 15:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-name="Royal Challengers Bengaluru – Luck Super Giants" group-title="Sports",Royal Challengers Bengaluru – Luck Super Giants (15:00 (India. Premier League)) - 15:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Dynamo Pardubice – Sparta Praha" group-title="Sports",Dynamo Pardubice – Sparta Praha (17:00 (Czech Republic. Extraliga)) - 17:00
+http://192.168.1.58:6878/ace/getstream?id=9684937e371227cf251a1dc721a4a70a42aa9cf8
+#EXTINF:-1 tvg-name="Warta Poznan – Slask Wroclaw II" group-title="Sports",Warta Poznan – Slask Wroclaw II (17:00 (Poland. II Liga)) - 17:00
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="German Championship17:30 (Germany. Bundesliga)" group-title="Sports",German Championship17:30 (Germany. Bundesliga) (17:30 (Germany. Bundesliga)) - 17:30
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b

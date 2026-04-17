@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Benfica U-19 – Brugge U-19" group-title="Sports",Benfica U-19 – Brugge U-19 (13:00 (UEFA Youth League)) - 13:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-name="Benfica U-19 – Brugge U-19" group-title="Sports",Benfica U-19 – Brugge U-19 (13:00 (UEFA Youth League)) - 13:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-name="Benfica U-19 – Brugge U-19" group-title="Sports",Benfica U-19 – Brugge U-19 (13:00 (UEFA Youth League)) - 13:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
-#EXTINF:-1 tvg-name="Benfica U-19 – Brugge U-19" group-title="Sports",Benfica U-19 – Brugge U-19 (13:00 (UEFA Youth League)) - 13:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 tvg-name="Al Ahli Jeddah – Johor DT" group-title="Sports",Al Ahli Jeddah – Johor DT (15:45 (AFC Champions League Elite)) - 15:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 tvg-name="Al Ahli Jeddah – Johor DT" group-title="Sports",Al Ahli Jeddah – Johor DT (15:45 (AFC Champions League Elite)) - 15:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
+#EXTINF:-1 tvg-name="Al Ahli Jeddah – Johor DT" group-title="Sports",Al Ahli Jeddah – Johor DT (15:45 (AFC Champions League Elite)) - 15:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
+#EXTINF:-1 tvg-name="Skra Belchatow – Olsztyn" group-title="Sports",Skra Belchatow – Olsztyn (16:30 (Poland. PlusLiga)) - 16:30
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 #EXTINF:-1 tvg-name="Gujarat Titans – Kolkata Knight Riders" group-title="Sports",Gujarat Titans – Kolkata Knight Riders (15:00 (India. Premier League)) - 15:00
 http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd

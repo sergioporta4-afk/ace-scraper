@@ -1,59 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Napoli – Lazio" group-title="Sports",Napoli – Lazio (17:00 (Italy. Serie A)) - 17:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="Napoli – Lazio" group-title="Sports",Napoli – Lazio (17:00 (Italy. Serie A)) - 17:00 - Link 2
+#EXTINF:-1 tvg-name="Roma – Atalanta" group-title="Sports",Roma – Atalanta (19:45 (Italy. Serie A)) - 19:45 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Napoli – Lazio" group-title="Sports",Napoli – Lazio (17:00 (Italy. Serie A)) - 17:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="Napoli – Lazio" group-title="Sports",Napoli – Lazio (17:00 (Italy. Serie A)) - 17:00 - Link 4
+#EXTINF:-1 tvg-name="Roma – Atalanta" group-title="Sports",Roma – Atalanta (19:45 (Italy. Serie A)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-name="Roma – Atalanta" group-title="Sports",Roma – Atalanta (19:45 (Italy. Serie A)) - 19:45 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Napoli – Lazio" group-title="Sports",Napoli – Lazio (17:00 (Italy. Serie A)) - 17:00 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-name="Napoli – Lazio" group-title="Sports",Napoli – Lazio (17:00 (Italy. Serie A)) - 17:00 - Link 6
+#EXTINF:-1 tvg-name="Roma – Atalanta" group-title="Sports",Roma – Atalanta (19:45 (Italy. Serie A)) - 19:45 - Link 4
 http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
-#EXTINF:-1 tvg-name="Napoli – Lazio" group-title="Sports",Napoli – Lazio (17:00 (Italy. Serie A)) - 17:00 - Link 7
-http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-name="Tottenham – Brighton" group-title="Sports",Tottenham – Brighton (17:30 (England. Premier League)) - 17:30 - Link 1
+#EXTINF:-1 tvg-name="Chelsea – Mancher Utd" group-title="Sports",Chelsea – Mancher Utd (20:00 (England. Premier League)) - 20:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-name="Tottenham – Brighton" group-title="Sports",Tottenham – Brighton (17:30 (England. Premier League)) - 17:30 - Link 2
+#EXTINF:-1 tvg-name="Chelsea – Mancher Utd" group-title="Sports",Chelsea – Mancher Utd (20:00 (England. Premier League)) - 20:00 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=39cf32e34909771d6aace84a34b6d9d016955137
-#EXTINF:-1 tvg-name="Tottenham – Brighton" group-title="Sports",Tottenham – Brighton (17:30 (England. Premier League)) - 17:30 - Link 3
+#EXTINF:-1 tvg-name="Chelsea – Mancher Utd" group-title="Sports",Chelsea – Mancher Utd (20:00 (England. Premier League)) - 20:00 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Tottenham – Brighton" group-title="Sports",Tottenham – Brighton (17:30 (England. Premier League)) - 17:30 - Link 4
+#EXTINF:-1 tvg-name="Chelsea – Mancher Utd" group-title="Sports",Chelsea – Mancher Utd (20:00 (England. Premier League)) - 20:00 - Link 4
 http://192.168.1.58:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="Tottenham – Brighton" group-title="Sports",Tottenham – Brighton (17:30 (England. Premier League)) - 17:30 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-name="Tottenham – Brighton" group-title="Sports",Tottenham – Brighton (17:30 (England. Premier League)) - 17:30 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 tvg-name="Tottenham – Brighton" group-title="Sports",Tottenham – Brighton (17:30 (England. Premier League)) - 17:30 - Link 7
+#EXTINF:-1 tvg-name="Chelsea – Mancher Utd" group-title="Sports",Chelsea – Mancher Utd (20:00 (England. Premier League)) - 20:00 - Link 5
 http://192.168.1.58:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 tvg-name="Eintracht – RB Leipzig" group-title="Sports",Eintracht – RB Leipzig (17:30 (Germany. Bundesliga)) - 17:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Eintracht – RB Leipzig" group-title="Sports",Eintracht – RB Leipzig (17:30 (Germany. Bundesliga)) - 17:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=7470930394cae5ce834a8b9f1b8cd62bae9e69e9
-#EXTINF:-1 tvg-name="Eintracht – RB Leipzig" group-title="Sports",Eintracht – RB Leipzig (17:30 (Germany. Bundesliga)) - 17:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-name="Eintracht – RB Leipzig" group-title="Sports",Eintracht – RB Leipzig (17:30 (Germany. Bundesliga)) - 17:30 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-name="Eintracht – RB Leipzig" group-title="Sports",Eintracht – RB Leipzig (17:30 (Germany. Bundesliga)) - 17:30 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-name="Angers – Le Havre" group-title="Sports",Angers – Le Havre (18:00 (France. Ligue 1)) - 18:00 - Link 1
+#EXTINF:-1 tvg-name="Chelsea – Mancher Utd" group-title="Sports",Chelsea – Mancher Utd (20:00 (England. Premier League)) - 20:00 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="Lille – Nice" group-title="Sports",Lille – Nice (20:05 (France. Ligue 1)) - 20:05 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
-#EXTINF:-1 tvg-name="Angers – Le Havre" group-title="Sports",Angers – Le Havre (18:00 (France. Ligue 1)) - 18:00 - Link 2
+#EXTINF:-1 tvg-name="Lille – Nice" group-title="Sports",Lille – Nice (20:05 (France. Ligue 1)) - 20:05 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 tvg-name="LKPS Lublin – Projekt Warszawa" group-title="Sports",LKPS Lublin – Projekt Warszawa (17:00 (Poland. PlusLiga)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-name="Lube – Verona" group-title="Sports",Lube – Verona (17:00 (Italy. Serie A)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
-#EXTINF:-1 tvg-name="Buriram Utd – Shabab Al Ahli" group-title="Sports",Buriram Utd – Shabab Al Ahli (17:15 (AFC Champions League Elite)) - 17:15 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
-#EXTINF:-1 tvg-name="Buriram Utd – Shabab Al Ahli" group-title="Sports",Buriram Utd – Shabab Al Ahli (17:15 (AFC Champions League Elite)) - 17:15 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
-#EXTINF:-1 tvg-name="Buriram Utd – Shabab Al Ahli" group-title="Sports",Buriram Utd – Shabab Al Ahli (17:15 (AFC Champions League Elite)) - 17:15 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
-#EXTINF:-1 tvg-name="Nizhnyi Novgorod – Dynamo M" group-title="Sports",Nizhnyi Novgorod – Dynamo M (17:30 (Russia. Premier League)) - 17:30
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Dynamo Br – Baranavichy" group-title="Sports",Dynamo Br – Baranavichy (18:00 (Belarus. Vysheyshaya Liga)) - 18:00
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
 #EXTINF:-1 tvg-name="Dresden – VfB 91 Suhl" group-title="Sports",Dresden – VfB 91 Suhl (18:00 (Germany. Women. Bundesliga)) - 18:00
 http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Bastia – Saint-Etienne" group-title="Sports",Bastia – Saint-Etienne (19:00 (France. Ligue 2)) - 19:00
+http://192.168.1.58:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
+#EXTINF:-1 tvg-name="Hanover 96 – Paderborn" group-title="Sports",Hanover 96 – Paderborn (19:30 (Germany. 2 Bundesliga)) - 19:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-name="Hanover 96 – Paderborn" group-title="Sports",Hanover 96 – Paderborn (19:30 (Germany. 2 Bundesliga)) - 19:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09

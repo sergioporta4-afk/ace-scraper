@@ -1,17 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Lille – Nice" group-title="Sports",Lille – Nice (20:05 (France. Ligue 1)) - 20:05 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
-#EXTINF:-1 tvg-name="Lille – Nice" group-title="Sports",Lille – Nice (20:05 (France. Ligue 1)) - 20:05 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 tvg-name="Chelsea – Mancher Utd" group-title="Sports",Chelsea – Mancher Utd (20:00 (England. Premier League)) - 20:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-name="Chelsea – Mancher Utd" group-title="Sports",Chelsea – Mancher Utd (20:00 (England. Premier League)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=39cf32e34909771d6aace84a34b6d9d016955137
-#EXTINF:-1 tvg-name="Chelsea – Mancher Utd" group-title="Sports",Chelsea – Mancher Utd (20:00 (England. Premier League)) - 20:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Chelsea – Mancher Utd" group-title="Sports",Chelsea – Mancher Utd (20:00 (England. Premier League)) - 20:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="Chelsea – Mancher Utd" group-title="Sports",Chelsea – Mancher Utd (20:00 (England. Premier League)) - 20:00 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 tvg-name="Chelsea – Mancher Utd" group-title="Sports",Chelsea – Mancher Utd (20:00 (England. Premier League)) - 20:00 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="Vasco de Gama – Sao Paolo" group-title="Sports",Vasco de Gama – Sao Paolo (22:30 (Brazil. Serie A)) - 22:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 tvg-name="Vasco de Gama – Sao Paolo" group-title="Sports",Vasco de Gama – Sao Paolo (22:30 (Brazil. Serie A)) - 22:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="Vasco de Gama – Sao Paolo" group-title="Sports",Vasco de Gama – Sao Paolo (22:30 (Brazil. Serie A)) - 22:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

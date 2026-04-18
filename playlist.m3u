@@ -13,8 +13,6 @@ http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c
 http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
 #EXTINF:-1 tvg-name="Napoli – Lazio" group-title="Sports",Napoli – Lazio (17:00 (Italy. Serie A)) - 17:00 - Link 7
 http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-name="Lube – Verona" group-title="Sports",Lube – Verona (17:00 (Italy. Serie A)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
 #EXTINF:-1 tvg-name="Tottenham – Brighton" group-title="Sports",Tottenham – Brighton (17:30 (England. Premier League)) - 17:30 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-name="Tottenham – Brighton" group-title="Sports",Tottenham – Brighton (17:30 (England. Premier League)) - 17:30 - Link 2
@@ -39,14 +37,14 @@ http://192.168.1.58:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b2
 http://192.168.1.58:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-name="Eintracht – RB Leipzig" group-title="Sports",Eintracht – RB Leipzig (17:30 (Germany. Bundesliga)) - 17:30 - Link 5
 http://192.168.1.58:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-name="Bath – Harlequins" group-title="Sports",Bath – Harlequins (17:30 (England. Premiership)) - 17:30
-http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-name="Angers – Le Havre" group-title="Sports",Angers – Le Havre (18:00 (France. Ligue 1)) - 18:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
 #EXTINF:-1 tvg-name="Angers – Le Havre" group-title="Sports",Angers – Le Havre (18:00 (France. Ligue 1)) - 18:00 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
 #EXTINF:-1 tvg-name="LKPS Lublin – Projekt Warszawa" group-title="Sports",LKPS Lublin – Projekt Warszawa (17:00 (Poland. PlusLiga)) - 17:00
 http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-name="Lube – Verona" group-title="Sports",Lube – Verona (17:00 (Italy. Serie A)) - 17:00
+http://192.168.1.58:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
 #EXTINF:-1 tvg-name="Buriram Utd – Shabab Al Ahli" group-title="Sports",Buriram Utd – Shabab Al Ahli (17:15 (AFC Champions League Elite)) - 17:15 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-name="Buriram Utd – Shabab Al Ahli" group-title="Sports",Buriram Utd – Shabab Al Ahli (17:15 (AFC Champions League Elite)) - 17:15 - Link 2

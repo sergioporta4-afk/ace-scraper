@@ -15,13 +15,23 @@ http://192.168.1.58:6878/ace/getstream?id=7470930394cae5ce834a8b9f1b8cd62bae9e69
 http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-name="Borussia M – Mainz 0" group-title="Sports",Borussia M – Mainz 0 (18:30 (Germany. Bundesliga)) - 18:30 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-name="Dueren – Lueneburg" group-title="Sports",Dueren – Lueneburg (17:00 (Germany. Bundesliga)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
-#EXTINF:-1 tvg-name="Conegliano – Vero Volley Milan" group-title="Sports",Conegliano – Vero Volley Milan (17:00 (Italy. Women. Serie A)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
-#EXTINF:-1 tvg-name="Krasnodar – Baltika" group-title="Sports",Krasnodar – Baltika (17:30 (Russia. Premier League)) - 17:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-#EXTINF:-1 tvg-name="Krasnodar – Baltika" group-title="Sports",Krasnodar – Baltika (17:30 (Russia. Premier League)) - 17:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Krasnodar – Baltika" group-title="Sports",Krasnodar – Baltika (17:30 (Russia. Premier League)) - 17:30 - Link 3
+#EXTINF:-1 tvg-name="Juventus – Bologna" group-title="Sports",Juventus – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Juventus – Bologna" group-title="Sports",Juventus – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 tvg-name="Juventus – Bologna" group-title="Sports",Juventus – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="Juventus – Bologna" group-title="Sports",Juventus – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-name="Juventus – Bologna" group-title="Sports",Juventus – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 5
 http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="Juventus – Bologna" group-title="Sports",Juventus – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Juventus – Bologna" group-title="Sports",Juventus – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 7
+http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="PSG – Lyon" group-title="Sports",PSG – Lyon (19:45 (France. Ligue 1)) - 19:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="PSG – Lyon" group-title="Sports",PSG – Lyon (19:45 (France. Ligue 1)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-name="PSG – Lyon" group-title="Sports",PSG – Lyon (19:45 (France. Ligue 1)) - 19:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d

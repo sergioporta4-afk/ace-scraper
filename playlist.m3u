@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rosario Central – Sarmiento" group-title="Sports",Rosario Central – Sarmiento (20 April at 0:30(Argentina. Liga Profesional)) - 0:30
-http://192.168.1.58:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 tvg-name="Gujarat Titans – Mumbai Indians" group-title="Sports",Gujarat Titans – Mumbai Indians (15:00 (India. Premier League)) - 15:00
+http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd

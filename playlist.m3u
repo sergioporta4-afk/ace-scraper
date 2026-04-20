@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Palmeiras – Athletico-PR" group-title="Sports",Palmeiras – Athletico-PR (22:30 (Brazil. Serie A)) - 22:30
-http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="Rosario Central – Sarmiento" group-title="Sports",Rosario Central – Sarmiento (20 April at 0:30(Argentina. Liga Profesional)) - 0:30
+http://192.168.1.58:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537

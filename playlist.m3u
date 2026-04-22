@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Brighton – Chelsea" group-title="Sports",Brighton – Chelsea (20:00 (England. Premier League)) - 20:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Brighton – Chelsea" group-title="Sports",Brighton – Chelsea (20:00 (England. Premier League)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
-#EXTINF:-1 tvg-name="Brighton – Chelsea" group-title="Sports",Brighton – Chelsea (20:00 (England. Premier League)) - 20:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
-#EXTINF:-1 tvg-name="Brighton – Chelsea" group-title="Sports",Brighton – Chelsea (20:00 (England. Premier League)) - 20:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-name="Brighton – Chelsea" group-title="Sports",Brighton – Chelsea (20:00 (England. Premier League)) - 20:00 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-name="Brighton – Chelsea" group-title="Sports",Brighton – Chelsea (20:00 (England. Premier League)) - 20:00 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-name="Luck Super Giants – Rajasthan Royals" group-title="Sports",Luck Super Giants – Rajasthan Royals (15:00 (India. Premier League)) - 15:00
+http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd

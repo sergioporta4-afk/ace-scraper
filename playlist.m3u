@@ -1,11 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Orenburg – Nizhnyi Novgorod" group-title="Sports",Orenburg – Nizhnyi Novgorod (15:30 (Russia. Premier League)) - 15:30 - Link 1
+#EXTINF:-1 tvg-name="Lokomotiv M – Zenit" group-title="Sports",Lokomotiv M – Zenit (17:45 (Russia. Premier League)) - 17:45 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Orenburg – Nizhnyi Novgorod" group-title="Sports",Orenburg – Nizhnyi Novgorod (15:30 (Russia. Premier League)) - 15:30 - Link 2
+#EXTINF:-1 tvg-name="Lokomotiv M – Zenit" group-title="Sports",Lokomotiv M – Zenit (17:45 (Russia. Premier League)) - 17:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
+#EXTINF:-1 tvg-name="Lokomotiv M – Zenit" group-title="Sports",Lokomotiv M – Zenit (17:45 (Russia. Premier League)) - 17:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="Dynamo M – Rubin" group-title="Sports",Dynamo M – Rubin (17:45 (Russia. Premier League)) - 17:45 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Orenburg – Nizhnyi Novgorod" group-title="Sports",Orenburg – Nizhnyi Novgorod (15:30 (Russia. Premier League)) - 15:30 - Link 3
+#EXTINF:-1 tvg-name="Dynamo M – Rubin" group-title="Sports",Dynamo M – Rubin (17:45 (Russia. Premier League)) - 17:45 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
-#EXTINF:-1 tvg-name="Luck Super Giants – Rajasthan Royals" group-title="Sports",Luck Super Giants – Rajasthan Royals (15:00 (India. Premier League)) - 15:00
-http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="PSG – Nantes" group-title="Sports",PSG – Nantes (18:00 (France. Ligue 1)) - 18:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="PSG – Nantes" group-title="Sports",PSG – Nantes (18:00 (France. Ligue 1)) - 18:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 tvg-name="PSG – Nantes" group-title="Sports",PSG – Nantes (18:00 (France. Ligue 1)) - 18:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="PSG – Nantes" group-title="Sports",PSG – Nantes (18:00 (France. Ligue 1)) - 18:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=6e672fbd2d325fde727a61aa2ef8b8b02e05c6a4
 #EXTINF:-1 tvg-name="Dukla Jihlava – Litvinov" group-title="Sports",Dukla Jihlava – Litvinov (16:30 (Czech Republic. Extraliga)) - 16:30
 http://192.168.1.58:6878/ace/getstream?id=9684937e371227cf251a1dc721a4a70a42aa9cf8
+#EXTINF:-1 tvg-name="Union Berlin – Bayern Munich" group-title="Sports",Union Berlin – Bayern Munich (17:00 (Germany. Women. Bundesliga)) - 17:00
+http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="Slavia Bratislava – Slovan Bratislava" group-title="Sports",Slavia Bratislava – Slovan Bratislava (17:00 (Slovakia. Women. Extraliga)) - 17:00
+http://192.168.1.58:6878/ace/getstream?id=06c6acedf71f489ac9b28535ced923fc9ce91ee8
+#EXTINF:-1 tvg-name="VfB 91 Suhl – Dresden" group-title="Sports",VfB 91 Suhl – Dresden (18:00 (Germany. Women. Bundesliga)) - 18:00
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b

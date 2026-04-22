@@ -1,19 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Burnley – Mancher City" group-title="Sports",Burnley – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
-#EXTINF:-1 tvg-name="Burnley – Mancher City" group-title="Sports",Burnley – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=39cf32e34909771d6aace84a34b6d9d016955137
-#EXTINF:-1 tvg-name="Burnley – Mancher City" group-title="Sports",Burnley – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Burnley – Mancher City" group-title="Sports",Burnley – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
-#EXTINF:-1 tvg-name="Burnley – Mancher City" group-title="Sports",Burnley – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-name="Burnley – Mancher City" group-title="Sports",Burnley – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="Burnley – Mancher City" group-title="Sports",Burnley – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 7
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-name="Bournemouth – Leeds Utd" group-title="Sports",Bournemouth – Leeds Utd (20:00 (England. Premier League)) - 20:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
-#EXTINF:-1 tvg-name="Bournemouth – Leeds Utd" group-title="Sports",Bournemouth – Leeds Utd (20:00 (England. Premier League)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-name="Renata – Praia Clube" group-title="Sports",Renata – Praia Clube (22:30 (Brazil. Superliga)) - 22:30
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b

@@ -1,9 +1,65 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kaiserslautern – Braunschweig" group-title="Sports",Kaiserslautern – Braunschweig (17:30 (Germany. 2 Bundesliga)) - 17:30
-http://192.168.1.58:6878/ace/getstream?id=fd572fdeeaaff430ab2775e3bae1620295660ebd
-#EXTINF:-1 tvg-name="Fortuna – Dynamo Dresden" group-title="Sports",Fortuna – Dynamo Dresden (17:30 (Germany. 2 Bundesliga)) - 17:30
+#EXTINF:-1 tvg-name="RB Leipzig – Union Berlin" group-title="Sports",RB Leipzig – Union Berlin (19:30 (Germany. Bundesliga)) - 19:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=2857b4180b06927798ce3f7acca685ca381c04f5
+#EXTINF:-1 tvg-name="RB Leipzig – Union Berlin" group-title="Sports",RB Leipzig – Union Berlin (19:30 (Germany. Bundesliga)) - 19:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 tvg-name="RB Leipzig – Union Berlin" group-title="Sports",RB Leipzig – Union Berlin (19:30 (Germany. Bundesliga)) - 19:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=3e3c554e046f98f477b977bc619af08c53d5fe43
+#EXTINF:-1 tvg-name="RB Leipzig – Union Berlin" group-title="Sports",RB Leipzig – Union Berlin (19:30 (Germany. Bundesliga)) - 19:30 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=6d10baf800992705ef864ca36b1fa31497fbc4e1
+#EXTINF:-1 tvg-name="RB Leipzig – Union Berlin" group-title="Sports",RB Leipzig – Union Berlin (19:30 (Germany. Bundesliga)) - 19:30 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=73119cdcee27fbe1c9b01c1993c45199c2c2be25
+#EXTINF:-1 tvg-name="RB Leipzig – Union Berlin" group-title="Sports",RB Leipzig – Union Berlin (19:30 (Germany. Bundesliga)) - 19:30 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 tvg-name="Napoli – Cremonese" group-title="Sports",Napoli – Cremonese (19:45 (Italy. Serie A)) - 19:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=0e27dd275ca534035fffe4e0b571c6ff962266d0
+#EXTINF:-1 tvg-name="Napoli – Cremonese" group-title="Sports",Napoli – Cremonese (19:45 (Italy. Serie A)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Napoli – Cremonese" group-title="Sports",Napoli – Cremonese (19:45 (Italy. Serie A)) - 19:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="Napoli – Cremonese" group-title="Sports",Napoli – Cremonese (19:45 (Italy. Serie A)) - 19:45 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=6f02d2e62ddf684218e780654617c966f5fb6f00
+#EXTINF:-1 tvg-name="Napoli – Cremonese" group-title="Sports",Napoli – Cremonese (19:45 (Italy. Serie A)) - 19:45 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=b049523e143466a42aeec850a344fa28d3c72e67
+#EXTINF:-1 tvg-name="Napoli – Cremonese" group-title="Sports",Napoli – Cremonese (19:45 (Italy. Serie A)) - 19:45 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Napoli – Cremonese" group-title="Sports",Napoli – Cremonese (19:45 (Italy. Serie A)) - 19:45 - Link 7
+http://192.168.1.58:6878/ace/getstream?id=bf38be31cba64f3dbb4443a9ad2ea53f98b6c046
+#EXTINF:-1 tvg-name="Napoli – Cremonese" group-title="Sports",Napoli – Cremonese (19:45 (Italy. Serie A)) - 19:45 - Link 8
+http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-name="Napoli – Cremonese" group-title="Sports",Napoli – Cremonese (19:45 (Italy. Serie A)) - 19:45 - Link 9
+http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 tvg-name="Napoli – Cremonese" group-title="Sports",Napoli – Cremonese (19:45 (Italy. Serie A)) - 19:45 - Link 10
+http://192.168.1.58:6878/ace/getstream?id=f54e93e04a5acb884c7b9e6ad82cadb110209d0d
+#EXTINF:-1 tvg-name="Br – Lens" group-title="Sports",Br – Lens (19:45 (France. Ligue 1)) - 19:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=047b784124f935d8dd1fa6bc7282242125744adc
+#EXTINF:-1 tvg-name="Br – Lens" group-title="Sports",Br – Lens (19:45 (France. Ligue 1)) - 19:45 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=1408de419b1abeac470094e284a07c3512342d69
+#EXTINF:-1 tvg-name="Br – Lens" group-title="Sports",Br – Lens (19:45 (France. Ligue 1)) - 19:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-name="Br – Lens" group-title="Sports",Br – Lens (19:45 (France. Ligue 1)) - 19:45 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=8ee5771889e45db3a3d649ca495fe3336e7e1103
+#EXTINF:-1 tvg-name="Br – Lens" group-title="Sports",Br – Lens (19:45 (France. Ligue 1)) - 19:45 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=b4d77db1e783ef6bfb4897cc300e1deb424f22b9
+#EXTINF:-1 tvg-name="Sunderland – Nottingham For" group-title="Sports",Sunderland – Nottingham For (20:00 (England. Premier League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=388a9aab51606c45eb048e932c7cbfc96e51a1a3
+#EXTINF:-1 tvg-name="Sunderland – Nottingham For" group-title="Sports",Sunderland – Nottingham For (20:00 (England. Premier League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=39cf32e34909771d6aace84a34b6d9d016955137
+#EXTINF:-1 tvg-name="Sunderland – Nottingham For" group-title="Sports",Sunderland – Nottingham For (20:00 (England. Premier League)) - 20:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=7659973587d431bb0053c06f817c9d0a1d327781
+#EXTINF:-1 tvg-name="Sunderland – Nottingham For" group-title="Sports",Sunderland – Nottingham For (20:00 (England. Premier League)) - 20:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=8cece3914a47523d0d7ad916f0ed144a6e04e052
+#EXTINF:-1 tvg-name="Sunderland – Nottingham For" group-title="Sports",Sunderland – Nottingham For (20:00 (England. Premier League)) - 20:00 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Sunderland – Nottingham For" group-title="Sports",Sunderland – Nottingham For (20:00 (England. Premier League)) - 20:00 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-name="Sunderland – Nottingham For" group-title="Sports",Sunderland – Nottingham For (20:00 (England. Premier League)) - 20:00 - Link 7
+http://192.168.1.58:6878/ace/getstream?id=f57ce3c479c3599c8141b2b99746a603b3b95f67
 #EXTINF:-1 tvg-name="FCSB – Petrolul" group-title="Sports",FCSB – Petrolul (18:30 (Romania. Liga 1)) - 18:30
 http://192.168.1.58:6878/ace/getstream?id=bf71b940c984582cce3a30a5843d358af32bc424
 #EXTINF:-1 tvg-name="BW Linz – SCR Altach" group-title="Sports",BW Linz – SCR Altach (18:30 (Austria. Bundesliga)) - 18:30
 http://192.168.1.58:6878/ace/getstream?id=01b0b667ce6a6feae994901c5b56a1d1a3db9d9e
+#EXTINF:-1 tvg-name="Wisla Krakow – Puszcza" group-title="Sports",Wisla Krakow – Puszcza (19:30 (Poland. I Liga)) - 19:30
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="Alverca – Arouca" group-title="Sports",Alverca – Arouca (20:15 (Portugal. Primeira Liga)) - 20:15
+http://192.168.1.58:6878/ace/getstream?id=650831a9a1e696f8ddb79450c7f336114518df2b

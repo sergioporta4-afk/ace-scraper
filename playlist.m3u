@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dynamo Moscow – Spartak" group-title="Sports",Dynamo Moscow – Spartak (17:00 (Russia. Women. Premier League)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1 tvg-name="Kaiserslautern – Braunschweig" group-title="Sports",Kaiserslautern – Braunschweig (17:30 (Germany. 2 Bundesliga)) - 17:30
 http://192.168.1.58:6878/ace/getstream?id=fd572fdeeaaff430ab2775e3bae1620295660ebd
 #EXTINF:-1 tvg-name="Fortuna – Dynamo Dresden" group-title="Sports",Fortuna – Dynamo Dresden (17:30 (Germany. 2 Bundesliga)) - 17:30
 http://192.168.1.58:6878/ace/getstream?id=1408de419b1abeac470094e284a07c3512342d69
+#EXTINF:-1 tvg-name="FCSB – Petrolul" group-title="Sports",FCSB – Petrolul (18:30 (Romania. Liga 1)) - 18:30
+http://192.168.1.58:6878/ace/getstream?id=bf71b940c984582cce3a30a5843d358af32bc424
+#EXTINF:-1 tvg-name="BW Linz – SCR Altach" group-title="Sports",BW Linz – SCR Altach (18:30 (Austria. Bundesliga)) - 18:30
+http://192.168.1.58:6878/ace/getstream?id=01b0b667ce6a6feae994901c5b56a1d1a3db9d9e

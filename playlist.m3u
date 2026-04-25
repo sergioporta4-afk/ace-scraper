@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Cologne – Leverkusen" group-title="Sports",Cologne – Leverkusen (14:30 (Germany. Bundesliga)) - 14:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Cologne – Leverkusen" group-title="Sports",Cologne – Leverkusen (14:30 (Germany. Bundesliga)) - 14:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=fd572fdeeaaff430ab2775e3bae1620295660ebd
-#EXTINF:-1 tvg-name="Mainz 05 – Bayern Munich" group-title="Sports",Mainz 05 – Bayern Munich (14:30 (Germany. Bundesliga)) - 14:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Mainz 05 – Bayern Munich" group-title="Sports",Mainz 05 – Bayern Munich (14:30 (Germany. Bundesliga)) - 14:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=2857b4180b06927798ce3f7acca685ca381c04f5
-#EXTINF:-1 tvg-name="Mainz 05 – Bayern Munich" group-title="Sports",Mainz 05 – Bayern Munich (14:30 (Germany. Bundesliga)) - 14:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=7470930394cae5ce834a8b9f1b8cd62bae9e69e9
 #EXTINF:-1 tvg-name="Wolverhampton – Tottenham" group-title="Sports",Wolverhampton – Tottenham (15:00 (England. Premier League)) - 15:00
 http://192.168.1.58:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
+#EXTINF:-1 tvg-name="Bologna – Roma" group-title="Sports",Bologna – Roma (17:00 (Italy. Serie A)) - 17:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Bologna – Roma" group-title="Sports",Bologna – Roma (17:00 (Italy. Serie A)) - 17:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
 #EXTINF:-1 tvg-name="rpool – Crystal Palace" group-title="Sports",rpool – Crystal Palace (15:00 (England. Premier League)) - 15:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=39cf32e34909771d6aace84a34b6d9d016955137
 #EXTINF:-1 tvg-name="rpool – Crystal Palace" group-title="Sports",rpool – Crystal Palace (15:00 (England. Premier League)) - 15:00 - Link 2
@@ -21,5 +15,3 @@ http://192.168.1.58:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d
 http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1 tvg-name="Rajasthan Royals – Hyderabad Sun Risers" group-title="Sports",Rajasthan Royals – Hyderabad Sun Risers (15:00 (India. Premier League)) - 15:00
 http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-name="Iskra – Minchanka" group-title="Sports",Iskra – Minchanka (15:00 (Belarus. Women. Premier League)) - 15:00
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f

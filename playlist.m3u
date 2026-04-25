@@ -11,8 +11,6 @@ http://192.168.1.58:6878/ace/getstream?id=2857b4180b06927798ce3f7acca685ca381c04
 http://192.168.1.58:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
 #EXTINF:-1 tvg-name="Toulouse – AS Monaco" group-title="Sports",Toulouse – AS Monaco (20:05 (France. Ligue 1)) - 20:05 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 tvg-name="Stal Mielec – Slask" group-title="Sports",Stal Mielec – Slask (18:30 (Poland. I Liga)) - 18:30
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 #EXTINF:-1 tvg-name="Saint-Etienne – Troyes" group-title="Sports",Saint-Etienne – Troyes (19:00 (France. Ligue 2)) - 19:00
 http://192.168.1.58:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
 #EXTINF:-1 tvg-name="Darmstadt – Elversberg" group-title="Sports",Darmstadt – Elversberg (19:30 (Germany. 2 Bundesliga)) - 19:30

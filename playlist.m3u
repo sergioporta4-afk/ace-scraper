@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Gremio-RS – Coritiba" group-title="Sports",Gremio-RS – Coritiba (20:00 (Brazil. Serie A)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="AVS – Sporting" group-title="Sports",AVS – Sporting (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
-#EXTINF:-1 tvg-name="AVS – Sporting" group-title="Sports",AVS – Sporting (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="AVS – Sporting" group-title="Sports",AVS – Sporting (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 3
+#EXTINF:-1 tvg-name="RB Bragantino – Palmeiras" group-title="Sports",RB Bragantino – Palmeiras (22:30 (Brazil. Serie A)) - 22:30 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="RB Bragantino – Palmeiras" group-title="Sports",RB Bragantino – Palmeiras (22:30 (Brazil. Serie A)) - 22:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

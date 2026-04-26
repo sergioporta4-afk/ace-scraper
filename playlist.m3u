@@ -1,39 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rennes – Nantes" group-title="Sports",Rennes – Nantes (16:15 (France. Ligue 1)) - 16:15
-http://192.168.1.58:6878/ace/getstream?id=6e672fbd2d325fde727a61aa2ef8b8b02e05c6a4
-#EXTINF:-1 tvg-name="Paris – Lille" group-title="Sports",Paris – Lille (16:15 (France. Ligue 1)) - 16:15 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
-#EXTINF:-1 tvg-name="Paris – Lille" group-title="Sports",Paris – Lille (16:15 (France. Ligue 1)) - 16:15 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=ebecf3cf1ff78961601f6f0d1764314a78d420ae
-#EXTINF:-1 tvg-name="Dortmund – Freiburg" group-title="Sports",Dortmund – Freiburg (16:30 (Germany. Bundesliga)) - 16:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=2857b4180b06927798ce3f7acca685ca381c04f5
-#EXTINF:-1 tvg-name="Dortmund – Freiburg" group-title="Sports",Dortmund – Freiburg (16:30 (Germany. Bundesliga)) - 16:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=7470930394cae5ce834a8b9f1b8cd62bae9e69e9
-#EXTINF:-1 tvg-name="Dortmund – Freiburg" group-title="Sports",Dortmund – Freiburg (16:30 (Germany. Bundesliga)) - 16:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 tvg-name="Torino – Inter" group-title="Sports",Torino – Inter (17:00 (Italy. Serie A)) - 17:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Torino – Inter" group-title="Sports",Torino – Inter (17:00 (Italy. Serie A)) - 17:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Torino – Inter" group-title="Sports",Torino – Inter (17:00 (Italy. Serie A)) - 17:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
-#EXTINF:-1 tvg-name="Zenit – Akhmat" group-title="Sports",Zenit – Akhmat (17:30 (Russia. Premier League)) - 17:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Zenit – Akhmat" group-title="Sports",Zenit – Akhmat (17:30 (Russia. Premier League)) - 17:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 tvg-name="rela – Porto" group-title="Sports",rela – Porto (18:00 (Portugal. Primeira Liga)) - 18:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
 #EXTINF:-1 tvg-name="rela – Porto" group-title="Sports",rela – Porto (18:00 (Portugal. Primeira Liga)) - 18:00 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
 #EXTINF:-1 tvg-name="rela – Porto" group-title="Sports",rela – Porto (18:00 (Portugal. Primeira Liga)) - 18:00 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="Hibernian – Hearts" group-title="Sports",Hibernian – Hearts (16:30 (Scotland. Premiership)) - 16:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-name="Hibernian – Hearts" group-title="Sports",Hibernian – Hearts (16:30 (Scotland. Premiership)) - 16:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
-#EXTINF:-1 tvg-name="Hibernian – Hearts" group-title="Sports",Hibernian – Hearts (16:30 (Scotland. Premiership)) - 16:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-name="Katowice – Mickiewicz Kluczbork" group-title="Sports",Katowice – Mickiewicz Kluczbork (16:30 (Poland. I Liga)) - 16:30
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-name="Zenit – Akhmat" group-title="Sports",Zenit – Akhmat (17:30 (Russia. Premier League)) - 17:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Zenit – Akhmat" group-title="Sports",Zenit – Akhmat (17:30 (Russia. Premier League)) - 17:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 tvg-name="Torpedo-BelAZ – Arsenal Dzerzhinsk" group-title="Sports",Torpedo-BelAZ – Arsenal Dzerzhinsk (18:00 (Belarus. Vysheyshaya Liga)) - 18:00
 http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f

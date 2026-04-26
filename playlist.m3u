@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Genoa – Como" group-title="Sports",Genoa – Como (14:00 (Italy. Serie A)) - 14:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=0891665b3d5b40b58129a021314286b96e1910c6
-#EXTINF:-1 tvg-name="Genoa – Como" group-title="Sports",Genoa – Como (14:00 (Italy. Serie A)) - 14:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Genoa – Como" group-title="Sports",Genoa – Como (14:00 (Italy. Serie A)) - 14:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Genoa – Como" group-title="Sports",Genoa – Como (14:00 (Italy. Serie A)) - 14:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
-#EXTINF:-1 tvg-name="Lorient – Strasbourg" group-title="Sports",Lorient – Strasbourg (14:00 (France. Ligue 1)) - 14:00
-http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
 #EXTINF:-1 tvg-name="Stuttgart – Werder Bremen" group-title="Sports",Stuttgart – Werder Bremen (14:30 (Germany. Bundesliga)) - 14:30 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=2857b4180b06927798ce3f7acca685ca381c04f5
 #EXTINF:-1 tvg-name="Stuttgart – Werder Bremen" group-title="Sports",Stuttgart – Werder Bremen (14:30 (Germany. Bundesliga)) - 14:30 - Link 2
@@ -17,5 +7,13 @@ http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee7
 http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
 #EXTINF:-1 tvg-name="Stuttgart – Werder Bremen" group-title="Sports",Stuttgart – Werder Bremen (14:30 (Germany. Bundesliga)) - 14:30 - Link 4
 http://192.168.1.58:6878/ace/getstream?id=7470930394cae5ce834a8b9f1b8cd62bae9e69e9
-#EXTINF:-1 tvg-name="Dundee United – Dundee" group-title="Sports",Dundee United – Dundee (14:00 (Scotland. Premiership)) - 14:00
-http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="Lorient – Strasbourg" group-title="Sports",Lorient – Strasbourg (14:00 (France. Ligue 1)) - 14:00
+http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-name="Krasnodar – Dynamo Makhachkala" group-title="Sports",Krasnodar – Dynamo Makhachkala (15:00 (Russia. Premier League)) - 15:00
+http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="Dynamo M – Sochi" group-title="Sports",Dynamo M – Sochi (15:00 (Russia. Premier League)) - 15:00
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Luck Super Giants – Kolkata Knight Riders" group-title="Sports",Luck Super Giants – Kolkata Knight Riders (15:00 (India. Premier League)) - 15:00
+http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="Sturm – Austria Vienna" group-title="Sports",Sturm – Austria Vienna (16:00 (Austria. Bundesliga)) - 16:00
+http://192.168.1.58:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc

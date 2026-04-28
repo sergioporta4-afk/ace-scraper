@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Minas – Sada Cruzeiro" group-title="Sports",Minas – Sada Cruzeiro (1:00 (Brazil. Superliga)) - 1:00
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Ocelari Trinec – Dynamo Pardubice" group-title="Sports",Ocelari Trinec – Dynamo Pardubice (16:00 (Czech Republic. Extraliga)) - 16:00
+http://192.168.1.58:6878/ace/getstream?id=9684937e371227cf251a1dc721a4a70a42aa9cf8
+#EXTINF:-1 tvg-name="Olimpia Grodno – Minchanka" group-title="Sports",Olimpia Grodno – Minchanka (17:00 (Belarus. Women. Premier League)) - 17:00
+http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f

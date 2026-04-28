@@ -1,5 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ocelari Trinec – Dynamo Pardubice" group-title="Sports",Ocelari Trinec – Dynamo Pardubice (16:00 (Czech Republic. Extraliga)) - 16:00
-http://192.168.1.58:6878/ace/getstream?id=9684937e371227cf251a1dc721a4a70a42aa9cf8
-#EXTINF:-1 tvg-name="Olimpia Grodno – Minchanka" group-title="Sports",Olimpia Grodno – Minchanka (17:00 (Belarus. Women. Premier League)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
+#EXTINF:-1 tvg-name="PSG – Bayern Munich" group-title="Sports",PSG – Bayern Munich (28 April at 20:00(Champions League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="PSG – Bayern Munich" group-title="Sports",PSG – Bayern Munich (28 April at 20:00(Champions League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=022598c8a90946812e93f3e9fb73125f47930eda
+#EXTINF:-1 tvg-name="PSG – Bayern Munich" group-title="Sports",PSG – Bayern Munich (28 April at 20:00(Champions League)) - 20:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
+#EXTINF:-1 tvg-name="PSG – Bayern Munich" group-title="Sports",PSG – Bayern Munich (28 April at 20:00(Champions League)) - 20:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-name="PSG – Bayern Munich" group-title="Sports",PSG – Bayern Munich (28 April at 20:00(Champions League)) - 20:00 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=81585e85965a97a604a9be277a0d4154db2efff5
+#EXTINF:-1 tvg-name="PSG – Bayern Munich" group-title="Sports",PSG – Bayern Munich (28 April at 20:00(Champions League)) - 20:00 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=a4435a0ec7b341438e19aa934d3716b43f13328f
+#EXTINF:-1 tvg-name="PSG – Bayern Munich" group-title="Sports",PSG – Bayern Munich (28 April at 20:00(Champions League)) - 20:00 - Link 7
+http://192.168.1.58:6878/ace/getstream?id=bfd227a346deb5f20635396e51249c8b9b7d360d
+#EXTINF:-1 tvg-name="PSG – Bayern Munich" group-title="Sports",PSG – Bayern Munich (28 April at 20:00(Champions League)) - 20:00 - Link 8
+http://192.168.1.58:6878/ace/getstream?id=d5375c2bd51075cfaa1be276428a28744a575495
+#EXTINF:-1 tvg-name="PSG – Bayern Munich" group-title="Sports",PSG – Bayern Munich (28 April at 20:00(Champions League)) - 20:00 - Link 9
+http://192.168.1.58:6878/ace/getstream?id=e8a6fe323608467f0f846a5d2d7ad91b0d5d59c8
+#EXTINF:-1 tvg-name="PSG – Bayern Munich" group-title="Sports",PSG – Bayern Munich (28 April at 20:00(Champions League)) - 20:00 - Link 10
+http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-name="PSG – Bayern Munich" group-title="Sports",PSG – Bayern Munich (28 April at 20:00(Champions League)) - 20:00 - Link 11
+http://192.168.1.58:6878/ace/getstream?id=fd572fdeeaaff430ab2775e3bae1620295660ebd

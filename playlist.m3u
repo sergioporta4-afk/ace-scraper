@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Veszprem – Fuechse Berlin" group-title="Sports",Veszprem – Fuechse Berlin (17:45 (EHF Champions League)) - 17:45
+http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-name="Gujarat Titans – Royal Challengers Bengaluru" group-title="Sports",Gujarat Titans – Royal Challengers Bengaluru (15:00 (India. Premier League)) - 15:00
 http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd

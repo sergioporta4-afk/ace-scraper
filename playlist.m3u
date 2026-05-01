@@ -1,5 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Lokomotiv M – Dynamo M" group-title="Sports",Lokomotiv M – Dynamo M (17:30 (Russia. Premier League)) - 17:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Lokomotiv M – Dynamo M" group-title="Sports",Lokomotiv M – Dynamo M (17:30 (Russia. Premier League)) - 17:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="Pisa – Lecce" group-title="Sports",Pisa – Lecce (19:45 (Italy. Serie A)) - 19:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="Pisa – Lecce" group-title="Sports",Pisa – Lecce (19:45 (Italy. Serie A)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Leeds Utd – Burnley" group-title="Sports",Leeds Utd – Burnley (20:00 (England. Premier League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=39cf32e34909771d6aace84a34b6d9d016955137
+#EXTINF:-1 tvg-name="Leeds Utd – Burnley" group-title="Sports",Leeds Utd – Burnley (20:00 (England. Premier League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Leeds Utd – Burnley" group-title="Sports",Leeds Utd – Burnley (20:00 (England. Premier League)) - 20:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
+#EXTINF:-1 tvg-name="Leeds Utd – Burnley" group-title="Sports",Leeds Utd – Burnley (20:00 (England. Premier League)) - 20:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1 tvg-name="Leeds Utd – Burnley" group-title="Sports",Leeds Utd – Burnley (20:00 (England. Premier League)) - 20:00 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Leeds Utd – Burnley" group-title="Sports",Leeds Utd – Burnley (20:00 (England. Premier League)) - 20:00 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-name="Gornik Leczna – Slask" group-title="Sports",Gornik Leczna – Slask (19:30 (Poland. I Liga)) - 19:30
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867

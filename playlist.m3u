@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dynamo Makhachkala – Rostov" group-title="Sports",Dynamo Makhachkala – Rostov (12:00 (Russia. Premier League)) - 12:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Dynamo Makhachkala – Rostov" group-title="Sports",Dynamo Makhachkala – Rostov (12:00 (Russia. Premier League)) - 12:00 - Link 2
+#EXTINF:-1 tvg-name="Udinese – Torino" group-title="Sports",Udinese – Torino (14:00 (Italy. Serie A)) - 14:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-name="Udinese – Torino" group-title="Sports",Udinese – Torino (14:00 (Italy. Serie A)) - 14:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
+#EXTINF:-1 tvg-name="Udinese – Torino" group-title="Sports",Udinese – Torino (14:00 (Italy. Serie A)) - 14:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Union Berlin – Cologne" group-title="Sports",Union Berlin – Cologne (14:30 (Germany. Bundesliga)) - 14:30
+http://192.168.1.58:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
+#EXTINF:-1 tvg-name="Hoffenheim – Stuttgart" group-title="Sports",Hoffenheim – Stuttgart (14:30 (Germany. Bundesliga)) - 14:30
+http://192.168.1.58:6878/ace/getstream?id=7470930394cae5ce834a8b9f1b8cd62bae9e69e9
+#EXTINF:-1 tvg-name="Bayern Munich – Heidenheim" group-title="Sports",Bayern Munich – Heidenheim (14:30 (Germany. Bundesliga)) - 14:30
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="Warta Zawiercie – LKPS Lublin" group-title="Sports",Warta Zawiercie – LKPS Lublin (13:45 (Poland. PlusLiga)) - 13:45
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-name="Baltika – Rubin" group-title="Sports",Baltika – Rubin (14:30 (Russia. Premier League)) - 14:30
 http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Dynamo Makhachkala – Rostov" group-title="Sports",Dynamo Makhachkala – Rostov (12:00 (Russia. Premier League)) - 12:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
-#EXTINF:-1 tvg-name="Dynamo Dresden – Kaiserslautern" group-title="Sports",Dynamo Dresden – Kaiserslautern (12:00 (Germany. 2 Bundesliga)) - 12:00
-http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 tvg-name="Arminia – Bochum" group-title="Sports",Arminia – Bochum (12:00 (Germany. 2 Bundesliga)) - 12:00
-http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00

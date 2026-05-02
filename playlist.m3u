@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Porto – Alverca" group-title="Sports",Porto – Alverca (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Porto – Alverca" group-title="Sports",Porto – Alverca (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 2
+#EXTINF:-1 tvg-name="Palmeiras – Santos-SP" group-title="Sports",Palmeiras – Santos-SP (22:30 (Brazil. Serie A)) - 22:30 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="Botafogo-RJ – Remo" group-title="Sports",Botafogo-RJ – Remo (20:00 (Brazil. Serie A)) - 20:00
+#EXTINF:-1 tvg-name="Palmeiras – Santos-SP" group-title="Sports",Palmeiras – Santos-SP (22:30 (Brazil. Serie A)) - 22:30 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Nice – Lens" group-title="Sports",Nice – Lens (20:05 (France. Ligue 1)) - 20:05
-http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09

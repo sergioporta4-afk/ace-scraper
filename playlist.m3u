@@ -1,5 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Cruzeiro-MG – Atletico-MG:00" group-title="Sports",Cruzeiro-MG – Atletico-MG:00 (1:00 (Brazil. Serie A)) - 1:00 - Link 1
+#EXTINF:-1 tvg-name="Bologna – Cagliari" group-title="Sports",Bologna – Cagliari (11:30 (Italy. Serie A)) - 11:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Bologna – Cagliari" group-title="Sports",Bologna – Cagliari (11:30 (Italy. Serie A)) - 11:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Bologna – Cagliari" group-title="Sports",Bologna – Cagliari (11:30 (Italy. Serie A)) - 11:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1 tvg-name="Bologna – Cagliari" group-title="Sports",Bologna – Cagliari (11:30 (Italy. Serie A)) - 11:30 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1 tvg-name="Sochi – Orenburg" group-title="Sports",Sochi – Orenburg (12:30 (Russia. Premier League)) - 12:30
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Hyderabad Sun Risers – Kolkata Knight Riders" group-title="Sports",Hyderabad Sun Risers – Kolkata Knight Riders (11:00 (India. Premier League)) - 11:00
+http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="Hibernian – Celtic" group-title="Sports",Hibernian – Celtic (12:00 (Scotland. Premiership)) - 12:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Hibernian – Celtic" group-title="Sports",Hibernian – Celtic (12:00 (Scotland. Premiership)) - 12:00 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="Cruzeiro-MG – Atletico-MG:00" group-title="Sports",Cruzeiro-MG – Atletico-MG:00 (1:00 (Brazil. Serie A)) - 1:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Hibernian – Celtic" group-title="Sports",Hibernian – Celtic (12:00 (Scotland. Premiership)) - 12:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-name="Hibernian – Celtic" group-title="Sports",Hibernian – Celtic (12:00 (Scotland. Premiership)) - 12:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Magdeburg – Hertha Berlin" group-title="Sports",Magdeburg – Hertha Berlin (12:30 (Germany. 2 Bundesliga)) - 12:30
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="Elversberg – Paderborn" group-title="Sports",Elversberg – Paderborn (12:30 (Germany. 2 Bundesliga)) - 12:30
+http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09

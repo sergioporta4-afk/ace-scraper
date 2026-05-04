@@ -1,25 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Cremonese – Lazio" group-title="Sports",Cremonese – Lazio (17:30 (Italy. Serie A)) - 17:30 - Link 1
+#EXTINF:-1 tvg-name="Roma – Fiorentina" group-title="Sports",Roma – Fiorentina (19:45 (Italy. Serie A)) - 19:45 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Cremonese – Lazio" group-title="Sports",Cremonese – Lazio (17:30 (Italy. Serie A)) - 17:30 - Link 2
+#EXTINF:-1 tvg-name="Roma – Fiorentina" group-title="Sports",Roma – Fiorentina (19:45 (Italy. Serie A)) - 19:45 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="Cremonese – Lazio" group-title="Sports",Cremonese – Lazio (17:30 (Italy. Serie A)) - 17:30 - Link 3
+#EXTINF:-1 tvg-name="Roma – Fiorentina" group-title="Sports",Roma – Fiorentina (19:45 (Italy. Serie A)) - 19:45 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Polonia Bytom – Polonia Warsaw" group-title="Sports",Polonia Bytom – Polonia Warsaw (17:00 (Poland. I Liga)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 tvg-name="Eintracht – Nuremberg" group-title="Sports",Eintracht – Nuremberg (17:00 (Germany. Women. Bundesliga)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=1950633a3723cb52b17c764125decc04445bd5ff
-#EXTINF:-1 tvg-name="Hearts – Rangers" group-title="Sports",Hearts – Rangers (17:30 (Scotland. Premiership)) - 17:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=39cf32e34909771d6aace84a34b6d9d016955137
-#EXTINF:-1 tvg-name="Hearts – Rangers" group-title="Sports",Hearts – Rangers (17:30 (Scotland. Premiership)) - 17:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Hearts – Rangers" group-title="Sports",Hearts – Rangers (17:30 (Scotland. Premiership)) - 17:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="Hearts – Rangers" group-title="Sports",Hearts – Rangers (17:30 (Scotland. Premiership)) - 17:30 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-name="Hearts – Rangers" group-title="Sports",Hearts – Rangers (17:30 (Scotland. Premiership)) - 17:30 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
-#EXTINF:-1 tvg-name="Hearts – Rangers" group-title="Sports",Hearts – Rangers (17:30 (Scotland. Premiership)) - 17:30 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-name="Hearts – Rangers" group-title="Sports",Hearts – Rangers (17:30 (Scotland. Premiership)) - 17:30 - Link 7
+#EXTINF:-1 tvg-name="Roma – Fiorentina" group-title="Sports",Roma – Fiorentina (19:45 (Italy. Serie A)) - 19:45 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1 tvg-name="Roma – Fiorentina" group-title="Sports",Roma – Fiorentina (19:45 (Italy. Serie A)) - 19:45 - Link 5
 http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 tvg-name="Roma – Fiorentina" group-title="Sports",Roma – Fiorentina (19:45 (Italy. Serie A)) - 19:45 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1 tvg-name="Everton – Mancher City" group-title="Sports",Everton – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=39cf32e34909771d6aace84a34b6d9d016955137
+#EXTINF:-1 tvg-name="Everton – Mancher City" group-title="Sports",Everton – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Everton – Mancher City" group-title="Sports",Everton – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
+#EXTINF:-1 tvg-name="Everton – Mancher City" group-title="Sports",Everton – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Everton – Mancher City" group-title="Sports",Everton – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-name="LASK – Rapid Vienna" group-title="Sports",LASK – Rapid Vienna (19:30 (Austria. Bundesliga)) - 19:30
+http://192.168.1.58:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
+#EXTINF:-1 tvg-name="Wybrzeze Gdansk – Wisla Plock" group-title="Sports",Wybrzeze Gdansk – Wisla Plock (19:30 (Poland. Superliga)) - 19:30
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee

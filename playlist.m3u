@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Tsmoki Minsk – Borisfen" group-title="Sports",Tsmoki Minsk – Borisfen (16:30 (Belarus. Premier League)) - 16:30
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-#EXTINF:-1 tvg-name="Anioly Torun – Mickiewicz Kluczbork" group-title="Sports",Anioly Torun – Mickiewicz Kluczbork (16:30 (Poland. I Liga)) - 16:30
+#EXTINF:-1 tvg-name="Katowice – Bielsko-Biala" group-title="Sports",Katowice – Bielsko-Biala (19:00 (Poland. I Liga)) - 19:00
 http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f

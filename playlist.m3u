@@ -1,17 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Everton – Mancher City" group-title="Sports",Everton – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=39cf32e34909771d6aace84a34b6d9d016955137
-#EXTINF:-1 tvg-name="Everton – Mancher City" group-title="Sports",Everton – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Everton – Mancher City" group-title="Sports",Everton – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
-#EXTINF:-1 tvg-name="Everton – Mancher City" group-title="Sports",Everton – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
-#EXTINF:-1 tvg-name="Everton – Mancher City" group-title="Sports",Everton – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-name="Everton – Mancher City" group-title="Sports",Everton – Mancher City (20:00 (England. Premier League)) - 20:00 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 tvg-name="Sporting – Vitoria" group-title="Sports",Sporting – Vitoria (20:15 (Portugal. Primeira Liga)) - 20:15 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Sporting – Vitoria" group-title="Sports",Sporting – Vitoria (20:15 (Portugal. Primeira Liga)) - 20:15 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="Tsmoki Minsk – Borisfen" group-title="Sports",Tsmoki Minsk – Borisfen (16:30 (Belarus. Premier League)) - 16:30
+http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
+#EXTINF:-1 tvg-name="Anioly Torun – Mickiewicz Kluczbork" group-title="Sports",Anioly Torun – Mickiewicz Kluczbork (16:30 (Poland. I Liga)) - 16:30
+http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f

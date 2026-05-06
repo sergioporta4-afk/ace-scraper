@@ -1,23 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Arsenal – Atletico Madrid" group-title="Sports",Arsenal – Atletico Madrid (20:00 (Champions League)) - 20:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Arsenal – Atletico Madrid" group-title="Sports",Arsenal – Atletico Madrid (20:00 (Champions League)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=08b027662114a352196c7a1d855a0ff9482c399b
-#EXTINF:-1 tvg-name="Arsenal – Atletico Madrid" group-title="Sports",Arsenal – Atletico Madrid (20:00 (Champions League)) - 20:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=50352bad6a4fcecfad63a38853d48aa865f00a70
-#EXTINF:-1 tvg-name="Arsenal – Atletico Madrid" group-title="Sports",Arsenal – Atletico Madrid (20:00 (Champions League)) - 20:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-name="Arsenal – Atletico Madrid" group-title="Sports",Arsenal – Atletico Madrid (20:00 (Champions League)) - 20:00 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
-#EXTINF:-1 tvg-name="Arsenal – Atletico Madrid" group-title="Sports",Arsenal – Atletico Madrid (20:00 (Champions League)) - 20:00 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=962a53fc8c30f12e7d8d344870164f72ef3c8ac0
-#EXTINF:-1 tvg-name="Arsenal – Atletico Madrid" group-title="Sports",Arsenal – Atletico Madrid (20:00 (Champions League)) - 20:00 - Link 7
-http://192.168.1.58:6878/ace/getstream?id=c7fab4f877a44cb9c7fedd49d9fde4c7e5258b97
-#EXTINF:-1 tvg-name="Arsenal – Atletico Madrid" group-title="Sports",Arsenal – Atletico Madrid (20:00 (Champions League)) - 20:00 - Link 8
-http://192.168.1.58:6878/ace/getstream?id=fa45b47da7f6bdde424ac90e196333f91048f5f6
-#EXTINF:-1 tvg-name="Arsenal – Atletico Madrid" group-title="Sports",Arsenal – Atletico Madrid (20:00 (Champions League)) - 20:00 - Link 9
-http://192.168.1.58:6878/ace/getstream?id=faba69b0a8c7a3a3cc9e9932b905650f734beb0d
-#EXTINF:-1 tvg-name="Arsenal – Atletico Madrid" group-title="Sports",Arsenal – Atletico Madrid (20:00 (Champions League)) - 20:00 - Link 10
-http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-name="Arsenal – Atletico Madrid" group-title="Sports",Arsenal – Atletico Madrid (20:00 (Champions League)) - 20:00 - Link 11
-http://192.168.1.58:6878/ace/getstream?id=fd572fdeeaaff430ab2775e3bae1620295660ebd
+#EXTINF:-1 tvg-name="Resovia Rzeszow – Projekt Warszawa" group-title="Sports",Resovia Rzeszow – Projekt Warszawa (16:30 (Poland. PlusLiga)) - 16:30
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-name="Hyderabad Sun Risers – Punjab Kings" group-title="Sports",Hyderabad Sun Risers – Punjab Kings (15:00 (India. Premier League)) - 15:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="Hyderabad Sun Risers – Punjab Kings" group-title="Sports",Hyderabad Sun Risers – Punjab Kings (15:00 (India. Premier League)) - 15:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Gomel – BNTU-BelAZ" group-title="Sports",Gomel – BNTU-BelAZ (16:00 (Belarus. Women. Premier League)) - 16:00
+http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f

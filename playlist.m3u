@@ -1,3 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Lueneburg – Berlin RV" group-title="Sports",Lueneburg – Berlin RV (18:00 (Germany. Bundesliga)) - 18:00
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Barcelona – Nantes" group-title="Sports",Barcelona – Nantes (19:45 (EHF Champions League)) - 19:45
+http://192.168.1.58:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="Bayern Munich – PSG" group-title="Sports",Bayern Munich – PSG (20:00 (Champions League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Bayern Munich – PSG" group-title="Sports",Bayern Munich – PSG (20:00 (Champions League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=2857b4180b06927798ce3f7acca685ca381c04f5
+#EXTINF:-1 tvg-name="Bayern Munich – PSG" group-title="Sports",Bayern Munich – PSG (20:00 (Champions League)) - 20:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-name="Bayern Munich – PSG" group-title="Sports",Bayern Munich – PSG (20:00 (Champions League)) - 20:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
+#EXTINF:-1 tvg-name="Bayern Munich – PSG" group-title="Sports",Bayern Munich – PSG (20:00 (Champions League)) - 20:00 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="Bayern Munich – PSG" group-title="Sports",Bayern Munich – PSG (20:00 (Champions League)) - 20:00 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="Bayern Munich – PSG" group-title="Sports",Bayern Munich – PSG (20:00 (Champions League)) - 20:00 - Link 7
+http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058

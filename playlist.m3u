@@ -1,5 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Luck Super Giants – Royal Challengers Bengaluru" group-title="Sports",Luck Super Giants – Royal Challengers Bengaluru (15:00 (India. Premier League)) - 15:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-name="Luck Super Giants – Royal Challengers Bengaluru" group-title="Sports",Luck Super Giants – Royal Challengers Bengaluru (15:00 (India. Premier League)) - 15:00 - Link 2
+#EXTINF:-1 tvg-name="Aston Villa – Nottingham For" group-title="Sports",Aston Villa – Nottingham For (20:00 (Europa League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Aston Villa – Nottingham For" group-title="Sports",Aston Villa – Nottingham For (20:00 (Europa League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="Aston Villa – Nottingham For" group-title="Sports",Aston Villa – Nottingham For (20:00 (Europa League)) - 20:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-name="Aston Villa – Nottingham For" group-title="Sports",Aston Villa – Nottingham For (20:00 (Europa League)) - 20:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
+#EXTINF:-1 tvg-name="Aston Villa – Nottingham For" group-title="Sports",Aston Villa – Nottingham For (20:00 (Europa League)) - 20:00 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="Aston Villa – Nottingham For" group-title="Sports",Aston Villa – Nottingham For (20:00 (Europa League)) - 20:00 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-name="Freiburg – Braga" group-title="Sports",Freiburg – Braga (20:00 (Europa League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-name="Freiburg – Braga" group-title="Sports",Freiburg – Braga (20:00 (Europa League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=6e672fbd2d325fde727a61aa2ef8b8b02e05c6a4
+#EXTINF:-1 tvg-name="Freiburg – Braga" group-title="Sports",Freiburg – Braga (20:00 (Europa League)) - 20:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-name="Freiburg – Braga" group-title="Sports",Freiburg – Braga (20:00 (Europa League)) - 20:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1 tvg-name="Premier League19:10 (PDC)" group-title="Sports",Premier League19:10 (PDC) (19:10 (PDC)) - 19:10 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="Premier League19:10 (PDC)" group-title="Sports",Premier League19:10 (PDC) (19:10 (PDC)) - 19:10 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=1950633a3723cb52b17c764125decc04445bd5ff
+#EXTINF:-1 tvg-name="Premier League19:10 (PDC)" group-title="Sports",Premier League19:10 (PDC) (19:10 (PDC)) - 19:10 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
+#EXTINF:-1 tvg-name="Premier League19:10 (PDC)" group-title="Sports",Premier League19:10 (PDC) (19:10 (PDC)) - 19:10 - Link 4
 http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e

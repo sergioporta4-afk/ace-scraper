@@ -1,3 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Delhi Capitals – Kolkata Knight Riders" group-title="Sports",Delhi Capitals – Kolkata Knight Riders (15:00 (India. Premier League)) - 15:00
 http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="Cartagena – Sporting" group-title="Sports",Cartagena – Sporting (16:30 (Champions League)) - 16:30
+http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="Paderborn – Karlsruhe" group-title="Sports",Paderborn – Karlsruhe (17:30 (Germany. 2 Bundesliga)) - 17:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=1408de419b1abeac470094e284a07c3512342d69
+#EXTINF:-1 tvg-name="Paderborn – Karlsruhe" group-title="Sports",Paderborn – Karlsruhe (17:30 (Germany. 2 Bundesliga)) - 17:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 tvg-name="Kaiserslautern – Arminia" group-title="Sports",Kaiserslautern – Arminia (17:30 (Germany. 2 Bundesliga)) - 17:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="Kaiserslautern – Arminia" group-title="Sports",Kaiserslautern – Arminia (17:30 (Germany. 2 Bundesliga)) - 17:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=6e672fbd2d325fde727a61aa2ef8b8b02e05c6a4
+#EXTINF:-1 tvg-name="Nuremberg – Essen" group-title="Sports",Nuremberg – Essen (17:30 (Germany. Women. Bundesliga)) - 17:30
+http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229

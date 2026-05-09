@@ -9,5 +9,25 @@ http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368e
 http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
 #EXTINF:-1 tvg-name="Lazio – Inter" group-title="Sports",Lazio – Inter (17:00 (Italy. Serie A)) - 17:00 - Link 5
 http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
-#EXTINF:-1 tvg-name="Rajasthan Royals – Gujarat Titans" group-title="Sports",Rajasthan Royals – Gujarat Titans (15:00 (India. Premier League)) - 15:00
-http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="Mancher City – Brentford" group-title="Sports",Mancher City – Brentford (17:30 (England. Premier League)) - 17:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="Mancher City – Brentford" group-title="Sports",Mancher City – Brentford (17:30 (England. Premier League)) - 17:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=39cf32e34909771d6aace84a34b6d9d016955137
+#EXTINF:-1 tvg-name="Mancher City – Brentford" group-title="Sports",Mancher City – Brentford (17:30 (England. Premier League)) - 17:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Mancher City – Brentford" group-title="Sports",Mancher City – Brentford (17:30 (England. Premier League)) - 17:30 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-name="Mancher City – Brentford" group-title="Sports",Mancher City – Brentford (17:30 (England. Premier League)) - 17:30 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Mancher City – Brentford" group-title="Sports",Mancher City – Brentford (17:30 (England. Premier League)) - 17:30 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-name="Wolfsburg – Bayern Munich" group-title="Sports",Wolfsburg – Bayern Munich (17:30 (Germany. Bundesliga)) - 17:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=2857b4180b06927798ce3f7acca685ca381c04f5
+#EXTINF:-1 tvg-name="Wolfsburg – Bayern Munich" group-title="Sports",Wolfsburg – Bayern Munich (17:30 (Germany. Bundesliga)) - 17:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="Wolfsburg – Bayern Munich" group-title="Sports",Wolfsburg – Bayern Munich (17:30 (Germany. Bundesliga)) - 17:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=7470930394cae5ce834a8b9f1b8cd62bae9e69e9
+#EXTINF:-1 tvg-name="Wolfsburg – Bayern Munich" group-title="Sports",Wolfsburg – Bayern Munich (17:30 (Germany. Bundesliga)) - 17:30 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-name="Wolfsburg – Bayern Munich" group-title="Sports",Wolfsburg – Bayern Munich (17:30 (Germany. Bundesliga)) - 17:30 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e

@@ -1,27 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="rpool – Chelsea" group-title="Sports",rpool – Chelsea (12:30 (England. Premier League)) - 12:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="rpool – Chelsea" group-title="Sports",rpool – Chelsea (12:30 (England. Premier League)) - 12:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-name="rpool – Chelsea" group-title="Sports",rpool – Chelsea (12:30 (England. Premier League)) - 12:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=39cf32e34909771d6aace84a34b6d9d016955137
-#EXTINF:-1 tvg-name="rpool – Chelsea" group-title="Sports",rpool – Chelsea (12:30 (England. Premier League)) - 12:30 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="rpool – Chelsea" group-title="Sports",rpool – Chelsea (12:30 (England. Premier League)) - 12:30 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
-#EXTINF:-1 tvg-name="rpool – Chelsea" group-title="Sports",rpool – Chelsea (12:30 (England. Premier League)) - 12:30 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="rpool – Chelsea" group-title="Sports",rpool – Chelsea (12:30 (England. Premier League)) - 12:30 - Link 7
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-name="Cologne – Hamburg" group-title="Sports",Cologne – Hamburg (11:00 (Germany. Women. Bundesliga)) - 11:00
-http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="Holstein Kiel – Magdeburg" group-title="Sports",Holstein Kiel – Magdeburg (12:00 (Germany. 2 Bundesliga)) - 12:00
+#EXTINF:-1 tvg-name="Cagliari – Udinese" group-title="Sports",Cagliari – Udinese (14:00 (Italy. Serie A)) - 14:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-name="Cagliari – Udinese" group-title="Sports",Cagliari – Udinese (14:00 (Italy. Serie A)) - 14:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-name="Cagliari – Udinese" group-title="Sports",Cagliari – Udinese (14:00 (Italy. Serie A)) - 14:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Cagliari – Udinese" group-title="Sports",Cagliari – Udinese (14:00 (Italy. Serie A)) - 14:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1 tvg-name="Stuttgart – Leverkusen" group-title="Sports",Stuttgart – Leverkusen (14:30 (Germany. Bundesliga)) - 14:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-name="Stuttgart – Leverkusen" group-title="Sports",Stuttgart – Leverkusen (14:30 (Germany. Bundesliga)) - 14:30 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Braunschweig – Dynamo Dresden" group-title="Sports",Braunschweig – Dynamo Dresden (12:00 (Germany. 2 Bundesliga)) - 12:00
-http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 tvg-name="Bochum – Hanover 9" group-title="Sports",Bochum – Hanover 9 (12:00 (Germany. 2 Bundesliga)) - 12:00 - Link 1
+#EXTINF:-1 tvg-name="Stuttgart – Leverkusen" group-title="Sports",Stuttgart – Leverkusen (14:30 (Germany. Bundesliga)) - 14:30 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=2857b4180b06927798ce3f7acca685ca381c04f5
-#EXTINF:-1 tvg-name="Bochum – Hanover 9" group-title="Sports",Bochum – Hanover 9 (12:00 (Germany. 2 Bundesliga)) - 12:00 - Link 2
+#EXTINF:-1 tvg-name="Stuttgart – Leverkusen" group-title="Sports",Stuttgart – Leverkusen (14:30 (Germany. Bundesliga)) - 14:30 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=7470930394cae5ce834a8b9f1b8cd62bae9e69e9
+#EXTINF:-1 tvg-name="RB Leipzig – St Pauli" group-title="Sports",RB Leipzig – St Pauli (14:30 (Germany. Bundesliga)) - 14:30 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Bochum – Hanover 9" group-title="Sports",Bochum – Hanover 9 (12:00 (Germany. 2 Bundesliga)) - 12:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-name="RB Leipzig – St Pauli" group-title="Sports",RB Leipzig – St Pauli (14:30 (Germany. Bundesliga)) - 14:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
+#EXTINF:-1 tvg-name="Hoffenheim – Werder Bremen" group-title="Sports",Hoffenheim – Werder Bremen (14:30 (Germany. Bundesliga)) - 14:30
+http://192.168.1.58:6878/ace/getstream?id=6e672fbd2d325fde727a61aa2ef8b8b02e05c6a4
+#EXTINF:-1 tvg-name="Simulcast14:30 (Germany. Bundesliga)" group-title="Sports",Simulcast14:30 (Germany. Bundesliga) (14:30 (Germany. Bundesliga)) - 14:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="Simulcast14:30 (Germany. Bundesliga)" group-title="Sports",Simulcast14:30 (Germany. Bundesliga) (14:30 (Germany. Bundesliga)) - 14:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-name="Bayern Munich – Eintracht" group-title="Sports",Bayern Munich – Eintracht (14:45 (Germany. Women. Bundesliga)) - 14:45
+http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865

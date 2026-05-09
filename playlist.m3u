@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Fluminense – Vitoria-BA" group-title="Sports",Fluminense – Vitoria-BA (22:00 (Brazil. Serie A)) - 22:00
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
 #EXTINF:-1 tvg-name="Boca Juniors – Huracan" group-title="Sports",Boca Juniors – Huracan (23:00 (Argentina. Liga Profesional)) - 23:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-name="Boca Juniors – Huracan" group-title="Sports",Boca Juniors – Huracan (23:00 (Argentina. Liga Profesional)) - 23:00 - Link 2

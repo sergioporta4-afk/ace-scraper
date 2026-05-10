@@ -1,19 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Milan – Atalanta" group-title="Sports",Milan – Atalanta (19:45 (Italy. Serie A)) - 19:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Milan – Atalanta" group-title="Sports",Milan – Atalanta (19:45 (Italy. Serie A)) - 19:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-name="Milan – Atalanta" group-title="Sports",Milan – Atalanta (19:45 (Italy. Serie A)) - 19:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Toulouse – Lyon" group-title="Sports",Toulouse – Lyon (20:00 (France. Ligue 1)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=ebecf3cf1ff78961601f6f0d1764314a78d420ae
-#EXTINF:-1 tvg-name="PSG – Br" group-title="Sports",PSG – Br (20:00 (France. Ligue 1)) - 20:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
-#EXTINF:-1 tvg-name="PSG – Br" group-title="Sports",PSG – Br (20:00 (France. Ligue 1)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=6e672fbd2d325fde727a61aa2ef8b8b02e05c6a4
-#EXTINF:-1 tvg-name="AS Monaco – Lille" group-title="Sports",AS Monaco – Lille (20:00 (France. Ligue 1)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-name="Atletico-MG – Botafogo-RJ" group-title="Sports",Atletico-MG – Botafogo-RJ (20:00 (Brazil. Serie A)) - 20:00 - Link 1
+#EXTINF:-1 tvg-name="Corinthians – Sao Paolo" group-title="Sports",Corinthians – Sao Paolo (22:30 (Brazil. Serie A)) - 22:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-name="Corinthians – Sao Paolo" group-title="Sports",Corinthians – Sao Paolo (22:30 (Brazil. Serie A)) - 22:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-name="River Plate – San Lorenzo" group-title="Sports",River Plate – San Lorenzo (23:00 (Argentina. Liga Profesional)) - 23:00
 http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="Atletico-MG – Botafogo-RJ" group-title="Sports",Atletico-MG – Botafogo-RJ (20:00 (Brazil. Serie A)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

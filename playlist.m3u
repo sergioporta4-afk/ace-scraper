@@ -5,3 +5,7 @@ http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c39235
 http://192.168.1.58:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1 tvg-name="River Plate – San Lorenzo" group-title="Sports",River Plate – San Lorenzo (23:00 (Argentina. Liga Profesional)) - 23:00
 http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="Gremio-RS – Flamengo-RJ" group-title="Sports",Gremio-RS – Flamengo-RJ (23:30 (Brazil. Serie A)) - 23:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 tvg-name="Gremio-RS – Flamengo-RJ" group-title="Sports",Gremio-RS – Flamengo-RJ (23:30 (Brazil. Serie A)) - 23:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

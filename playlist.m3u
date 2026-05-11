@@ -1,15 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dynamo M – Krasnodar" group-title="Sports",Dynamo M – Krasnodar (18:00 (Russia. Premier League)) - 18:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-#EXTINF:-1 tvg-name="Dynamo M – Krasnodar" group-title="Sports",Dynamo M – Krasnodar (18:00 (Russia. Premier League)) - 18:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Dynamo M – Krasnodar" group-title="Sports",Dynamo M – Krasnodar (18:00 (Russia. Premier League)) - 18:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="RB Leipzig – Leverkusen" group-title="Sports",RB Leipzig – Leverkusen (17:00 (Germany. Women. Bundesliga)) - 17:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=1950633a3723cb52b17c764125decc04445bd5ff
-#EXTINF:-1 tvg-name="RB Leipzig – Leverkusen" group-title="Sports",RB Leipzig – Leverkusen (17:00 (Germany. Women. Bundesliga)) - 17:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072
-#EXTINF:-1 tvg-name="RB Leipzig – Leverkusen" group-title="Sports",RB Leipzig – Leverkusen (17:00 (Germany. Women. Bundesliga)) - 17:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-name="Slask – LKS Lodz" group-title="Sports",Slask – LKS Lodz (17:30 (Poland. I Liga)) - 17:30
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="Napoli – Bologna" group-title="Sports",Napoli – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="Napoli – Bologna" group-title="Sports",Napoli – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Napoli – Bologna" group-title="Sports",Napoli – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Napoli – Bologna" group-title="Sports",Napoli – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1 tvg-name="Napoli – Bologna" group-title="Sports",Napoli – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 tvg-name="Napoli – Bologna" group-title="Sports",Napoli – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-name="Tottenham – Leeds Utd" group-title="Sports",Tottenham – Leeds Utd (20:00 (England. Premier League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 tvg-name="Tottenham – Leeds Utd" group-title="Sports",Tottenham – Leeds Utd (20:00 (England. Premier League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="Tottenham – Leeds Utd" group-title="Sports",Tottenham – Leeds Utd (20:00 (England. Premier League)) - 20:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Tottenham – Leeds Utd" group-title="Sports",Tottenham – Leeds Utd (20:00 (England. Premier League)) - 20:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=78637dab85e7948057165ad0c80b3db475dd9c3d
+#EXTINF:-1 tvg-name="Tottenham – Leeds Utd" group-title="Sports",Tottenham – Leeds Utd (20:00 (England. Premier League)) - 20:00 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-name="Tottenham – Leeds Utd" group-title="Sports",Tottenham – Leeds Utd (20:00 (England. Premier League)) - 20:00 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Tottenham – Leeds Utd" group-title="Sports",Tottenham – Leeds Utd (20:00 (England. Premier League)) - 20:00 - Link 7
+http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-name="Tottenham – Leeds Utd" group-title="Sports",Tottenham – Leeds Utd (20:00 (England. Premier League)) - 20:00 - Link 8
+http://192.168.1.58:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
+#EXTINF:-1 tvg-name="Benfica – Braga" group-title="Sports",Benfica – Braga (20:15 (Portugal. Primeira Liga)) - 20:15 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="Benfica – Braga" group-title="Sports",Benfica – Braga (20:15 (Portugal. Primeira Liga)) - 20:15 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="Benfica – Braga" group-title="Sports",Benfica – Braga (20:15 (Portugal. Primeira Liga)) - 20:15 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-name="Rio Ave – Sporting" group-title="Sports",Rio Ave – Sporting (20:15 (Portugal. Primeira Liga)) - 20:15
+http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09

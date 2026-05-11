@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="River Plate – San Lorenzo" group-title="Sports",River Plate – San Lorenzo (10 May at 23:00(Argentina. Liga Profesional)) - 23:00
-http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="Gremio-RS – Flamengo-RJ" group-title="Sports",Gremio-RS – Flamengo-RJ (10 May at 23:30(Brazil. Serie A)) - 23:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 tvg-name="Gremio-RS – Flamengo-RJ" group-title="Sports",Gremio-RS – Flamengo-RJ (10 May at 23:30(Brazil. Serie A)) - 23:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Nizhnyi Novgorod – CSKA" group-title="Sports",Nizhnyi Novgorod – CSKA (13:15 (Russia. Premier League)) - 13:15 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Nizhnyi Novgorod – CSKA" group-title="Sports",Nizhnyi Novgorod – CSKA (13:15 (Russia. Premier League)) - 13:15 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Nizhnyi Novgorod – CSKA" group-title="Sports",Nizhnyi Novgorod – CSKA (13:15 (Russia. Premier League)) - 13:15 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
+#EXTINF:-1 tvg-name="Punjab Kings – Delhi Capitals" group-title="Sports",Punjab Kings – Delhi Capitals (15:00 (India. Premier League)) - 15:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="Punjab Kings – Delhi Capitals" group-title="Sports",Punjab Kings – Delhi Capitals (15:00 (India. Premier League)) - 15:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e

@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Napoli – Bologna" group-title="Sports",Napoli – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="Napoli – Bologna" group-title="Sports",Napoli – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Napoli – Bologna" group-title="Sports",Napoli – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Napoli – Bologna" group-title="Sports",Napoli – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
-#EXTINF:-1 tvg-name="Napoli – Bologna" group-title="Sports",Napoli – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
-#EXTINF:-1 tvg-name="Napoli – Bologna" group-title="Sports",Napoli – Bologna (19:45 (Italy. Serie A)) - 19:45 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-name="Tottenham – Leeds Utd" group-title="Sports",Tottenham – Leeds Utd (20:00 (England. Premier League)) - 20:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
 #EXTINF:-1 tvg-name="Tottenham – Leeds Utd" group-title="Sports",Tottenham – Leeds Utd (20:00 (England. Premier League)) - 20:00 - Link 2

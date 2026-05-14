@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Punjab Kings – Mumbai Indians" group-title="Sports",Punjab Kings – Mumbai Indians (15:00 (India. Premier League)) - 15:00
-http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-name="Gomel – Baranavichy" group-title="Sports",Gomel – Baranavichy (16:00 (Belarus. Vysheyshaya Liga)) - 16:00
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
+#EXTINF:-1 tvg-name="Premier League19:00 (PDC)" group-title="Sports",Premier League19:00 (PDC) (19:00 (PDC)) - 19:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="Premier League19:00 (PDC)" group-title="Sports",Premier League19:00 (PDC) (19:00 (PDC)) - 19:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=1950633a3723cb52b17c764125decc04445bd5ff
+#EXTINF:-1 tvg-name="Premier League19:00 (PDC)" group-title="Sports",Premier League19:00 (PDC) (19:00 (PDC)) - 19:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
+#EXTINF:-1 tvg-name="Premier League19:00 (PDC)" group-title="Sports",Premier League19:00 (PDC) (19:00 (PDC)) - 19:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=d2771c32ddfe83e04d7d2775338f50ea61e3968d

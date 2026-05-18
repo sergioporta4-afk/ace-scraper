@@ -1,3 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Puszcza – LKS Lodz" group-title="Sports",Puszcza – LKS Lodz (17:00 (Poland. I Liga)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="Arsenal – Burnley" group-title="Sports",Arsenal – Burnley (20:00 (England. Premier League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=1027bf0bb4a6ca3473ad20d1c201f9c972cab81a
+#EXTINF:-1 tvg-name="Arsenal – Burnley" group-title="Sports",Arsenal – Burnley (20:00 (England. Premier League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="Arsenal – Burnley" group-title="Sports",Arsenal – Burnley (20:00 (England. Premier League)) - 20:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Arsenal – Burnley" group-title="Sports",Arsenal – Burnley (20:00 (England. Premier League)) - 20:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=44a752d94a1fd182873c7d5f6dcfef31b39717d5
+#EXTINF:-1 tvg-name="Arsenal – Burnley" group-title="Sports",Arsenal – Burnley (20:00 (England. Premier League)) - 20:00 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=6800be0f8d6a0506ae945b49890a94b1923ec35d
+#EXTINF:-1 tvg-name="Arsenal – Burnley" group-title="Sports",Arsenal – Burnley (20:00 (England. Premier League)) - 20:00 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=9cc2401e29b04e6c5b7414b5b6ad9b3b350e9646
+#EXTINF:-1 tvg-name="Arsenal – Burnley" group-title="Sports",Arsenal – Burnley (20:00 (England. Premier League)) - 20:00 - Link 7
+http://192.168.1.58:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-name="Arsenal – Burnley" group-title="Sports",Arsenal – Burnley (20:00 (England. Premier League)) - 20:00 - Link 8
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Arsenal – Burnley" group-title="Sports",Arsenal – Burnley (20:00 (England. Premier League)) - 20:00 - Link 9
+http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e

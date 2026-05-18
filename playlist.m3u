@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Premier League19:00 (PDC)" group-title="Sports",Premier League19:00 (PDC) (19:00 (PDC)) - 19:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="Premier League19:00 (PDC)" group-title="Sports",Premier League19:00 (PDC) (19:00 (PDC)) - 19:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=1950633a3723cb52b17c764125decc04445bd5ff
-#EXTINF:-1 tvg-name="Premier League19:00 (PDC)" group-title="Sports",Premier League19:00 (PDC) (19:00 (PDC)) - 19:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
-#EXTINF:-1 tvg-name="Premier League19:00 (PDC)" group-title="Sports",Premier League19:00 (PDC) (19:00 (PDC)) - 19:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=d2771c32ddfe83e04d7d2775338f50ea61e3968d
+#EXTINF:-1 tvg-name="Puszcza – LKS Lodz" group-title="Sports",Puszcza – LKS Lodz (17:00 (Poland. I Liga)) - 17:00
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867

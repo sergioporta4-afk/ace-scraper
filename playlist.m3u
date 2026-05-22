@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Wolfsburg – Paderborn" group-title="Sports",Wolfsburg – Paderborn (19:30 (Germany. Bundesliga)) - 19:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Wolfsburg – Paderborn" group-title="Sports",Wolfsburg – Paderborn (19:30 (Germany. Bundesliga)) - 19:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Premier League19:00 (PDC)" group-title="Sports",Premier League19:00 (PDC) (19:00 (PDC)) - 19:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
-#EXTINF:-1 tvg-name="Premier League19:00 (PDC)" group-title="Sports",Premier League19:00 (PDC) (19:00 (PDC)) - 19:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-name="Partick Thistle – St Mirren" group-title="Sports",Partick Thistle – St Mirren (20:00 (Scotland. Premiership)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-name="Hyderabad Sun Risers – Royal Challengers" group-title="Sports",Hyderabad Sun Risers – Royal Challengers (15:00 (India. Premier League)) - 15:00
+http://192.168.1.58:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c

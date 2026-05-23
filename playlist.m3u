@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bravo – Olimpija Ljubljana" group-title="Sports",Bravo – Olimpija Ljubljana (19:15 (Slovenia. PrvaLiga)) - 19:15
-http://192.168.1.58:6878/ace/getstream?id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
+#EXTINF:-1 tvg-name="Sao Paolo – Botafogo-RJ" group-title="Sports",Sao Paolo – Botafogo-RJ (21:00 (Brazil. Serie A)) - 21:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="Sao Paolo – Botafogo-RJ" group-title="Sports",Sao Paolo – Botafogo-RJ (21:00 (Brazil. Serie A)) - 21:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

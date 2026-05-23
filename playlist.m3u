@@ -1,21 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bologna – Inter" group-title="Sports",Bologna – Inter (17:00 (Italy. Serie A)) - 17:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-name="Bologna – Inter" group-title="Sports",Bologna – Inter (17:00 (Italy. Serie A)) - 17:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="Bologna – Inter" group-title="Sports",Bologna – Inter (17:00 (Italy. Serie A)) - 17:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 tvg-name="Bologna – Inter" group-title="Sports",Bologna – Inter (17:00 (Italy. Serie A)) - 17:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Bologna – Inter" group-title="Sports",Bologna – Inter (17:00 (Italy. Serie A)) - 17:00 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
-#EXTINF:-1 tvg-name="Barcelona – Lyon" group-title="Sports",Barcelona – Lyon (17:00 (Women. Champions League)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
-#EXTINF:-1 tvg-name="World Cup, Bern17:00 (Bouldering)" group-title="Sports",World Cup, Bern17:00 (Bouldering) (17:00 (Bouldering)) - 17:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 tvg-name="World Cup, Bern17:00 (Bouldering)" group-title="Sports",World Cup, Bern17:00 (Bouldering) (17:00 (Bouldering)) - 17:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-name="Tarnobrzeg – Berlin" group-title="Sports",Tarnobrzeg – Berlin (18:00 (Women. Champions League)) - 18:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
-#EXTINF:-1 tvg-name="Tarnobrzeg – Berlin" group-title="Sports",Tarnobrzeg – Berlin (18:00 (Women. Champions League)) - 18:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Bravo – Olimpija Ljubljana" group-title="Sports",Bravo – Olimpija Ljubljana (19:15 (Slovenia. PrvaLiga)) - 19:15
+http://192.168.1.58:6878/ace/getstream?id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee

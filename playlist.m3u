@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Podhale – Warta Poznan" group-title="Sports",Podhale – Warta Poznan (11:45 (Poland. II Liga)) - 11:45
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 tvg-name="Belshina – Naftan" group-title="Sports",Belshina – Naftan (12:00 (Belarus. Vysheyshaya Liga)) - 12:00
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-#EXTINF:-1 tvg-name="Polish Speedway. 2 Liga12:30 (Speedway)" group-title="Sports",Polish Speedway. 2 Liga12:30 (Speedway) (12:30 (Speedway)) - 12:30
-http://192.168.1.58:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
+#EXTINF:-1 tvg-name="Chertanovo – Zenit" group-title="Sports",Chertanovo – Zenit (13:30 (Russia. Women. Premier League)) - 13:30
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Cartagena – Metz" group-title="Sports",Cartagena – Metz (14:00 (Women. Champions League)) - 14:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-name="Cartagena – Metz" group-title="Sports",Cartagena – Metz (14:00 (Women. Champions League)) - 14:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
+#EXTINF:-1 tvg-name="Cartagena – Metz" group-title="Sports",Cartagena – Metz (14:00 (Women. Champions League)) - 14:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Luck Super Giants – Punjab Kings" group-title="Sports",Luck Super Giants – Punjab Kings (15:00 (India. Premier League)) - 15:00
+http://192.168.1.58:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c

@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sao Paolo – Botafogo-RJ" group-title="Sports",Sao Paolo – Botafogo-RJ (21:00 (Brazil. Serie A)) - 21:00 - Link 1
+#EXTINF:-1 tvg-name="Gremio-RS – Santos-SP" group-title="Sports",Gremio-RS – Santos-SP (23:00 (Brazil. Serie A)) - 23:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="Sao Paolo – Botafogo-RJ" group-title="Sports",Sao Paolo – Botafogo-RJ (21:00 (Brazil. Serie A)) - 21:00 - Link 2
+#EXTINF:-1 tvg-name="Gremio-RS – Santos-SP" group-title="Sports",Gremio-RS – Santos-SP (23:00 (Brazil. Serie A)) - 23:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-name="Mirassol – Fluminense" group-title="Sports",Mirassol – Fluminense (23:00 (Brazil. Serie A)) - 23:00
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

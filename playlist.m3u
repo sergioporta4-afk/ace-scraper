@@ -1,53 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="W Ham United – Leeds Utd" group-title="Sports",W Ham United – Leeds Utd (16:00 (England. Premier League)) - 16:00
-http://192.168.1.58:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-name="Tottenham – Everton" group-title="Sports",Tottenham – Everton (16:00 (England. Premier League)) - 16:00
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-name="Mancher City – Aston Villa" group-title="Sports",Mancher City – Aston Villa (16:00 (England. Premier League)) - 16:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
-#EXTINF:-1 tvg-name="Mancher City – Aston Villa" group-title="Sports",Mancher City – Aston Villa (16:00 (England. Premier League)) - 16:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-name="Mancher City – Aston Villa" group-title="Sports",Mancher City – Aston Villa (16:00 (England. Premier League)) - 16:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="Mancher City – Aston Villa" group-title="Sports",Mancher City – Aston Villa (16:00 (England. Premier League)) - 16:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
-#EXTINF:-1 tvg-name="rpool – Brentford" group-title="Sports",rpool – Brentford (16:00 (England. Premier League)) - 16:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-name="rpool – Brentford" group-title="Sports",rpool – Brentford (16:00 (England. Premier League)) - 16:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-name="rpool – Brentford" group-title="Sports",rpool – Brentford (16:00 (England. Premier League)) - 16:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-name="Crystal Palace – Arsenal" group-title="Sports",Crystal Palace – Arsenal (16:00 (England. Premier League)) - 16:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-name="Crystal Palace – Arsenal" group-title="Sports",Crystal Palace – Arsenal (16:00 (England. Premier League)) - 16:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Crystal Palace – Arsenal" group-title="Sports",Crystal Palace – Arsenal (16:00 (England. Premier League)) - 16:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-name="Crystal Palace – Arsenal" group-title="Sports",Crystal Palace – Arsenal (16:00 (England. Premier League)) - 16:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 tvg-name="Crystal Palace – Arsenal" group-title="Sports",Crystal Palace – Arsenal (16:00 (England. Premier League)) - 16:00 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 tvg-name="Brighton – Mancher Utd" group-title="Sports",Brighton – Mancher Utd (16:00 (England. Premier League)) - 16:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 tvg-name="Brighton – Mancher Utd" group-title="Sports",Brighton – Mancher Utd (16:00 (England. Premier League)) - 16:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-name="Napoli – Udinese" group-title="Sports",Napoli – Udinese (17:00 (Italy. Serie A)) - 17:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="Napoli – Udinese" group-title="Sports",Napoli – Udinese (17:00 (Italy. Serie A)) - 17:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Napoli – Udinese" group-title="Sports",Napoli – Udinese (17:00 (Italy. Serie A)) - 17:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-name="Napoli – Udinese" group-title="Sports",Napoli – Udinese (17:00 (Italy. Serie A)) - 17:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Kolkata Knight Riders – Delhi Capitals" group-title="Sports",Kolkata Knight Riders – Delhi Capitals (15:00 (India. Premier League)) - 15:00
-http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-name="Laval – Rouen" group-title="Sports",Laval – Rouen (16:00 (France. Ligue 2)) - 16:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-name="Laval – Rouen" group-title="Sports",Laval – Rouen (16:00 (France. Ligue 2)) - 16:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-name="Laval – Rouen" group-title="Sports",Laval – Rouen (16:00 (France. Ligue 2)) - 16:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=d2771c32ddfe83e04d7d2775338f50ea61e3968d
-#EXTINF:-1 tvg-name="Polish Speedway. 2 Liga16:00 (Speedway)" group-title="Sports",Polish Speedway. 2 Liga16:00 (Speedway) (16:00 (Speedway)) - 16:00
-http://192.168.1.58:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
-#EXTINF:-1 tvg-name="World Cup, Bern17:00 (Bouldering)" group-title="Sports",World Cup, Bern17:00 (Bouldering) (17:00 (Bouldering)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-name="River Plate – Belgrano" group-title="Sports",River Plate – Belgrano (19:30 (Argentina. Liga Profesional)) - 19:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="River Plate – Belgrano" group-title="Sports",River Plate – Belgrano (19:30 (Argentina. Liga Profesional)) - 19:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565

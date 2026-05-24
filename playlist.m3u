@@ -1,11 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Mumbai Indians – Rajasthan Royals" group-title="Sports",Mumbai Indians – Rajasthan Royals (11:00 (India. Premier League)) - 11:00
-http://192.168.1.58:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-name="Slavia Mazyr – BATE" group-title="Sports",Slavia Mazyr – BATE (12:00 (Belarus. Vysheyshaya Liga)) - 12:00
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-#EXTINF:-1 tvg-name="Spartak M – Rubin" group-title="Sports",Spartak M – Rubin (13:00 (Russia. Women. Premier League)) - 13:00
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Parma – Sassuolo" group-title="Sports",Parma – Sassuolo (14:00 (Italy. Serie A)) - 14:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Parma – Sassuolo" group-title="Sports",Parma – Sassuolo (14:00 (Italy. Serie A)) - 14:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Parma – Sassuolo" group-title="Sports",Parma – Sassuolo (14:00 (Italy. Serie A)) - 14:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-name="Polish Speedway. 2 Liga13:30 (Speedway)" group-title="Sports",Polish Speedway. 2 Liga13:30 (Speedway) (13:30 (Speedway)) - 13:30
 http://192.168.1.58:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
-#EXTINF:-1 tvg-name="World Cup, Nové Město13:30 (Mountain Biking)" group-title="Sports",World Cup, Nové Město13:30 (Mountain Biking) (13:30 (Mountain Biking)) - 13:30
-http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-name="Tarnobrzeg – Metz" group-title="Sports",Tarnobrzeg – Metz (14:00 (Women. Champions League)) - 14:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
+#EXTINF:-1 tvg-name="Tarnobrzeg – Metz" group-title="Sports",Tarnobrzeg – Metz (14:00 (Women. Champions League)) - 14:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Kolkata Knight Riders – Delhi Capitals" group-title="Sports",Kolkata Knight Riders – Delhi Capitals (15:00 (India. Premier League)) - 15:00
+http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="Wisla Krakow – Pogon Siedlce" group-title="Sports",Wisla Krakow – Pogon Siedlce (15:30 (Poland. I Liga)) - 15:30
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="Simulcast15:30 (Poland. I Liga)" group-title="Sports",Simulcast15:30 (Poland. I Liga) (15:30 (Poland. I Liga)) - 15:30
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867

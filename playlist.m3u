@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Vasco de Gama – RB Bragantino" group-title="Sports",Vasco de Gama – RB Bragantino (25 May at 0:30(Brazil. Serie A)) - 0:30
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Paderborn – Wolfsburg" group-title="Sports",Paderborn – Wolfsburg (19:30 (Germany. Bundesliga)) - 19:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Paderborn – Wolfsburg" group-title="Sports",Paderborn – Wolfsburg (19:30 (Germany. Bundesliga)) - 19:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Paderborn – Wolfsburg" group-title="Sports",Paderborn – Wolfsburg (19:30 (Germany. Bundesliga)) - 19:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=2857b4180b06927798ce3f7acca685ca381c04f5
+#EXTINF:-1 tvg-name="Paderborn – Wolfsburg" group-title="Sports",Paderborn – Wolfsburg (19:30 (Germany. Bundesliga)) - 19:30 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="Paderborn – Wolfsburg" group-title="Sports",Paderborn – Wolfsburg (19:30 (Germany. Bundesliga)) - 19:30 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Paderborn – Wolfsburg" group-title="Sports",Paderborn – Wolfsburg (19:30 (Germany. Bundesliga)) - 19:30 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0

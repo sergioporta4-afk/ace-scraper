@@ -1,5 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Royal Challengers Bengaluru – Gujarat Titans" group-title="Sports",Royal Challengers Bengaluru – Gujarat Titans (15:00 (India. Premier League)) - 15:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-name="Royal Challengers Bengaluru – Gujarat Titans" group-title="Sports",Royal Challengers Bengaluru – Gujarat Titans (15:00 (India. Premier League)) - 15:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Saint-Etienne – Nice" group-title="Sports",Saint-Etienne – Nice (19:45 (France. Ligue 1)) - 19:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Saint-Etienne – Nice" group-title="Sports",Saint-Etienne – Nice (19:45 (France. Ligue 1)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=2857b4180b06927798ce3f7acca685ca381c04f5
+#EXTINF:-1 tvg-name="Saint-Etienne – Nice" group-title="Sports",Saint-Etienne – Nice (19:45 (France. Ligue 1)) - 19:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-name="Saint-Etienne – Nice" group-title="Sports",Saint-Etienne – Nice (19:45 (France. Ligue 1)) - 19:45 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1 tvg-name="Greuther Fuerth – RW Essen" group-title="Sports",Greuther Fuerth – RW Essen (19:30 (Germany. 2 Bundesliga)) - 19:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=1408de419b1abeac470094e284a07c3512342d69
+#EXTINF:-1 tvg-name="Greuther Fuerth – RW Essen" group-title="Sports",Greuther Fuerth – RW Essen (19:30 (Germany. 2 Bundesliga)) - 19:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="Greuther Fuerth – RW Essen" group-title="Sports",Greuther Fuerth – RW Essen (19:30 (Germany. 2 Bundesliga)) - 19:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9

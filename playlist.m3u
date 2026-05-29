@@ -1,5 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Minsk – Isloch" group-title="Sports",Minsk – Isloch (18:30 (Belarus. Vysheyshaya Liga)) - 18:30
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-#EXTINF:-1 tvg-name="World Cup, Pontevedra18:30 (Synchronized Swimming)" group-title="Sports",World Cup, Pontevedra18:30 (Synchronized Swimming) (18:30 (Synchronized Swimming)) - 18:30
-http://192.168.1.58:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
+#EXTINF:-1 tvg-name="Nice – Saint-Etienne" group-title="Sports",Nice – Saint-Etienne (19:45 (France. Ligue 1)) - 19:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Nice – Saint-Etienne" group-title="Sports",Nice – Saint-Etienne (19:45 (France. Ligue 1)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=1408de419b1abeac470094e284a07c3512342d69
+#EXTINF:-1 tvg-name="Nice – Saint-Etienne" group-title="Sports",Nice – Saint-Etienne (19:45 (France. Ligue 1)) - 19:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Nice – Saint-Etienne" group-title="Sports",Nice – Saint-Etienne (19:45 (France. Ligue 1)) - 19:45 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Nice – Saint-Etienne" group-title="Sports",Nice – Saint-Etienne (19:45 (France. Ligue 1)) - 19:45 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
+#EXTINF:-1 tvg-name="Nice – Saint-Etienne" group-title="Sports",Nice – Saint-Etienne (19:45 (France. Ligue 1)) - 19:45 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-name="Bristol Bears – Bath" group-title="Sports",Bristol Bears – Bath (19:45 (England. Premiership)) - 21:19 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-name="Bristol Bears – Bath" group-title="Sports",Bristol Bears – Bath (19:45 (England. Premiership)) - 21:19 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=ebecf3cf1ff78961601f6f0d1764314a78d420ae

@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Saracens – Harlequins" group-title="Sports",Saracens – Harlequins (13:00 (England. Premiership)) - 13:00
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-name="Polish Speedway. 2 Liga11:30 (Speedway)" group-title="Sports",Polish Speedway. 2 Liga11:30 (Speedway) (11:30 (Speedway)) - 11:30
-http://192.168.1.58:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
-#EXTINF:-1 tvg-name="German Championship12:00 (Germany. Bundesliga)" group-title="Sports",German Championship12:00 (Germany. Bundesliga) (12:00 (Germany. Bundesliga)) - 12:00
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
-#EXTINF:-1 tvg-name="Krasnodar – CSKA M" group-title="Sports",Krasnodar – CSKA M (12:00 (Russia. Women. Premier League)) - 12:00
+#EXTINF:-1 tvg-name="Neman – Maxline" group-title="Sports",Neman – Maxline (14:00 (Belarus. Vysheyshaya Liga)) - 14:00
+http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
+#EXTINF:-1 tvg-name="Spartak M – Krylia Sovetov" group-title="Sports",Spartak M – Krylia Sovetov (14:30 (Russia. Women. Premier League)) - 14:30
 http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="World Cup, Seville13:15 (Rowing)" group-title="Sports",World Cup, Seville13:15 (Rowing) (13:15 (Rowing)) - 13:15
-http://192.168.1.58:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
-#EXTINF:-1 tvg-name="Warta Poznan – Resovia Rzeszow" group-title="Sports",Warta Poznan – Resovia Rzeszow (13:30 (Poland. II Liga)) - 13:30
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867

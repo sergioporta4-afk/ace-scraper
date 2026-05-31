@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bahia – Botafogo-RJ" group-title="Sports",Bahia – Botafogo-RJ (21:30 (Brazil. Serie A)) - 21:30
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Gremio-RS – Corinthians" group-title="Sports",Gremio-RS – Corinthians (21:30 (Brazil. Serie A)) - 21:30
-http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="German Championship12:00 (Germany. Bundesliga)" group-title="Sports",German Championship12:00 (Germany. Bundesliga) (12:00 (Germany. Bundesliga)) - 12:00
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b

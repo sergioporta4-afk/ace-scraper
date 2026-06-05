@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Polish Speedway. 2 Liga19:00 (Speedway)" group-title="Sports",Polish Speedway. 2 Liga19:00 (Speedway) (19:00 (Speedway)) - 19:00
-http://192.168.1.58:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
+#EXTINF:-1 tvg-name="Austria – Slovenia" group-title="Sports",Austria – Slovenia (5 June at 17:00(Women. World Cup Qualification. Europe)) - 17:00
+http://192.168.1.58:6878/ace/getstream?id=c9d6412050226de0968cea19a383b50dc1966363
+#EXTINF:-1 tvg-name="Poland – France" group-title="Sports",Poland – France (5 June at 17:00(Women. World Cup Qualification. Europe)) - 17:00
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867

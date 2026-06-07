@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Polish Speedway. 2 Liga13:00 (Speedway)" group-title="Sports",Polish Speedway. 2 Liga13:00 (Speedway) (13:00 (Speedway)) - 13:00
-http://192.168.1.58:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
+#EXTINF:-1 tvg-name="Premier League14:00 (Russia. Championship)" group-title="Sports",Premier League14:00 (Russia. Championship) (14:00 (Russia. Championship)) - 14:00
+http://192.168.1.58:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+#EXTINF:-1 tvg-name="Saracens – Ealing Trailfinders" group-title="Sports",Saracens – Ealing Trailfinders (15:30 (England. Women. Premier 15s)) - 15:30
+http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801

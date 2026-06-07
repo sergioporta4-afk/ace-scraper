@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Exeter Chiefs – Saracens" group-title="Sports",Exeter Chiefs – Saracens (15:15 (England. Premiership)) - 15:15 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-name="Exeter Chiefs – Saracens" group-title="Sports",Exeter Chiefs – Saracens (15:15 (England. Premiership)) - 15:15 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-name="Premier League14:00 (Russia. Championship)" group-title="Sports",Premier League14:00 (Russia. Championship) (14:00 (Russia. Championship)) - 14:00
-http://192.168.1.58:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+#EXTINF:-1 tvg-name="Polish Speedway. 2 Liga13:00 (Speedway)" group-title="Sports",Polish Speedway. 2 Liga13:00 (Speedway) (13:00 (Speedway)) - 13:00
+http://192.168.1.58:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540

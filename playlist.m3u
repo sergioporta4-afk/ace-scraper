@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Premier League14:00 (Russia. Championship)" group-title="Sports",Premier League14:00 (Russia. Championship) (14:00 (Russia. Championship)) - 14:00
-http://192.168.1.58:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
-#EXTINF:-1 tvg-name="Saracens – Ealing Trailfinders" group-title="Sports",Saracens – Ealing Trailfinders (15:30 (England. Women. Premier 15s)) - 15:30
-http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-name="England – Australia" group-title="Sports",England – Australia (15:00 (Women. T20 World Cup)) - 15:00
+http://192.168.1.58:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c

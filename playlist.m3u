@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Norway – Austria" group-title="Sports",Norway – Austria (9 June at 17:00(Women. World Cup Qualification. Europe)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=c9d6412050226de0968cea19a383b50dc1966363
-#EXTINF:-1 tvg-name="Sweden – Italy" group-title="Sports",Sweden – Italy (9 June at 18:00(Women. World Cup Qualification. Europe)) - 18:00 - Link 1
+#EXTINF:-1 tvg-name="Netherlands – Poland" group-title="Sports",Netherlands – Poland (9 June at 20:00(Women. World Cup Qualification. Europe)) - 20:00
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="France – Ireland" group-title="Sports",France – Ireland (9 June at 20:00(Women. World Cup Qualification. Europe)) - 20:00
+http://192.168.1.58:6878/ace/getstream?id=d2771c32ddfe83e04d7d2775338f50ea61e3968d
+#EXTINF:-1 tvg-name="England – Ukraine" group-title="Sports",England – Ukraine (9 June at 20:00(Women. World Cup Qualification. Europe)) - 20:00
 http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
-#EXTINF:-1 tvg-name="Sweden – Italy" group-title="Sports",Sweden – Italy (9 June at 18:00(Women. World Cup Qualification. Europe)) - 18:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=fd572fdeeaaff430ab2775e3bae1620295660ebd

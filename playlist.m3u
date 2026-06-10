@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Netherlands – Poland" group-title="Sports",Netherlands – Poland (9 June at 20:00(Women. World Cup Qualification. Europe)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 tvg-name="France – Ireland" group-title="Sports",France – Ireland (9 June at 20:00(Women. World Cup Qualification. Europe)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=d2771c32ddfe83e04d7d2775338f50ea61e3968d
-#EXTINF:-1 tvg-name="England – Ukraine" group-title="Sports",England – Ukraine (9 June at 20:00(Women. World Cup Qualification. Europe)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 tvg-name="Australia – W Indies" group-title="Sports",Australia – W Indies (15:00 (Women. T20 World Cup)) - 15:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="Australia – W Indies" group-title="Sports",Australia – W Indies (15:00 (Women. T20 World Cup)) - 15:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e

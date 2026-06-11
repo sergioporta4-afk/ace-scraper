@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Forge – HFX Wanderers" group-title="Sports",Forge – HFX Wanderers (11 June at 0:00(Canada. Premier League)) - 0:00
-http://192.168.1.58:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1 tvg-name="Victoria Smolevichi – Tekstilshchik Baranovichi" group-title="Sports",Victoria Smolevichi – Tekstilshchik Baranovichi (16:00 (Belarus. Women. Premier League)) - 16:00
+http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f

@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Australia – South Africa" group-title="Sports",Australia – South Africa (14:30 (Women. T20 World Cup)) - 14:30 - Link 1
+#EXTINF:-1 tvg-name="World Cup18:10 (PDC)" group-title="Sports",World Cup18:10 (PDC) (18:10 (PDC)) - 18:10 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="World Cup18:10 (PDC)" group-title="Sports",World Cup18:10 (PDC) (18:10 (PDC)) - 18:10 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 tvg-name="W Indies – New Zealand" group-title="Sports",W Indies – New Zealand (18:30 (Women. T20 World Cup)) - 18:30
 http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-name="Australia – South Africa" group-title="Sports",Australia – South Africa (14:30 (Women. T20 World Cup)) - 14:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e

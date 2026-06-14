@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Aalborg – Magdeburg" group-title="Sports",Aalborg – Magdeburg (14:00 (EHF Champions League)) - 14:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-name="Aalborg – Magdeburg" group-title="Sports",Aalborg – Magdeburg (14:00 (EHF Champions League)) - 14:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-name="Aalborg – Magdeburg" group-title="Sports",Aalborg – Magdeburg (14:00 (EHF Champions League)) - 14:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-name="World Cup12:10 (PDC)" group-title="Sports",World Cup12:10 (PDC) (12:10 (PDC)) - 12:10 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="World Cup12:10 (PDC)" group-title="Sports",World Cup12:10 (PDC) (12:10 (PDC)) - 12:10 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 tvg-name="India – Pakistan" group-title="Sports",India – Pakistan (14:30 (Women. T20 World Cup)) - 14:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="India – Pakistan" group-title="Sports",India – Pakistan (14:30 (Women. T20 World Cup)) - 14:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e

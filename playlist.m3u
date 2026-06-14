@@ -1,27 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Haiti HTI – Scotland SCO:00" group-title="Sports",Haiti HTI – Scotland SCO:00 (2:00 (World Cup)) - 2:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=04ff6b2d4c0343d743148aee8c4160ae0d090cb4
-#EXTINF:-1 tvg-name="Haiti HTI – Scotland SCO:00" group-title="Sports",Haiti HTI – Scotland SCO:00 (2:00 (World Cup)) - 2:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=171d4e48ec8d64cad80ff4e27cab642c9271babc
-#EXTINF:-1 tvg-name="Haiti HTI – Scotland SCO:00" group-title="Sports",Haiti HTI – Scotland SCO:00 (2:00 (World Cup)) - 2:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=2e91b37df7fe5a3bc04354d53a6d5d74ae58bde0
-#EXTINF:-1 tvg-name="Haiti HTI – Scotland SCO:00" group-title="Sports",Haiti HTI – Scotland SCO:00 (2:00 (World Cup)) - 2:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Haiti HTI – Scotland SCO:00" group-title="Sports",Haiti HTI – Scotland SCO:00 (2:00 (World Cup)) - 2:00 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=4cd612b16ae999cd65a2c660b1ab16269a3e518c
-#EXTINF:-1 tvg-name="Haiti HTI – Scotland SCO:00" group-title="Sports",Haiti HTI – Scotland SCO:00 (2:00 (World Cup)) - 2:00 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=5ada4aa47c8a424540953544d42fc8d14b3b91d2
-#EXTINF:-1 tvg-name="Haiti HTI – Scotland SCO:00" group-title="Sports",Haiti HTI – Scotland SCO:00 (2:00 (World Cup)) - 2:00 - Link 7
-http://192.168.1.58:6878/ace/getstream?id=6776b8e0c17052c1d0a41b9f1c35551f24455e5d
-#EXTINF:-1 tvg-name="Haiti HTI – Scotland SCO:00" group-title="Sports",Haiti HTI – Scotland SCO:00 (2:00 (World Cup)) - 2:00 - Link 8
-http://192.168.1.58:6878/ace/getstream?id=72ea29f763e1449412d84b83df1ff113d28d2521
-#EXTINF:-1 tvg-name="Haiti HTI – Scotland SCO:00" group-title="Sports",Haiti HTI – Scotland SCO:00 (2:00 (World Cup)) - 2:00 - Link 9
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="Haiti HTI – Scotland SCO:00" group-title="Sports",Haiti HTI – Scotland SCO:00 (2:00 (World Cup)) - 2:00 - Link 10
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Haiti HTI – Scotland SCO:00" group-title="Sports",Haiti HTI – Scotland SCO:00 (2:00 (World Cup)) - 2:00 - Link 11
-http://192.168.1.58:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-name="Haiti HTI – Scotland SCO:00" group-title="Sports",Haiti HTI – Scotland SCO:00 (2:00 (World Cup)) - 2:00 - Link 12
-http://192.168.1.58:6878/ace/getstream?id=ddbf509f2f21b1de606747bf9f8c67891b179386
-#EXTINF:-1 tvg-name="Haiti HTI – Scotland SCO:00" group-title="Sports",Haiti HTI – Scotland SCO:00 (2:00 (World Cup)) - 2:00 - Link 13
-http://192.168.1.58:6878/ace/getstream?id=fe076c5b015095b918ec5fa852491829a4b6b9d8
+#EXTINF:-1 tvg-name="Aalborg – Magdeburg" group-title="Sports",Aalborg – Magdeburg (14:00 (EHF Champions League)) - 14:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-name="Aalborg – Magdeburg" group-title="Sports",Aalborg – Magdeburg (14:00 (EHF Champions League)) - 14:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="Aalborg – Magdeburg" group-title="Sports",Aalborg – Magdeburg (14:00 (EHF Champions League)) - 14:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="World Cup12:10 (PDC)" group-title="Sports",World Cup12:10 (PDC) (12:10 (PDC)) - 12:10 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="World Cup12:10 (PDC)" group-title="Sports",World Cup12:10 (PDC) (12:10 (PDC)) - 12:10 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c

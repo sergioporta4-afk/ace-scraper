@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Iraq IRQ – Norway NOR" group-title="Sports",Iraq IRQ – Norway NOR (23:00 (World Cup)) - 23:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Iraq IRQ – Norway NOR" group-title="Sports",Iraq IRQ – Norway NOR (23:00 (World Cup)) - 23:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Iraq IRQ – Norway NOR" group-title="Sports",Iraq IRQ – Norway NOR (23:00 (World Cup)) - 23:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="Iraq IRQ – Norway NOR" group-title="Sports",Iraq IRQ – Norway NOR (23:00 (World Cup)) - 23:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Iraq IRQ – Norway NOR" group-title="Sports",Iraq IRQ – Norway NOR (23:00 (World Cup)) - 23:00 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-name="Iraq IRQ – Norway NOR" group-title="Sports",Iraq IRQ – Norway NOR (23:00 (World Cup)) - 23:00 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=c9d6412050226de0968cea19a383b50dc1966363
-#EXTINF:-1 tvg-name="Iraq IRQ – Norway NOR" group-title="Sports",Iraq IRQ – Norway NOR (23:00 (World Cup)) - 23:00 - Link 7
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="India – Netherlands" group-title="Sports",India – Netherlands (14:30 (Women. T20 World Cup)) - 14:30
+http://192.168.1.58:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c

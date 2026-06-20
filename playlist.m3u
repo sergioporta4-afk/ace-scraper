@@ -1,9 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Northampton Saints – Exeter Chiefs" group-title="Sports",Northampton Saints – Exeter Chiefs (15:00 (England. Premiership)) - 14:17 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-name="Northampton Saints – Exeter Chiefs" group-title="Sports",Northampton Saints – Exeter Chiefs (15:00 (England. Premiership)) - 14:17 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-name="Zenit – Ryazan VDV" group-title="Sports",Zenit – Ryazan VDV (14:30 (Russia. Women. Premier League)) - 14:30
+#EXTINF:-1 tvg-name="Netherlands NED – Sweden SWE" group-title="Sports",Netherlands NED – Sweden SWE (18:00 (World Cup)) - 18:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Netherlands NED – Sweden SWE" group-title="Sports",Netherlands NED – Sweden SWE (18:00 (World Cup)) - 18:00 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Pakistan – Bangladesh" group-title="Sports",Pakistan – Bangladesh (14:30 (Women. T20 World Cup)) - 14:30
-http://192.168.1.58:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 tvg-name="Netherlands NED – Sweden SWE" group-title="Sports",Netherlands NED – Sweden SWE (18:00 (World Cup)) - 18:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="Netherlands NED – Sweden SWE" group-title="Sports",Netherlands NED – Sweden SWE (18:00 (World Cup)) - 18:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Netherlands NED – Sweden SWE" group-title="Sports",Netherlands NED – Sweden SWE (18:00 (World Cup)) - 18:00 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-name="Netherlands NED – Sweden SWE" group-title="Sports",Netherlands NED – Sweden SWE (18:00 (World Cup)) - 18:00 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=c9d6412050226de0968cea19a383b50dc1966363
+#EXTINF:-1 tvg-name="Netherlands NED – Sweden SWE" group-title="Sports",Netherlands NED – Sweden SWE (18:00 (World Cup)) - 18:00 - Link 7
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="Gomel – Dnepr Mogilyov" group-title="Sports",Gomel – Dnepr Mogilyov (18:30 (Belarus. Vysheyshaya Liga)) - 18:30
+http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
+#EXTINF:-1 tvg-name="England – Scotland" group-title="Sports",England – Scotland (18:30 (Women. T20 World Cup)) - 18:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="England – Scotland" group-title="Sports",England – Scotland (18:30 (Women. T20 World Cup)) - 18:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e

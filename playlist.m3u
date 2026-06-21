@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="World Cup, Toronto22:10 (Synchronized Swimming)" group-title="Sports",World Cup, Toronto22:10 (Synchronized Swimming) (22:10 (Synchronized Swimming)) - 22:10
-http://192.168.1.58:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+#EXTINF:-1 tvg-name="Ecuador ECU – Curacao:00" group-title="Sports",Ecuador ECU – Curacao:00 (1:00 (World Cup)) - 1:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Ecuador ECU – Curacao:00" group-title="Sports",Ecuador ECU – Curacao:00 (1:00 (World Cup)) - 1:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Ecuador ECU – Curacao:00" group-title="Sports",Ecuador ECU – Curacao:00 (1:00 (World Cup)) - 1:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-name="Ecuador ECU – Curacao:00" group-title="Sports",Ecuador ECU – Curacao:00 (1:00 (World Cup)) - 1:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=c9d6412050226de0968cea19a383b50dc1966363
+#EXTINF:-1 tvg-name="Ecuador ECU – Curacao:00" group-title="Sports",Ecuador ECU – Curacao:00 (1:00 (World Cup)) - 1:00 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867

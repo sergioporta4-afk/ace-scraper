@@ -1,17 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Spain ESP – Saudi Arabia SAU" group-title="Sports",Spain ESP – Saudi Arabia SAU (17:00 (World Cup)) - 17:00 - Link 1
+#EXTINF:-1 tvg-name="Belgium BEL – Iran IRN" group-title="Sports",Belgium BEL – Iran IRN (20:00 (World Cup)) - 20:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Spain ESP – Saudi Arabia SAU" group-title="Sports",Spain ESP – Saudi Arabia SAU (17:00 (World Cup)) - 17:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Spain ESP – Saudi Arabia SAU" group-title="Sports",Spain ESP – Saudi Arabia SAU (17:00 (World Cup)) - 17:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="Spain ESP – Saudi Arabia SAU" group-title="Sports",Spain ESP – Saudi Arabia SAU (17:00 (World Cup)) - 17:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Spain ESP – Saudi Arabia SAU" group-title="Sports",Spain ESP – Saudi Arabia SAU (17:00 (World Cup)) - 17:00 - Link 5
+#EXTINF:-1 tvg-name="Belgium BEL – Iran IRN" group-title="Sports",Belgium BEL – Iran IRN (20:00 (World Cup)) - 20:00 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-name="Spain ESP – Saudi Arabia SAU" group-title="Sports",Spain ESP – Saudi Arabia SAU (17:00 (World Cup)) - 17:00 - Link 6
+#EXTINF:-1 tvg-name="Belgium BEL – Iran IRN" group-title="Sports",Belgium BEL – Iran IRN (20:00 (World Cup)) - 20:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1 tvg-name="Belgium BEL – Iran IRN" group-title="Sports",Belgium BEL – Iran IRN (20:00 (World Cup)) - 20:00 - Link 4
 http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 tvg-name="World Cup, Toronto16:30 (Synchronized Swimming)" group-title="Sports",World Cup, Toronto16:30 (Synchronized Swimming) (16:30 (Synchronized Swimming)) - 16:30
+#EXTINF:-1 tvg-name="World Cup, Toronto21:40 (Synchronized Swimming)" group-title="Sports",World Cup, Toronto21:40 (Synchronized Swimming) (21:40 (Synchronized Swimming)) - 21:40
 http://192.168.1.58:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
-#EXTINF:-1 tvg-name="Neman – Dinamo Minsk" group-title="Sports",Neman – Dinamo Minsk (18:00 (Belarus. Vysheyshaya Liga)) - 18:00
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f

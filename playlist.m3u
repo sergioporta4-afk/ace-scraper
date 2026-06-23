@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="France FRA – Iraq IRQ" group-title="Sports",France FRA – Iraq IRQ (22 June at 22:00(World Cup)) - 22:00
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Stolitsa Minsk – VitEn" group-title="Sports",Stolitsa Minsk – VitEn (17:00 (Belarus. Premier League)) - 17:00
+http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f

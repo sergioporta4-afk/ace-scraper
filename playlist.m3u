@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Champions League11:00 (Snooker)" group-title="Sports",Champions League11:00 (Snooker) (11:00 (Snooker)) - 11:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944
-#EXTINF:-1 tvg-name="Champions League11:00 (Snooker)" group-title="Sports",Champions League11:00 (Snooker) (11:00 (Snooker)) - 11:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
+#EXTINF:-1 tvg-name="CSKA M – Zenit" group-title="Sports",CSKA M – Zenit (14:30 (Russia. Women. Premier League)) - 14:30
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="W Indies – Ireland" group-title="Sports",W Indies – Ireland (14:30 (Women. T20 World Cup)) - 14:30
+http://192.168.1.58:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c

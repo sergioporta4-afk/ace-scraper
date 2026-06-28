@@ -1,17 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Croatia CRO – Ghana GHA" group-title="Sports",Croatia CRO – Ghana GHA (22:00 (World Cup)) - 22:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Croatia CRO – Ghana GHA" group-title="Sports",Croatia CRO – Ghana GHA (22:00 (World Cup)) - 22:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 tvg-name="Croatia CRO – Ghana GHA" group-title="Sports",Croatia CRO – Ghana GHA (22:00 (World Cup)) - 22:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-name="Panama PAN – England ENG" group-title="Sports",Panama PAN – England ENG (22:00 (World Cup)) - 22:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Panama PAN – England ENG" group-title="Sports",Panama PAN – England ENG (22:00 (World Cup)) - 22:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="Panama PAN – England ENG" group-title="Sports",Panama PAN – England ENG (22:00 (World Cup)) - 22:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Panama PAN – England ENG" group-title="Sports",Panama PAN – England ENG (22:00 (World Cup)) - 22:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=c9d6412050226de0968cea19a383b50dc1966363
-#EXTINF:-1 tvg-name="Panama PAN – England ENG" group-title="Sports",Panama PAN – England ENG (22:00 (World Cup)) - 22:00 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="Polish Speedway. 2 Liga13:30 (Speedway)" group-title="Sports",Polish Speedway. 2 Liga13:30 (Speedway) (13:30 (Speedway)) - 13:30
+http://192.168.1.58:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540

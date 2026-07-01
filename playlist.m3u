@@ -13,5 +13,3 @@ http://192.168.1.58:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3f
 http://192.168.1.58:6878/ace/getstream?id=c9d6412050226de0968cea19a383b50dc1966363
 #EXTINF:-1 tvg-name="Belgium BEL – Senegal SEN" group-title="Sports",Belgium BEL – Senegal SEN (21:00 (World Cup)) - 21:00 - Link 7
 http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 tvg-name="HFX Wanderers – Atletico Ottawa" group-title="Sports",HFX Wanderers – Atletico Ottawa (21:00 (Canada. Premier League)) - 21:00
-http://192.168.1.58:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7

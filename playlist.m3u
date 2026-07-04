@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Argentina ARG – Cape Verde CPV" group-title="Sports",Argentina ARG – Cape Verde CPV (23:00 (World Cup)) - 23:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Argentina ARG – Cape Verde CPV" group-title="Sports",Argentina ARG – Cape Verde CPV (23:00 (World Cup)) - 23:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="World Cup, Krakow15:00 (World Cup)" group-title="Sports",World Cup, Krakow15:00 (World Cup) (15:00 (World Cup)) - 15:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-name="World Cup, Krakow15:00 (World Cup)" group-title="Sports",World Cup, Krakow15:00 (World Cup) (15:00 (World Cup)) - 15:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0

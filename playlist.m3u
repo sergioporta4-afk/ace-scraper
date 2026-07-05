@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Paraguay PRY – France FRA" group-title="Sports",Paraguay PRY – France FRA (22:00 (World Cup)) - 22:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Paraguay PRY – France FRA" group-title="Sports",Paraguay PRY – France FRA (22:00 (World Cup)) - 22:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Paraguay PRY – France FRA" group-title="Sports",Paraguay PRY – France FRA (22:00 (World Cup)) - 22:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="Paraguay PRY – France FRA" group-title="Sports",Paraguay PRY – France FRA (22:00 (World Cup)) - 22:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Paraguay PRY – France FRA" group-title="Sports",Paraguay PRY – France FRA (22:00 (World Cup)) - 22:00 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="World Cup, La Thuile12:15 (Mountain Biking)" group-title="Sports",World Cup, La Thuile12:15 (Mountain Biking) (12:15 (Mountain Biking)) - 12:15 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-name="World Cup, La Thuile12:15 (Mountain Biking)" group-title="Sports",World Cup, La Thuile12:15 (Mountain Biking) (12:15 (Mountain Biking)) - 12:15 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0

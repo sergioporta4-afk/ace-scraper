@@ -2,18 +2,19 @@ name: Update M3U Playlist
 
 on:
   schedule:
-    - cron: '29 11-23 * * *' # Every hour at :29 from 12:29 to 23:29 Italian time (CET = UTC+1)
-  workflow_dispatch: # Allow manual trigger
+    - cron: '29 11-16 * * *'      # ogni ora 12:29-17:29 CET
+    - cron: '29,59 17-23 * * *'   # ogni 30 min 18:29-00:59 CET
+  workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -28,11 +29,25 @@ jobs:
       - name: Run scraper
         run: python m3u_generator.py
 
+      - name: Validate output
+        run: |
+          if [ ! -s playlist.m3u ]; then
+            echo "::error::playlist.m3u is missing or empty -- keeping previous version"
+            exit 1
+          fi
+          count=$(grep -c '#EXTINF' playlist.m3u || true)
+          echo "Channels in playlist: $count"
+          if [ "$count" -lt 1 ]; then
+            echo "::error::No channels found -- keeping previous playlist"
+            exit 1
+          fi
+
       - name: Commit and push changes
+        if: success()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          touch playlist.m3u
-          git add playlist.m3u
+          git add playlist.m3u last_run.json
+          git diff --cached --stat
           git commit -m "Update playlist.m3u" || echo "No changes to commit"
           git push

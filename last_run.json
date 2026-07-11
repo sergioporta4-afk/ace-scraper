@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-07-11T21:15:48.091387+00:00",
+  "stats": {
+    "matches_found": 45,
+    "matches_filtered": 5,
+    "matches_skipped_time": 40,
+    "matches_unparseable": 0,
+    "streams_found": 12,
+    "streams_valid": 6,
+    "http_errors": 0
+  },
+  "channels": 6,
+  "config": {
+    "acestream_ip": "192.168.1.58",
+    "acestream_port": "6878",
+    "max_workers": 5,
+    "request_delay": 0.3
+  }
+}

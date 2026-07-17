@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Crvena Zvezda – Macva" tvg-id="Crvena Zvezda – Macva-19:00-0" group-title="Football / 19:00 (Serbia. Superliga)",Crvena Zvezda – Macva (19:00 (Serbia. Superliga)) - 19:00
+#EXTINF:-1 tvg-name="Fluminense – RB Bragantino" tvg-id="Fluminense – RB Bragantino-0:00-0" group-title="Football / 18 July at 0:00(Brazil. Serie A)",Fluminense – RB Bragantino (18 July at 0:00(Brazil. Serie A)) - 0:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="Fluminense – RB Bragantino" tvg-id="Fluminense – RB Bragantino-0:00-1" group-title="Football / 18 July at 0:00(Brazil. Serie A)",Fluminense – RB Bragantino (18 July at 0:00(Brazil. Serie A)) - 0:00 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AGF – Lech Poznan" tvg-id="AGF – Lech Poznan-18:00-0" group-title="Football / 18:00 (Champions League Qualifying)",AGF – Lech Poznan (18:00 (Champions League Qualifying)) - 18:00
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 #EXTINF:-1 tvg-name="Sturm – Hearts" tvg-id="Sturm – Hearts-19:30-0" group-title="Football / 19:30 (Champions League Qualifying)",Sturm – Hearts (19:30 (Champions League Qualifying)) - 19:30 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-name="Sturm – Hearts" tvg-id="Sturm – Hearts-19:30-1" group-title="Football / 19:30 (Champions League Qualifying)",Sturm – Hearts (19:30 (Champions League Qualifying)) - 19:30 - Link 2

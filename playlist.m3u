@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sturm – Hearts" tvg-id="Sturm – Hearts-19:30-0" group-title="Football / 19:30 (Champions League Qualifying)",Sturm – Hearts (19:30 (Champions League Qualifying)) - 19:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-name="Sturm – Hearts" tvg-id="Sturm – Hearts-19:30-1" group-title="Football / 19:30 (Champions League Qualifying)",Sturm – Hearts (19:30 (Champions League Qualifying)) - 19:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=c9d6412050226de0968cea19a383b50dc1966363
+#EXTINF:-1 tvg-name="Coritiba – Palmeiras" tvg-id="Coritiba – Palmeiras-23:30-0" group-title="Football / 23:30 (Brazil. Serie A)",Coritiba – Palmeiras (23:30 (Brazil. Serie A)) - 23:30
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

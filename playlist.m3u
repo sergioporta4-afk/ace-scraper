@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="St Gallen – Benfica" tvg-id="St Gallen – Benfica-19:00-0" group-title="Football / 19:00 (Europa League Qualifying)",St Gallen – Benfica (19:00 (Europa League Qualifying)) - 19:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-name="St Gallen – Benfica" tvg-id="St Gallen – Benfica-19:00-1" group-title="Football / 19:00 (Europa League Qualifying)",St Gallen – Benfica (19:00 (Europa League Qualifying)) - 19:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=c4b4277061b1d2db78b6c6bb0713ca89dbed77a6
-#EXTINF:-1 tvg-name="Twente – Ferencvaros" tvg-id="Twente – Ferencvaros-19:00-0" group-title="Football / 19:00 (Europa League Qualifying)",Twente – Ferencvaros (19:00 (Europa League Qualifying)) - 19:00
-http://192.168.1.58:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+#EXTINF:-1 tvg-name="Corinthians – Remo" tvg-id="Corinthians – Remo-23:30-0" group-title="Football / 23:30 (Brazil. Serie A)",Corinthians – Remo (23:30 (Brazil. Serie A)) - 23:30
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

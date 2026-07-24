@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CSKA – Baltika" tvg-id="CSKA – Baltika-18:00-0" group-title="Football / 18:00 (Russia. Premier League)",CSKA – Baltika (18:00 (Russia. Premier League)) - 18:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="CSKA – Baltika" tvg-id="CSKA – Baltika-18:00-1" group-title="Football / 18:00 (Russia. Premier League)",CSKA – Baltika (18:00 (Russia. Premier League)) - 18:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="CSKA – Baltika" tvg-id="CSKA – Baltika-18:00-2" group-title="Football / 18:00 (Russia. Premier League)",CSKA – Baltika (18:00 (Russia. Premier League)) - 18:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
-#EXTINF:-1 tvg-name="CSKA – Baltika" tvg-id="CSKA – Baltika-18:00-3" group-title="Football / 18:00 (Russia. Premier League)",CSKA – Baltika (18:00 (Russia. Premier League)) - 18:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="Odra Opole – Arka Gdynia" tvg-id="Odra Opole – Arka Gdynia-20:00-0" group-title="Football / 20:00 (Poland. I Liga)",Odra Opole – Arka Gdynia (20:00 (Poland. I Liga)) - 20:00
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867

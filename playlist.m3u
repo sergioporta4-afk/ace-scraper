@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Fakel – Dynamo Makhachkala" tvg-id="Fakel – Dynamo Makhachkala-16:30-0" group-title="Football / 16:30 (Russia. Premier League)",Fakel – Dynamo Makhachkala (16:30 (Russia. Premier League)) - 16:30
+#EXTINF:-1 tvg-name="Spartak M – Rodina" tvg-id="Spartak M – Rodina-18:45-0" group-title="Football / 18:45 (Russia. Premier League)",Spartak M – Rodina (18:45 (Russia. Premier League)) - 18:45
 http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="OFK Belgrade – Radnik" tvg-id="OFK Belgrade – Radnik-19:00-0" group-title="Football / 19:00 (Serbia. Superliga)",OFK Belgrade – Radnik (19:00 (Serbia. Superliga)) - 19:00
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Athletico-PR – Inter-RS" tvg-id="Athletico-PR – Inter-RS-22:30-0" group-title="Football / 22:30 (Brazil. Serie A)",Athletico-PR – Inter-RS (22:30 (Brazil. Serie A)) - 22:30
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="River Plate – Barracas Central" tvg-id="River Plate – Barracas Central-23:15-0" group-title="Football / 23:15 (Argentina. Liga Profesional)",River Plate – Barracas Central (23:15 (Argentina. Liga Profesional)) - 23:15
+http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565

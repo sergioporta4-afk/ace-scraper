@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Akron – Zenit" tvg-id="Akron – Zenit-14:15-0" group-title="Football / 14:15 (Russia. Premier League)",Akron – Zenit (14:15 (Russia. Premier League)) - 14:15 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Akron – Zenit" tvg-id="Akron – Zenit-14:15-1" group-title="Football / 14:15 (Russia. Premier League)",Akron – Zenit (14:15 (Russia. Premier League)) - 14:15 - Link 2
+#EXTINF:-1 tvg-name="Fakel – Dynamo Makhachkala" tvg-id="Fakel – Dynamo Makhachkala-16:30-0" group-title="Football / 16:30 (Russia. Premier League)",Fakel – Dynamo Makhachkala (16:30 (Russia. Premier League)) - 16:30
 http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Akron – Zenit" tvg-id="Akron – Zenit-14:15-2" group-title="Football / 14:15 (Russia. Premier League)",Akron – Zenit (14:15 (Russia. Premier League)) - 14:15 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f

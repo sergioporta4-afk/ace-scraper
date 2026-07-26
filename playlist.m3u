@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rubin – Krasnodar" tvg-id="Rubin – Krasnodar-17:30-0" group-title="Football / 17:30 (Russia. Premier League)",Rubin – Krasnodar (17:30 (Russia. Premier League)) - 17:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Rubin – Krasnodar" tvg-id="Rubin – Krasnodar-17:30-1" group-title="Football / 17:30 (Russia. Premier League)",Rubin – Krasnodar (17:30 (Russia. Premier League)) - 17:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="Rubin – Krasnodar" tvg-id="Rubin – Krasnodar-17:30-2" group-title="Football / 17:30 (Russia. Premier League)",Rubin – Krasnodar (17:30 (Russia. Premier League)) - 17:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1 tvg-name="Cruzeiro-MG – Botafogo-RJ" tvg-id="Cruzeiro-MG – Botafogo-RJ-20:00-0" group-title="Football / 20:00 (Brazil. Serie A)",Cruzeiro-MG – Botafogo-RJ (20:00 (Brazil. Serie A)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 tvg-name="Cruzeiro-MG – Botafogo-RJ" tvg-id="Cruzeiro-MG – Botafogo-RJ-20:00-1" group-title="Football / 20:00 (Brazil. Serie A)",Cruzeiro-MG – Botafogo-RJ (20:00 (Brazil. Serie A)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="Cruzeiro-MG – Botafogo-RJ" tvg-id="Cruzeiro-MG – Botafogo-RJ-20:00-2" group-title="Football / 20:00 (Brazil. Serie A)",Cruzeiro-MG – Botafogo-RJ (20:00 (Brazil. Serie A)) - 20:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

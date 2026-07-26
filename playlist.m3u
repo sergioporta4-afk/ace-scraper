@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Vasco de Gama – Mirassol" tvg-id="Vasco de Gama – Mirassol-0:30-0" group-title="Football / 26 July at 0:30(Brazil. Serie A)",Vasco de Gama – Mirassol (26 July at 0:30(Brazil. Serie A)) - 0:30
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="River Plate – Barracas Central" tvg-id="River Plate – Barracas Central-23:15-0" group-title="Football / 23:15 (Argentina. Liga Profesional)",River Plate – Barracas Central (23:15 (Argentina. Liga Profesional)) - 23:15
-http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-name="Lokomotiv M – Akhmat" tvg-id="Lokomotiv M – Akhmat-15:00-0" group-title="Football / 15:00 (Russia. Premier League)",Lokomotiv M – Akhmat (15:00 (Russia. Premier League)) - 15:00
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12

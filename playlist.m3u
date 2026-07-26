@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Cruzeiro-MG – Botafogo-RJ" tvg-id="Cruzeiro-MG – Botafogo-RJ-20:00-0" group-title="Football / 20:00 (Brazil. Serie A)",Cruzeiro-MG – Botafogo-RJ (20:00 (Brazil. Serie A)) - 20:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 tvg-name="Cruzeiro-MG – Botafogo-RJ" tvg-id="Cruzeiro-MG – Botafogo-RJ-20:00-1" group-title="Football / 20:00 (Brazil. Serie A)",Cruzeiro-MG – Botafogo-RJ (20:00 (Brazil. Serie A)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="Cruzeiro-MG – Botafogo-RJ" tvg-id="Cruzeiro-MG – Botafogo-RJ-20:00-2" group-title="Football / 20:00 (Brazil. Serie A)",Cruzeiro-MG – Botafogo-RJ (20:00 (Brazil. Serie A)) - 20:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Inter Toronto – Forge" tvg-id="Inter Toronto – Forge-22:00-0" group-title="Football / 22:00 (Canada. Premier League)",Inter Toronto – Forge (22:00 (Canada. Premier League)) - 22:00
+http://192.168.1.58:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7

@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Gremio-RS – Fluminense" tvg-id="Gremio-RS – Fluminense-22:30-0" group-title="Football / 22:30 (Brazil. Serie A)",Gremio-RS – Fluminense (22:30 (Brazil. Serie A)) - 22:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 tvg-name="Gremio-RS – Fluminense" tvg-id="Gremio-RS – Fluminense-22:30-1" group-title="Football / 22:30 (Brazil. Serie A)",Gremio-RS – Fluminense (22:30 (Brazil. Serie A)) - 22:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="Deportivo Riestra – Boca Juniors" tvg-id="Deportivo Riestra – Boca Juniors-23:30-0" group-title="Football / 23:30 (Argentina. Liga Profesional)",Deportivo Riestra – Boca Juniors (23:30 (Argentina. Liga Profesional)) - 23:30
-http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-name="Palmeiras – Atletico-MG" tvg-id="Palmeiras – Atletico-MG-23:30-0" group-title="Football / 23:30 (Brazil. Serie A)",Palmeiras – Atletico-MG (23:30 (Brazil. Serie A)) - 23:30
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Hearts – Sturm" tvg-id="Hearts – Sturm-19:45-0" group-title="Football / 19:45 (Champions League Qualifying)",Hearts – Sturm (19:45 (Champions League Qualifying)) - 19:45
+http://192.168.1.58:6878/ace/getstream?id=c9d6412050226de0968cea19a383b50dc1966363

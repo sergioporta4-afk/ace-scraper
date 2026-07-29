@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Lech Poznan – AGF" tvg-id="Lech Poznan – AGF-18:00-0" group-title="Football / 18:00 (Champions League Qualifying)",Lech Poznan – AGF (18:00 (Champions League Qualifying)) - 18:00
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 tvg-name="Gornik Zabrze – Fenerbahce" tvg-id="Gornik Zabrze – Fenerbahce-19:00-0" group-title="Football / 19:00 (Champions League Qualifying)",Gornik Zabrze – Fenerbahce (19:00 (Champions League Qualifying)) - 19:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
-#EXTINF:-1 tvg-name="Gornik Zabrze – Fenerbahce" tvg-id="Gornik Zabrze – Fenerbahce-19:00-1" group-title="Football / 19:00 (Champions League Qualifying)",Gornik Zabrze – Fenerbahce (19:00 (Champions League Qualifying)) - 19:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-name="Gimnasia y Esgrima LP – River Plate" tvg-id="Gimnasia y Esgrima LP – River Plate-23:15-0" group-title="Football / 23:15 (Argentina. Liga Profesional)",Gimnasia y Esgrima LP – River Plate (23:15 (Argentina. Liga Profesional)) - 23:15
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7

@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Hearts – Sturm" tvg-id="Hearts – Sturm-19:45-0" group-title="Football / 19:45 (Champions League Qualifying)",Hearts – Sturm (19:45 (Champions League Qualifying)) - 19:45
-http://192.168.1.58:6878/ace/getstream?id=c9d6412050226de0968cea19a383b50dc1966363
+#EXTINF:-1 tvg-name="Lech Poznan – AGF" tvg-id="Lech Poznan – AGF-18:00-0" group-title="Football / 18:00 (Champions League Qualifying)",Lech Poznan – AGF (18:00 (Champions League Qualifying)) - 18:00
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="Gornik Zabrze – Fenerbahce" tvg-id="Gornik Zabrze – Fenerbahce-19:00-0" group-title="Football / 19:00 (Champions League Qualifying)",Gornik Zabrze – Fenerbahce (19:00 (Champions League Qualifying)) - 19:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 tvg-name="Gornik Zabrze – Fenerbahce" tvg-id="Gornik Zabrze – Fenerbahce-19:00-1" group-title="Football / 19:00 (Champions League Qualifying)",Gornik Zabrze – Fenerbahce (19:00 (Champions League Qualifying)) - 19:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee

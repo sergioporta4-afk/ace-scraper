@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-30T20:10:45.984180+00:00",
+  "timestamp": "2026-07-30T21:38:58.620149+00:00",
   "stats": {
-    "matches_found": 146,
-    "matches_filtered": 11,
-    "matches_skipped_time": 135,
+    "matches_found": 145,
+    "matches_filtered": 0,
+    "matches_skipped_time": 145,
     "matches_unparseable": 0,
     "streams_found": 0,
     "streams_valid": 0,

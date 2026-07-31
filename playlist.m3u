@@ -7,3 +7,5 @@ http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba
 http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
 #EXTINF:-1 tvg-name="LASK – Grazer AK" tvg-id="LASK – Grazer AK-18:30-0" group-title="Football / 18:30 (Austria. Bundesliga)",LASK – Grazer AK (18:30 (Austria. Bundesliga)) - 18:30
 http://192.168.1.58:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
+#EXTINF:-1 tvg-name="Lechia Gdansk – Warta Poznan" tvg-id="Lechia Gdansk – Warta Poznan-19:30-0" group-title="Football / 19:30 (Poland. I Liga)",Lechia Gdansk – Warta Poznan (19:30 (Poland. I Liga)) - 19:30
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867

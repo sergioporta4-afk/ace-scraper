@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rodina – Rostov" tvg-id="Rodina – Rostov-18:00-0" group-title="Football / 18:00 (Russia. Premier League)",Rodina – Rostov (18:00 (Russia. Premier League)) - 18:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Rodina – Rostov" tvg-id="Rodina – Rostov-18:00-1" group-title="Football / 18:00 (Russia. Premier League)",Rodina – Rostov (18:00 (Russia. Premier League)) - 18:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Rodina – Rostov" tvg-id="Rodina – Rostov-18:00-2" group-title="Football / 18:00 (Russia. Premier League)",Rodina – Rostov (18:00 (Russia. Premier League)) - 18:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
-#EXTINF:-1 tvg-name="LASK – Grazer AK" tvg-id="LASK – Grazer AK-18:30-0" group-title="Football / 18:30 (Austria. Bundesliga)",LASK – Grazer AK (18:30 (Austria. Bundesliga)) - 18:30
-http://192.168.1.58:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
 #EXTINF:-1 tvg-name="Lechia Gdansk – Warta Poznan" tvg-id="Lechia Gdansk – Warta Poznan-19:30-0" group-title="Football / 19:30 (Poland. I Liga)",Lechia Gdansk – Warta Poznan (19:30 (Poland. I Liga)) - 19:30
 http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="Dundee United – Rangers" tvg-id="Dundee United – Rangers-20:00-0" group-title="Football / 20:00 (Scotland. Premiership)",Dundee United – Rangers (20:00 (Scotland. Premiership)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Dundee United – Rangers" tvg-id="Dundee United – Rangers-20:00-1" group-title="Football / 20:00 (Scotland. Premiership)",Dundee United – Rangers (20:00 (Scotland. Premiership)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="Dundee United – Rangers" tvg-id="Dundee United – Rangers-20:00-2" group-title="Football / 20:00 (Scotland. Premiership)",Dundee United – Rangers (20:00 (Scotland. Premiership)) - 20:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-name="Dundee United – Rangers" tvg-id="Dundee United – Rangers-20:00-3" group-title="Football / 20:00 (Scotland. Premiership)",Dundee United – Rangers (20:00 (Scotland. Premiership)) - 20:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Dundee United – Rangers" tvg-id="Dundee United – Rangers-20:00-4" group-title="Football / 20:00 (Scotland. Premiership)",Dundee United – Rangers (20:00 (Scotland. Premiership)) - 20:00 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f

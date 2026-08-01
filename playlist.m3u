@@ -5,3 +5,5 @@ http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4
 http://192.168.1.58:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-name="Aberdeen – Hearts" tvg-id="Aberdeen – Hearts-17:30-2" group-title="Football / 17:30 (Scotland. Premiership)",Aberdeen – Hearts (17:30 (Scotland. Premiership)) - 17:30 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Baltika – Dynamo M" tvg-id="Baltika – Dynamo M-18:45-0" group-title="Football / 18:45 (Russia. Premier League)",Baltika – Dynamo M (18:45 (Russia. Premier League)) - 18:45
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12

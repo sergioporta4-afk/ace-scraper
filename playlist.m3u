@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Newell`s Old Boys – Boca Juniors" tvg-id="Newell`s Old Boys – Boca Juniors-21:00-0" group-title="Football / 21:00 (Argentina. Liga Profesional)",Newell`s Old Boys – Boca Juniors (21:00 (Argentina. Liga Profesional)) - 21:00 - Link 1
+#EXTINF:-1 tvg-name="River Plate – Rosario Central" tvg-id="River Plate – Rosario Central-23:15-0" group-title="Football / 23:15 (Argentina. Liga Profesional)",River Plate – Rosario Central (23:15 (Argentina. Liga Profesional)) - 23:15 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 tvg-name="Newell`s Old Boys – Boca Juniors" tvg-id="Newell`s Old Boys – Boca Juniors-21:00-1" group-title="Football / 21:00 (Argentina. Liga Profesional)",Newell`s Old Boys – Boca Juniors (21:00 (Argentina. Liga Profesional)) - 21:00 - Link 2
+#EXTINF:-1 tvg-name="River Plate – Rosario Central" tvg-id="River Plate – Rosario Central-23:15-1" group-title="Football / 23:15 (Argentina. Liga Profesional)",River Plate – Rosario Central (23:15 (Argentina. Liga Profesional)) - 23:15 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7

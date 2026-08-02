@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Akhmat – Spartak M" tvg-id="Akhmat – Spartak M-18:30-0" group-title="Football / 18:30 (Russia. Premier League)",Akhmat – Spartak M (18:30 (Russia. Premier League)) - 18:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Akhmat – Spartak M" tvg-id="Akhmat – Spartak M-18:30-1" group-title="Football / 18:30 (Russia. Premier League)",Akhmat – Spartak M (18:30 (Russia. Premier League)) - 18:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Akhmat – Spartak M" tvg-id="Akhmat – Spartak M-18:30-2" group-title="Football / 18:30 (Russia. Premier League)",Akhmat – Spartak M (18:30 (Russia. Premier League)) - 18:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
-#EXTINF:-1 tvg-name="Akhmat – Spartak M" tvg-id="Akhmat – Spartak M-18:30-3" group-title="Football / 18:30 (Russia. Premier League)",Akhmat – Spartak M (18:30 (Russia. Premier League)) - 18:30 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="Newell`s Old Boys – Boca Juniors" tvg-id="Newell`s Old Boys – Boca Juniors-21:00-0" group-title="Football / 21:00 (Argentina. Liga Profesional)",Newell`s Old Boys – Boca Juniors (21:00 (Argentina. Liga Profesional)) - 21:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 tvg-name="Newell`s Old Boys – Boca Juniors" tvg-id="Newell`s Old Boys – Boca Juniors-21:00-1" group-title="Football / 21:00 (Argentina. Liga Profesional)",Newell`s Old Boys – Boca Juniors (21:00 (Argentina. Liga Profesional)) - 21:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7

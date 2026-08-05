@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Fenerbahce – Sturm" tvg-id="Fenerbahce – Sturm-19:00-0" group-title="Football / 19:00 (Champions League Qualifying)",Fenerbahce – Sturm (19:00 (Champions League Qualifying)) - 19:00
-http://192.168.1.58:6878/ace/getstream?id=c9d6412050226de0968cea19a383b50dc1966363
-#EXTINF:-1 tvg-name="Ferencvaros – Gornik Zabrze" tvg-id="Ferencvaros – Gornik Zabrze-19:15-0" group-title="Football / 19:15 (Europa League Qualifying)",Ferencvaros – Gornik Zabrze (19:15 (Europa League Qualifying)) - 19:15
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-name="Boca Juniors – Estudiantes LP" tvg-id="Boca Juniors – Estudiantes LP-23:00-0" group-title="Football / 23:00 (Argentina. Liga Profesional)",Boca Juniors – Estudiantes LP (23:00 (Argentina. Liga Profesional)) - 23:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="Boca Juniors – Estudiantes LP" tvg-id="Boca Juniors – Estudiantes LP-23:00-1" group-title="Football / 23:00 (Argentina. Liga Profesional)",Boca Juniors – Estudiantes LP (23:00 (Argentina. Liga Profesional)) - 23:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565

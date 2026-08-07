@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bochum – Hertha Berlin" tvg-id="Bochum – Hertha Berlin-19:30-0" group-title="Football / 19:30 (Germany. 2 Bundesliga)",Bochum – Hertha Berlin (19:30 (Germany. 2 Bundesliga)) - 19:30
-http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Polonia Warsaw – Ruch Chorzow" tvg-id="Polonia Warsaw – Ruch Chorzow-19:30-0" group-title="Football / 19:30 (Poland. I Liga)",Polonia Warsaw – Ruch Chorzow (19:30 (Poland. I Liga)) - 19:30
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 #EXTINF:-1 tvg-name="Estoril Praia – Famalicao" tvg-id="Estoril Praia – Famalicao-20:15-0" group-title="Football / 20:15 (Portugal. Primeira Liga)",Estoril Praia – Famalicao (20:15 (Portugal. Primeira Liga)) - 20:15 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 #EXTINF:-1 tvg-name="Estoril Praia – Famalicao" tvg-id="Estoril Praia – Famalicao-20:15-1" group-title="Football / 20:15 (Portugal. Primeira Liga)",Estoril Praia – Famalicao (20:15 (Portugal. Primeira Liga)) - 20:15 - Link 2

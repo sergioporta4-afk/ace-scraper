@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Estoril Praia – Famalicao" tvg-id="Estoril Praia – Famalicao-20:15-0" group-title="Football / 20:15 (Portugal. Primeira Liga)",Estoril Praia – Famalicao (20:15 (Portugal. Primeira Liga)) - 20:15 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="Estoril Praia – Famalicao" tvg-id="Estoril Praia – Famalicao-20:15-1" group-title="Football / 20:15 (Portugal. Primeira Liga)",Estoril Praia – Famalicao (20:15 (Portugal. Primeira Liga)) - 20:15 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="Estoril Praia – Famalicao" tvg-id="Estoril Praia – Famalicao-20:15-2" group-title="Football / 20:15 (Portugal. Primeira Liga)",Estoril Praia – Famalicao (20:15 (Portugal. Primeira Liga)) - 20:15 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-name="Forge – Vancouver Langley" tvg-id="Forge – Vancouver Langley-0:00-0" group-title="Football / 8 August at 0:00(Canada. Premier League)",Forge – Vancouver Langley (8 August at 0:00(Canada. Premier League)) - 0:00
+http://192.168.1.58:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7

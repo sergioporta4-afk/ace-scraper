@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Wolfsburg – Kaiserslautern" tvg-id="Wolfsburg – Kaiserslautern-19:30-0" group-title="Football / 19:30 (Germany. 2 Bundesliga)",Wolfsburg – Kaiserslautern (19:30 (Germany. 2 Bundesliga)) - 19:30
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Sochaux – Saint-Etienne" tvg-id="Sochaux – Saint-Etienne-19:45-0" group-title="Football / 19:45 (France. Ligue 2)",Sochaux – Saint-Etienne (19:45 (France. Ligue 2)) - 19:45
-http://192.168.1.58:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-name="Nantes – Red Star" tvg-id="Nantes – Red Star-19:45-0" group-title="Football / 19:45 (France. Ligue 2)",Nantes – Red Star (19:45 (France. Ligue 2)) - 19:45
-http://192.168.1.58:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 tvg-name="Gremio-RS – Sao Paolo" tvg-id="Gremio-RS – Sao Paolo-20:00-0" group-title="Football / 20:00 (Brazil. Serie A)",Gremio-RS – Sao Paolo (20:00 (Brazil. Serie A)) - 20:00
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
 #EXTINF:-1 tvg-name="Estrela – Sporting" tvg-id="Estrela – Sporting-20:30-0" group-title="Football / 20:30 (Portugal. Primeira Liga)",Estrela – Sporting (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 1

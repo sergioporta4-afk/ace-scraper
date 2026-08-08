@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Atletico Ottawa – HFX Wanderers" tvg-id="Atletico Ottawa – HFX Wanderers-18:00-0" group-title="Football / 18:00 (Canada. Premier League)",Atletico Ottawa – HFX Wanderers (18:00 (Canada. Premier League)) - 18:00
-http://192.168.1.58:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 tvg-name="Hartberg – Sturm" tvg-id="Hartberg – Sturm-18:30-0" group-title="Football / 18:30 (Austria. Bundesliga)",Hartberg – Sturm (18:30 (Austria. Bundesliga)) - 18:30
-http://192.168.1.58:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
 #EXTINF:-1 tvg-name="Podbeskidzie – Lechia Gdansk" tvg-id="Podbeskidzie – Lechia Gdansk-19:15-0" group-title="Football / 19:15 (Poland. I Liga)",Podbeskidzie – Lechia Gdansk (19:15 (Poland. I Liga)) - 19:15
 http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 #EXTINF:-1 tvg-name="Wolfsburg – Kaiserslautern" tvg-id="Wolfsburg – Kaiserslautern-19:30-0" group-title="Football / 19:30 (Germany. 2 Bundesliga)",Wolfsburg – Kaiserslautern (19:30 (Germany. 2 Bundesliga)) - 19:30
@@ -13,3 +9,7 @@ http://192.168.1.58:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3f
 http://192.168.1.58:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 tvg-name="Gremio-RS – Sao Paolo" tvg-id="Gremio-RS – Sao Paolo-20:00-0" group-title="Football / 20:00 (Brazil. Serie A)",Gremio-RS – Sao Paolo (20:00 (Brazil. Serie A)) - 20:00
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Estrela – Sporting" tvg-id="Estrela – Sporting-20:30-0" group-title="Football / 20:30 (Portugal. Primeira Liga)",Estrela – Sporting (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Estrela – Sporting" tvg-id="Estrela – Sporting-20:30-1" group-title="Football / 20:30 (Portugal. Primeira Liga)",Estrela – Sporting (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7

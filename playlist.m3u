@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Zawisza – Resovia Rzeszow" tvg-id="Zawisza – Resovia Rzeszow-17:00-0" group-title="Football / 17:00 (Poland. II Liga)",Zawisza – Resovia Rzeszow (17:00 (Poland. II Liga)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 #EXTINF:-1 tvg-name="Atletico Ottawa – HFX Wanderers" tvg-id="Atletico Ottawa – HFX Wanderers-18:00-0" group-title="Football / 18:00 (Canada. Premier League)",Atletico Ottawa – HFX Wanderers (18:00 (Canada. Premier League)) - 18:00
 http://192.168.1.58:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 tvg-name="Hartberg – Sturm" tvg-id="Hartberg – Sturm-18:30-0" group-title="Football / 18:30 (Austria. Bundesliga)",Hartberg – Sturm (18:30 (Austria. Bundesliga)) - 18:30
 http://192.168.1.58:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
+#EXTINF:-1 tvg-name="Podbeskidzie – Lechia Gdansk" tvg-id="Podbeskidzie – Lechia Gdansk-19:15-0" group-title="Football / 19:15 (Poland. I Liga)",Podbeskidzie – Lechia Gdansk (19:15 (Poland. I Liga)) - 19:15
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867

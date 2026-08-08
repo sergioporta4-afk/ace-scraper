@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Gremio-RS – Sao Paolo" tvg-id="Gremio-RS – Sao Paolo-20:00-0" group-title="Football / 20:00 (Brazil. Serie A)",Gremio-RS – Sao Paolo (20:00 (Brazil. Serie A)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
 #EXTINF:-1 tvg-name="Estrela – Sporting" tvg-id="Estrela – Sporting-20:30-0" group-title="Football / 20:30 (Portugal. Primeira Liga)",Estrela – Sporting (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 tvg-name="Estrela – Sporting" tvg-id="Estrela – Sporting-20:30-1" group-title="Football / 20:30 (Portugal. Primeira Liga)",Estrela – Sporting (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
 #EXTINF:-1 tvg-name="Tigre – River Plate" tvg-id="Tigre – River Plate-21:00-0" group-title="Football / 21:00 (Argentina. Liga Profesional)",Tigre – River Plate (21:00 (Argentina. Liga Profesional)) - 21:00
 http://192.168.1.58:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 tvg-name="Pacific – Inter Toronto" tvg-id="Pacific – Inter Toronto-22:00-0" group-title="Football / 22:00 (Canada. Premier League)",Pacific – Inter Toronto (22:00 (Canada. Premier League)) - 22:00
+http://192.168.1.58:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7

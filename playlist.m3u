@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Forge – Vancouver Langley" tvg-id="Forge – Vancouver Langley-0:00-0" group-title="Football / 8 August at 0:00(Canada. Premier League)",Forge – Vancouver Langley (8 August at 0:00(Canada. Premier League)) - 0:00
+#EXTINF:-1 tvg-name="Forge – Vancouver Langley:00" tvg-id="Forge – Vancouver Langley:00-0:00-0" group-title="Football / 0:00 (Canada. Premier League)",Forge – Vancouver Langley:00 (0:00 (Canada. Premier League)) - 0:00
 http://192.168.1.58:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7

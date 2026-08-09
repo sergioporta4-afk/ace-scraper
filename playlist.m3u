@@ -19,3 +19,7 @@ http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c39235
 http://192.168.1.58:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
 #EXTINF:-1 tvg-name="WAC – RB Salzburg" tvg-id="WAC – RB Salzburg-16:00-0" group-title="Football / 16:00 (Austria. Bundesliga)",WAC – RB Salzburg (16:00 (Austria. Bundesliga)) - 16:00
 http://192.168.1.58:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
+#EXTINF:-1 tvg-name="Nieciecza – Warta Poznan" tvg-id="Nieciecza – Warta Poznan-16:15-0" group-title="Football / 16:15 (Poland. I Liga)",Nieciecza – Warta Poznan (16:15 (Poland. I Liga)) - 16:15
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="Gomel – Minsk" tvg-id="Gomel – Minsk-16:45-0" group-title="Football / 16:45 (Belarus. Vysheyshaya Liga)",Gomel – Minsk (16:45 (Belarus. Vysheyshaya Liga)) - 16:45
+http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f

@@ -11,3 +11,11 @@ http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff2
 http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
 #EXTINF:-1 tvg-name="Lokomotiv M – CSKA M" tvg-id="Lokomotiv M – CSKA M-12:30-0" group-title="Football / 12:30 (Russia. Women. Premier League)",Lokomotiv M – CSKA M (12:30 (Russia. Women. Premier League)) - 12:30
 http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="Kilmarnock – Celtic" tvg-id="Kilmarnock – Celtic-13:30-0" group-title="Football / 13:30 (Scotland. Premiership)",Kilmarnock – Celtic (13:30 (Scotland. Premiership)) - 13:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Kilmarnock – Celtic" tvg-id="Kilmarnock – Celtic-13:30-1" group-title="Football / 13:30 (Scotland. Premiership)",Kilmarnock – Celtic (13:30 (Scotland. Premiership)) - 13:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-name="Kilmarnock – Celtic" tvg-id="Kilmarnock – Celtic-13:30-2" group-title="Football / 13:30 (Scotland. Premiership)",Kilmarnock – Celtic (13:30 (Scotland. Premiership)) - 13:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Kilmarnock – Celtic" tvg-id="Kilmarnock – Celtic-13:30-3" group-title="Football / 13:30 (Scotland. Premiership)",Kilmarnock – Celtic (13:30 (Scotland. Premiership)) - 13:30 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd

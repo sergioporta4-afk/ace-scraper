@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Palmeiras – Inter-RS" tvg-id="Palmeiras – Inter-RS-20:00-0" group-title="Football / 20:00 (Brazil. Serie A)",Palmeiras – Inter-RS (20:00 (Brazil. Serie A)) - 20:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="Palmeiras – Inter-RS" tvg-id="Palmeiras – Inter-RS-20:00-1" group-title="Football / 20:00 (Brazil. Serie A)",Palmeiras – Inter-RS (20:00 (Brazil. Serie A)) - 20:00 - Link 2
+#EXTINF:-1 tvg-name="RB Bragantino – Corinthians" tvg-id="RB Bragantino – Corinthians-22:30-0" group-title="Football / 22:30 (Brazil. Serie A)",RB Bragantino – Corinthians (22:30 (Brazil. Serie A)) - 22:30 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-name="Palmeiras – Inter-RS" tvg-id="Palmeiras – Inter-RS-20:00-2" group-title="Football / 20:00 (Brazil. Serie A)",Palmeiras – Inter-RS (20:00 (Brazil. Serie A)) - 20:00 - Link 3
+#EXTINF:-1 tvg-name="RB Bragantino – Corinthians" tvg-id="RB Bragantino – Corinthians-22:30-1" group-title="Football / 22:30 (Brazil. Serie A)",RB Bragantino – Corinthians (22:30 (Brazil. Serie A)) - 22:30 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Benfica – Viseu" tvg-id="Benfica – Viseu-20:30-0" group-title="Football / 20:30 (Portugal. Primeira Liga)",Benfica – Viseu (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Benfica – Viseu" tvg-id="Benfica – Viseu-20:30-1" group-title="Football / 20:30 (Portugal. Primeira Liga)",Benfica – Viseu (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-name="Benfica – Viseu" tvg-id="Benfica – Viseu-20:30-2" group-title="Football / 20:30 (Portugal. Primeira Liga)",Benfica – Viseu (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-name="Santos-SP – Athletico-PR" tvg-id="Santos-SP – Athletico-PR-22:30-0" group-title="Football / 22:30 (Brazil. Serie A)",Santos-SP – Athletico-PR (22:30 (Brazil. Serie A)) - 22:30
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7

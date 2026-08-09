@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Nieciecza – Warta Poznan" tvg-id="Nieciecza – Warta Poznan-16:15-0" group-title="Football / 16:15 (Poland. I Liga)",Nieciecza – Warta Poznan (16:15 (Poland. I Liga)) - 16:15
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 tvg-name="Gomel – Minsk" tvg-id="Gomel – Minsk-16:45-0" group-title="Football / 16:45 (Belarus. Vysheyshaya Liga)",Gomel – Minsk (16:45 (Belarus. Vysheyshaya Liga)) - 16:45
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
 #EXTINF:-1 tvg-name="Porto – Alverca" tvg-id="Porto – Alverca-18:00-0" group-title="Football / 18:00 (Portugal. Primeira Liga)",Porto – Alverca (18:00 (Portugal. Primeira Liga)) - 18:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 tvg-name="Porto – Alverca" tvg-id="Porto – Alverca-18:00-1" group-title="Football / 18:00 (Portugal. Primeira Liga)",Porto – Alverca (18:00 (Portugal. Primeira Liga)) - 18:00 - Link 2
@@ -13,3 +9,9 @@ http://192.168.1.58:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210
 http://192.168.1.58:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1 tvg-name="Spartak M – Krasnodar" tvg-id="Spartak M – Krasnodar-18:00-0" group-title="Football / 18:00 (Russia. Premier League)",Spartak M – Krasnodar (18:00 (Russia. Premier League)) - 18:00
 http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="Rubin – Orenburg" tvg-id="Rubin – Orenburg-18:30-0" group-title="Football / 18:30 (Russia. Premier League)",Rubin – Orenburg (18:30 (Russia. Premier League)) - 18:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Rubin – Orenburg" tvg-id="Rubin – Orenburg-18:30-1" group-title="Football / 18:30 (Russia. Premier League)",Rubin – Orenburg (18:30 (Russia. Premier League)) - 18:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Rubin – Orenburg" tvg-id="Rubin – Orenburg-18:30-2" group-title="Football / 18:30 (Russia. Premier League)",Rubin – Orenburg (18:30 (Russia. Premier League)) - 18:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f

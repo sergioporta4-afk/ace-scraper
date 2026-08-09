@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Boca Juniors – Velez Sarsfield" tvg-id="Boca Juniors – Velez Sarsfield-23:15-0" group-title="Football / 23:15 (Argentina. Liga Profesional)",Boca Juniors – Velez Sarsfield (23:15 (Argentina. Liga Profesional)) - 23:15
-http://192.168.1.58:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 tvg-name="Botafogo-RJ – Fluminense:00" tvg-id="Botafogo-RJ – Fluminense:00-1:00-0" group-title="Football / 1:00 (Brazil. Serie A)",Botafogo-RJ – Fluminense:00 (1:00 (Brazil. Serie A)) - 1:00
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Supra du Quebec – Cavalry:00" tvg-id="Supra du Quebec – Cavalry:00-1:00-0" group-title="Football / 1:00 (Canada. Premier League)",Supra du Quebec – Cavalry:00 (1:00 (Canada. Premier League)) - 1:00
+http://192.168.1.58:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7

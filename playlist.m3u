@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="RB Bragantino – Corinthians" tvg-id="RB Bragantino – Corinthians-22:30-0" group-title="Football / 22:30 (Brazil. Serie A)",RB Bragantino – Corinthians (22:30 (Brazil. Serie A)) - 22:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-name="RB Bragantino – Corinthians" tvg-id="RB Bragantino – Corinthians-22:30-1" group-title="Football / 22:30 (Brazil. Serie A)",RB Bragantino – Corinthians (22:30 (Brazil. Serie A)) - 22:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Santos-SP – Athletico-PR" tvg-id="Santos-SP – Athletico-PR-22:30-0" group-title="Football / 22:30 (Brazil. Serie A)",Santos-SP – Athletico-PR (22:30 (Brazil. Serie A)) - 22:30
-http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="Fakel – Akhmat" tvg-id="Fakel – Akhmat-17:30-0" group-title="Football / 17:30 (Russia. Premier League)",Fakel – Akhmat (17:30 (Russia. Premier League)) - 17:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Fakel – Akhmat" tvg-id="Fakel – Akhmat-17:30-1" group-title="Football / 17:30 (Russia. Premier League)",Fakel – Akhmat (17:30 (Russia. Premier League)) - 17:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Fakel – Akhmat" tvg-id="Fakel – Akhmat-17:30-2" group-title="Football / 17:30 (Russia. Premier League)",Fakel – Akhmat (17:30 (Russia. Premier League)) - 17:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
+#EXTINF:-1 tvg-name="Skierniewice – Arka Gdynia" tvg-id="Skierniewice – Arka Gdynia-18:00-0" group-title="Football / 18:00 (Poland. I Liga)",Skierniewice – Arka Gdynia (18:00 (Poland. I Liga)) - 18:00
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867

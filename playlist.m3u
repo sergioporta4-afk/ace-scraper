@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Santa Clara – Nacional" tvg-id="Santa Clara – Nacional-20:15-0" group-title="Football / 20:15 (Portugal. Primeira Liga)",Santa Clara – Nacional (20:15 (Portugal. Primeira Liga)) - 20:15
-http://192.168.1.58:6878/ace/getstream?id=af3e4e9fcc5a69848b7f84d3fcf2c4de72bf1b4b
+#EXTINF:-1 tvg-name="NEC – Olympiacos" tvg-id="NEC – Olympiacos-18:30-0" group-title="Football / 18:30 (Champions League Qualifying)",NEC – Olympiacos (18:30 (Champions League Qualifying)) - 18:30
+http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058

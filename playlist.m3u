@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ruch Chorzow – Lechia Gdansk" tvg-id="Ruch Chorzow – Lechia Gdansk-20:00-0" group-title="Football / 14 August at 20:00(Poland. I Liga)",Ruch Chorzow – Lechia Gdansk (14 August at 20:00(Poland. I Liga)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 #EXTINF:-1 tvg-name="Sporting – Vitoria" tvg-id="Sporting – Vitoria-20:15-0" group-title="Football / 20:15 (Portugal. Primeira Liga)",Sporting – Vitoria (20:15 (Portugal. Primeira Liga)) - 20:15 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 tvg-name="Sporting – Vitoria" tvg-id="Sporting – Vitoria-20:15-1" group-title="Football / 20:15 (Portugal. Primeira Liga)",Sporting – Vitoria (20:15 (Portugal. Primeira Liga)) - 20:15 - Link 2

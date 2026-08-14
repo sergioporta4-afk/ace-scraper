@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rangers – Jagiellonia" tvg-id="Rangers – Jagiellonia-19:30-0" group-title="Football / 19:30 (Europa League Qualifying)",Rangers – Jagiellonia (19:30 (Europa League Qualifying)) - 19:30
-http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 tvg-name="Orenburg – Lokomotiv M" tvg-id="Orenburg – Lokomotiv M-15:00-0" group-title="Football / 15:00 (Russia. Premier League)",Orenburg – Lokomotiv M (15:00 (Russia. Premier League)) - 15:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Orenburg – Lokomotiv M" tvg-id="Orenburg – Lokomotiv M-15:00-1" group-title="Football / 15:00 (Russia. Premier League)",Orenburg – Lokomotiv M (15:00 (Russia. Premier League)) - 15:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Orenburg – Lokomotiv M" tvg-id="Orenburg – Lokomotiv M-15:00-2" group-title="Football / 15:00 (Russia. Premier League)",Orenburg – Lokomotiv M (15:00 (Russia. Premier League)) - 15:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
+#EXTINF:-1 tvg-name="Arsenal Dzerzhinsk – Slavia Mazyr" tvg-id="Arsenal Dzerzhinsk – Slavia Mazyr-15:00-0" group-title="Football / 15:00 (Belarus. Vysheyshaya Liga)",Arsenal Dzerzhinsk – Slavia Mazyr (15:00 (Belarus. Vysheyshaya Liga)) - 15:00
+http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f

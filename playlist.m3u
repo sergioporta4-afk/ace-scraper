@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Kaiserslautern – Karlsruhe" tvg-id="Kaiserslautern – Karlsruhe-19:30-0" group-title="Football / 19:30 (Germany. 2 Bundesliga)",Kaiserslautern – Karlsruhe (19:30 (Germany. 2 Bundesliga)) - 19:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Kaiserslautern – Karlsruhe" tvg-id="Kaiserslautern – Karlsruhe-19:30-1" group-title="Football / 19:30 (Germany. 2 Bundesliga)",Kaiserslautern – Karlsruhe (19:30 (Germany. 2 Bundesliga)) - 19:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=6e672fbd2d325fde727a61aa2ef8b8b02e05c6a4
 #EXTINF:-1 tvg-name="Rio Ave – Porto" tvg-id="Rio Ave – Porto-20:30-0" group-title="Football / 20:30 (Portugal. Primeira Liga)",Rio Ave – Porto (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 tvg-name="Rio Ave – Porto" tvg-id="Rio Ave – Porto-20:30-1" group-title="Football / 20:30 (Portugal. Primeira Liga)",Rio Ave – Porto (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 2

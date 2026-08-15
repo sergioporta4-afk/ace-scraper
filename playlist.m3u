@@ -5,3 +5,17 @@ http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba
 http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
 #EXTINF:-1 tvg-name="Kaiserslautern – Karlsruhe" tvg-id="Kaiserslautern – Karlsruhe-19:30-1" group-title="Football / 19:30 (Germany. 2 Bundesliga)",Kaiserslautern – Karlsruhe (19:30 (Germany. 2 Bundesliga)) - 19:30 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=6e672fbd2d325fde727a61aa2ef8b8b02e05c6a4
+#EXTINF:-1 tvg-name="Rio Ave – Porto" tvg-id="Rio Ave – Porto-20:30-0" group-title="Football / 20:30 (Portugal. Primeira Liga)",Rio Ave – Porto (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Rio Ave – Porto" tvg-id="Rio Ave – Porto-20:30-1" group-title="Football / 20:30 (Portugal. Primeira Liga)",Rio Ave – Porto (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
+#EXTINF:-1 tvg-name="Rio Ave – Porto" tvg-id="Rio Ave – Porto-20:30-2" group-title="Football / 20:30 (Portugal. Primeira Liga)",Rio Ave – Porto (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 tvg-name="Rio Ave – Porto" tvg-id="Rio Ave – Porto-20:30-3" group-title="Football / 20:30 (Portugal. Primeira Liga)",Rio Ave – Porto (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-name="Fluminense – Palmeiras" tvg-id="Fluminense – Palmeiras-20:30-0" group-title="Football / 20:30 (Brazil. Serie A)",Fluminense – Palmeiras (20:30 (Brazil. Serie A)) - 20:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 tvg-name="Fluminense – Palmeiras" tvg-id="Fluminense – Palmeiras-20:30-1" group-title="Football / 20:30 (Brazil. Serie A)",Fluminense – Palmeiras (20:30 (Brazil. Serie A)) - 20:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="Fluminense – Palmeiras" tvg-id="Fluminense – Palmeiras-20:30-2" group-title="Football / 20:30 (Brazil. Serie A)",Fluminense – Palmeiras (20:30 (Brazil. Serie A)) - 20:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

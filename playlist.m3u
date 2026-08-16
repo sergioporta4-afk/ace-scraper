@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Zawisza – Lechia Zielona Gora" tvg-id="Zawisza – Lechia Zielona Gora-12:00-0" group-title="Football / 12:00 (Poland. II Liga)",Zawisza – Lechia Zielona Gora (12:00 (Poland. II Liga)) - 12:00
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 #EXTINF:-1 tvg-name="Zenit – Dynamo M" tvg-id="Zenit – Dynamo M-12:30-0" group-title="Football / 12:30 (Russia. Premier League)",Zenit – Dynamo M (12:30 (Russia. Premier League)) - 12:30 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1 tvg-name="Zenit – Dynamo M" tvg-id="Zenit – Dynamo M-12:30-1" group-title="Football / 12:30 (Russia. Premier League)",Zenit – Dynamo M (12:30 (Russia. Premier League)) - 12:30 - Link 2

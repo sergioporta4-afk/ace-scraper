@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Krylia Sovetov – Dynamo Makhachkala" tvg-id="Krylia Sovetov – Dynamo Makhachkala-15:00-0" group-title="Football / 15:00 (Russia. Premier League)",Krylia Sovetov – Dynamo Makhachkala (15:00 (Russia. Premier League)) - 15:00
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Chapecoense – Bahia" tvg-id="Chapecoense – Bahia-15:00-0" group-title="Football / 15:00 (Brazil. Serie A)",Chapecoense – Bahia (15:00 (Brazil. Serie A)) - 15:00
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
 #EXTINF:-1 tvg-name="Dynamo Kyiv – Kolos" tvg-id="Dynamo Kyiv – Kolos-16:00-0" group-title="Football / 16:00 (Ukraine. Premier League)",Dynamo Kyiv – Kolos (16:00 (Ukraine. Premier League)) - 16:00
 http://192.168.1.58:6878/ace/getstream?id=d10f176c2ff8105bb2e4da6d9f200d1ee1d4d5b6
+#EXTINF:-1 tvg-name="Baltika – Spartak M" tvg-id="Baltika – Spartak M-17:30-0" group-title="Football / 17:30 (Russia. Premier League)",Baltika – Spartak M (17:30 (Russia. Premier League)) - 17:30
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12

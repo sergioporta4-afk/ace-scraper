@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sao Paolo – Coritiba:00" tvg-id="Sao Paolo – Coritiba:00-1:00-0" group-title="Football / 1:00 (Brazil. Serie A)",Sao Paolo – Coritiba:00 (1:00 (Brazil. Serie A)) - 1:00
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Zawisza – Lechia Zielona Gora" tvg-id="Zawisza – Lechia Zielona Gora-12:00-0" group-title="Football / 12:00 (Poland. II Liga)",Zawisza – Lechia Zielona Gora (12:00 (Poland. II Liga)) - 12:00
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="Zenit – Dynamo M" tvg-id="Zenit – Dynamo M-12:30-0" group-title="Football / 12:30 (Russia. Premier League)",Zenit – Dynamo M (12:30 (Russia. Premier League)) - 12:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Zenit – Dynamo M" tvg-id="Zenit – Dynamo M-12:30-1" group-title="Football / 12:30 (Russia. Premier League)",Zenit – Dynamo M (12:30 (Russia. Premier League)) - 12:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="Dynamo Dresden – Darmstadt" tvg-id="Dynamo Dresden – Darmstadt-12:30-0" group-title="Football / 12:30 (Germany. 2 Bundesliga)",Dynamo Dresden – Darmstadt (12:30 (Germany. 2 Bundesliga)) - 12:30
+http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 tvg-name="Hanover 96 – Wolfsburg" tvg-id="Hanover 96 – Wolfsburg-12:30-0" group-title="Football / 12:30 (Germany. 2 Bundesliga)",Hanover 96 – Wolfsburg (12:30 (Germany. 2 Bundesliga)) - 12:30
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Arminia – Energie Cottbus" tvg-id="Arminia – Energie Cottbus-12:30-0" group-title="Football / 12:30 (Germany. 2 Bundesliga)",Arminia – Energie Cottbus (12:30 (Germany. 2 Bundesliga)) - 12:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="Arminia – Energie Cottbus" tvg-id="Arminia – Energie Cottbus-12:30-1" group-title="Football / 12:30 (Germany. 2 Bundesliga)",Arminia – Energie Cottbus (12:30 (Germany. 2 Bundesliga)) - 12:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=6e672fbd2d325fde727a61aa2ef8b8b02e05c6a4

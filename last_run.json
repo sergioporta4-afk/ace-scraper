@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-08-16T00:36:20.418372+00:00",
+  "timestamp": "2026-08-16T11:43:50.664450+00:00",
   "stats": {
-    "matches_found": 202,
-    "matches_filtered": 26,
-    "matches_skipped_time": 176,
+    "matches_found": 201,
+    "matches_filtered": 24,
+    "matches_skipped_time": 177,
     "matches_unparseable": 0,
-    "streams_found": 2,
-    "streams_valid": 1,
+    "streams_found": 14,
+    "streams_valid": 7,
     "http_errors": 0
   },
-  "channels": 1,
+  "channels": 7,
   "config": {
     "acestream_ip": "192.168.1.58",
     "acestream_port": "6878",

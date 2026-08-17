@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Casa Pia – Benfica" tvg-id="Casa Pia – Benfica-20:15-0" group-title="Football / 20:15 (Portugal. Primeira Liga)",Casa Pia – Benfica (20:15 (Portugal. Primeira Liga)) - 20:15 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Casa Pia – Benfica" tvg-id="Casa Pia – Benfica-20:15-1" group-title="Football / 20:15 (Portugal. Primeira Liga)",Casa Pia – Benfica (20:15 (Portugal. Primeira Liga)) - 20:15 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="Casa Pia – Benfica" tvg-id="Casa Pia – Benfica-20:15-2" group-title="Football / 20:15 (Portugal. Primeira Liga)",Casa Pia – Benfica (20:15 (Portugal. Primeira Liga)) - 20:15 - Link 3
+#EXTINF:-1 tvg-name="Inter-RS – Remo" tvg-id="Inter-RS – Remo-0:00-0" group-title="Football / 18 August at 0:00(Brazil. Serie A)",Inter-RS – Remo (18 August at 0:00(Brazil. Serie A)) - 0:00
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Casa Pia – Benfica" tvg-id="Casa Pia – Benfica-20:15-3" group-title="Football / 20:15 (Portugal. Primeira Liga)",Casa Pia – Benfica (20:15 (Portugal. Primeira Liga)) - 20:15 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 tvg-name="Casa Pia – Benfica" tvg-id="Casa Pia – Benfica-20:15-4" group-title="Football / 20:15 (Portugal. Primeira Liga)",Casa Pia – Benfica (20:15 (Portugal. Primeira Liga)) - 20:15 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc

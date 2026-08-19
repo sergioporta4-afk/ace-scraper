@@ -1,23 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Celtic – LASK" tvg-id="Celtic – LASK-20:00-0" group-title="Football / 20:00 (Champions League Qualifying)",Celtic – LASK (20:00 (Champions League Qualifying)) - 20:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="Celtic – LASK" tvg-id="Celtic – LASK-20:00-1" group-title="Football / 20:00 (Champions League Qualifying)",Celtic – LASK (20:00 (Champions League Qualifying)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-name="Celtic – LASK" tvg-id="Celtic – LASK-20:00-2" group-title="Football / 20:00 (Champions League Qualifying)",Celtic – LASK (20:00 (Champions League Qualifying)) - 20:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-name="Celtic – LASK" tvg-id="Celtic – LASK-20:00-3" group-title="Football / 20:00 (Champions League Qualifying)",Celtic – LASK (20:00 (Champions League Qualifying)) - 20:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
-#EXTINF:-1 tvg-name="Celtic – LASK" tvg-id="Celtic – LASK-20:00-4" group-title="Football / 20:00 (Champions League Qualifying)",Celtic – LASK (20:00 (Champions League Qualifying)) - 20:00 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-name="Hapoel Beer Sheva – Sabah" tvg-id="Hapoel Beer Sheva – Sabah-20:00-0" group-title="Football / 20:00 (Champions League Qualifying)",Hapoel Beer Sheva – Sabah (20:00 (Champions League Qualifying)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
-#EXTINF:-1 tvg-name="NEC – Bodoe/Glimt" tvg-id="NEC – Bodoe/Glimt-20:00-0" group-title="Football / 20:00 (Champions League Qualifying)",NEC – Bodoe/Glimt (20:00 (Champions League Qualifying)) - 20:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="NEC – Bodoe/Glimt" tvg-id="NEC – Bodoe/Glimt-20:00-1" group-title="Football / 20:00 (Champions League Qualifying)",NEC – Bodoe/Glimt (20:00 (Champions League Qualifying)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-name="NEC – Bodoe/Glimt" tvg-id="NEC – Bodoe/Glimt-20:00-2" group-title="Football / 20:00 (Champions League Qualifying)",NEC – Bodoe/Glimt (20:00 (Champions League Qualifying)) - 20:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-name="Slovan Bratislava – Celje" tvg-id="Slovan Bratislava – Celje-20:00-0" group-title="Football / 20:00 (Champions League Qualifying)",Slovan Bratislava – Celje (20:00 (Champions League Qualifying)) - 20:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
-#EXTINF:-1 tvg-name="Slovan Bratislava – Celje" tvg-id="Slovan Bratislava – Celje-20:00-1" group-title="Football / 20:00 (Champions League Qualifying)",Slovan Bratislava – Celje (20:00 (Champions League Qualifying)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 tvg-name="Forge – Supra du Quebec" tvg-id="Forge – Supra du Quebec-0:00-0" group-title="Football / 20 August at 0:00(Canada. Premier League)",Forge – Supra du Quebec (20 August at 0:00(Canada. Premier League)) - 0:00
+http://192.168.1.58:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7

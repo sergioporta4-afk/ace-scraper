@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Akhmat – Rostov" tvg-id="Akhmat – Rostov-16:00-0" group-title="Football / 16:00 (Russia. Premier League)",Akhmat – Rostov (16:00 (Russia. Premier League)) - 16:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Akhmat – Rostov" tvg-id="Akhmat – Rostov-16:00-1" group-title="Football / 16:00 (Russia. Premier League)",Akhmat – Rostov (16:00 (Russia. Premier League)) - 16:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Akhmat – Rostov" tvg-id="Akhmat – Rostov-16:00-2" group-title="Football / 16:00 (Russia. Premier League)",Akhmat – Rostov (16:00 (Russia. Premier League)) - 16:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
 #EXTINF:-1 tvg-name="Brentford – Tottenham" tvg-id="Brentford – Tottenham-17:30-0" group-title="Football / 17:30 (England. Premier League)",Brentford – Tottenham (17:30 (England. Premier League)) - 17:30 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1 tvg-name="Brentford – Tottenham" tvg-id="Brentford – Tottenham-17:30-1" group-title="Football / 17:30 (England. Premier League)",Brentford – Tottenham (17:30 (England. Premier League)) - 17:30 - Link 2
@@ -27,3 +21,11 @@ http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf92
 http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
 #EXTINF:-1 tvg-name="Inter – Monza" tvg-id="Inter – Monza-17:30-2" group-title="Football / 17:30 (Italy. Serie A)",Inter – Monza (17:30 (Italy. Serie A)) - 17:30 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="CSKA – Lokomotiv M" tvg-id="CSKA – Lokomotiv M-18:15-0" group-title="Football / 18:15 (Russia. Premier League)",CSKA – Lokomotiv M (18:15 (Russia. Premier League)) - 18:15 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="CSKA – Lokomotiv M" tvg-id="CSKA – Lokomotiv M-18:15-1" group-title="Football / 18:15 (Russia. Premier League)",CSKA – Lokomotiv M (18:15 (Russia. Premier League)) - 18:15 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="CSKA – Lokomotiv M" tvg-id="CSKA – Lokomotiv M-18:15-2" group-title="Football / 18:15 (Russia. Premier League)",CSKA – Lokomotiv M (18:15 (Russia. Premier League)) - 18:15 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
+#EXTINF:-1 tvg-name="CSKA – Lokomotiv M" tvg-id="CSKA – Lokomotiv M-18:15-3" group-title="Football / 18:15 (Russia. Premier League)",CSKA – Lokomotiv M (18:15 (Russia. Premier League)) - 18:15 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2

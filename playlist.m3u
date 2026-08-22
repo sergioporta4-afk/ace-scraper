@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Genoa – Napoli" tvg-id="Genoa – Napoli-19:45-0" group-title="Football / 19:45 (Italy. Serie A)",Genoa – Napoli (19:45 (Italy. Serie A)) - 19:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Genoa – Napoli" tvg-id="Genoa – Napoli-19:45-1" group-title="Football / 19:45 (Italy. Serie A)",Genoa – Napoli (19:45 (Italy. Serie A)) - 19:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-name="Sporting – Alverca" tvg-id="Sporting – Alverca-20:30-0" group-title="Football / 20:30 (Portugal. Primeira Liga)",Sporting – Alverca (20:30 (Portugal. Primeira Liga)) - 20:30
 http://192.168.1.58:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04

@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dynamo Makhachkala – Krasnodar" tvg-id="Dynamo Makhachkala – Krasnodar-15:30-0" group-title="Football / 15:30 (Russia. Premier League)",Dynamo Makhachkala – Krasnodar (15:30 (Russia. Premier League)) - 15:30
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
 #EXTINF:-1 tvg-name="Le Havre – AS Monaco" tvg-id="Le Havre – AS Monaco-16:15-0" group-title="Football / 16:15 (France. Ligue 1)",Le Havre – AS Monaco (16:15 (France. Ligue 1)) - 16:15
 http://192.168.1.58:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
 #EXTINF:-1 tvg-name="Newcastle United – Liverpool" tvg-id="Newcastle United – Liverpool-16:30-0" group-title="Football / 16:30 (England. Premier League)",Newcastle United – Liverpool (16:30 (England. Premier League)) - 16:30 - Link 1
@@ -9,3 +7,9 @@ http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee7
 http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-name="Newcastle United – Liverpool" tvg-id="Newcastle United – Liverpool-16:30-2" group-title="Football / 16:30 (England. Premier League)",Newcastle United – Liverpool (16:30 (England. Premier League)) - 16:30 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-name="Venezia – Lecce" tvg-id="Venezia – Lecce-17:30-0" group-title="Football / 17:30 (Italy. Serie A)",Venezia – Lecce (17:30 (Italy. Serie A)) - 17:30
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Frosinone – Juventus" tvg-id="Frosinone – Juventus-17:30-0" group-title="Football / 17:30 (Italy. Serie A)",Frosinone – Juventus (17:30 (Italy. Serie A)) - 17:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Frosinone – Juventus" tvg-id="Frosinone – Juventus-17:30-1" group-title="Football / 17:30 (Italy. Serie A)",Frosinone – Juventus (17:30 (Italy. Serie A)) - 17:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c

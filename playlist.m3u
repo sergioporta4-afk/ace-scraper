@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Venezia – Lecce" tvg-id="Venezia – Lecce-17:30-0" group-title="Football / 17:30 (Italy. Serie A)",Venezia – Lecce (17:30 (Italy. Serie A)) - 17:30
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Frosinone – Juventus" tvg-id="Frosinone – Juventus-17:30-0" group-title="Football / 17:30 (Italy. Serie A)",Frosinone – Juventus (17:30 (Italy. Serie A)) - 17:30 - Link 1
+#EXTINF:-1 tvg-name="Torino – Milan" tvg-id="Torino – Milan-19:45-0" group-title="Football / 19:45 (Italy. Serie A)",Torino – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Frosinone – Juventus" tvg-id="Frosinone – Juventus-17:30-1" group-title="Football / 17:30 (Italy. Serie A)",Frosinone – Juventus (17:30 (Italy. Serie A)) - 17:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
-#EXTINF:-1 tvg-name="Spartak M – Zenit" tvg-id="Spartak M – Zenit-18:00-0" group-title="Football / 18:00 (Russia. Premier League)",Spartak M – Zenit (18:00 (Russia. Premier League)) - 18:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Spartak M – Zenit" tvg-id="Spartak M – Zenit-18:00-1" group-title="Football / 18:00 (Russia. Premier League)",Spartak M – Zenit (18:00 (Russia. Premier League)) - 18:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="Torino – Milan" tvg-id="Torino – Milan-19:45-1" group-title="Football / 19:45 (Italy. Serie A)",Torino – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b

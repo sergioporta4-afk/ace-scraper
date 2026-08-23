@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Cruzeiro-MG – Flamengo-RJ" tvg-id="Cruzeiro-MG – Flamengo-RJ-0:30-0" group-title="Football / 0:30 (Brazil. Serie A)",Cruzeiro-MG – Flamengo-RJ (0:30 (Brazil. Serie A)) - 0:30
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Akron – Krylia Sovetov" tvg-id="Akron – Krylia Sovetov-11:00-0" group-title="Football / 11:00 (Russia. Premier League)",Akron – Krylia Sovetov (11:00 (Russia. Premier League)) - 11:00
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12

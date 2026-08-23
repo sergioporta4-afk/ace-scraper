@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Akron – Krylia Sovetov" tvg-id="Akron – Krylia Sovetov-11:00-0" group-title="Football / 11:00 (Russia. Premier League)",Akron – Krylia Sovetov (11:00 (Russia. Premier League)) - 11:00
+#EXTINF:-1 tvg-name="Dynamo M – Rodina" tvg-id="Dynamo M – Rodina-13:15-0" group-title="Football / 13:15 (Russia. Premier League)",Dynamo M – Rodina (13:15 (Russia. Premier League)) - 13:15
 http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Manchester City – Bournemouth" tvg-id="Manchester City – Bournemouth-14:00-0" group-title="Football / 14:00 (England. Premier League)",Manchester City – Bournemouth (14:00 (England. Premier League)) - 14:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Manchester City – Bournemouth" tvg-id="Manchester City – Bournemouth-14:00-1" group-title="Football / 14:00 (England. Premier League)",Manchester City – Bournemouth (14:00 (England. Premier League)) - 14:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Brighton – Aston Villa" tvg-id="Brighton – Aston Villa-14:00-0" group-title="Football / 14:00 (England. Premier League)",Brighton – Aston Villa (14:00 (England. Premier League)) - 14:00
+http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e

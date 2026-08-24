@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Mainz 05 – Werder Bremen" tvg-id="Mainz 05 – Werder Bremen-17:00-0" group-title="Football / 17:00 (Germany. Women. Bundesliga)",Mainz 05 – Werder Bremen (17:00 (Germany. Women. Bundesliga)) - 17:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=1950633a3723cb52b17c764125decc04445bd5ff
-#EXTINF:-1 tvg-name="Mainz 05 – Werder Bremen" tvg-id="Mainz 05 – Werder Bremen-17:00-1" group-title="Football / 17:00 (Germany. Women. Bundesliga)",Mainz 05 – Werder Bremen (17:00 (Germany. Women. Bundesliga)) - 17:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-name="Bologna – Lazio" tvg-id="Bologna – Lazio-17:30-0" group-title="Football / 17:30 (Italy. Serie A)",Bologna – Lazio (17:30 (Italy. Serie A)) - 17:30 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 tvg-name="Bologna – Lazio" tvg-id="Bologna – Lazio-17:30-1" group-title="Football / 17:30 (Italy. Serie A)",Bologna – Lazio (17:30 (Italy. Serie A)) - 17:30 - Link 2
@@ -17,3 +13,11 @@ http://192.168.1.58:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03
 http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-name="Stal Rzeszow – Ruch Chorzow" tvg-id="Stal Rzeszow – Ruch Chorzow-18:00-0" group-title="Football / 18:00 (Poland. I Liga)",Stal Rzeszow – Ruch Chorzow (18:00 (Poland. I Liga)) - 18:00
 http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="Baltika – Rubin" tvg-id="Baltika – Rubin-18:30-0" group-title="Football / 18:30 (Russia. Premier League)",Baltika – Rubin (18:30 (Russia. Premier League)) - 18:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Baltika – Rubin" tvg-id="Baltika – Rubin-18:30-1" group-title="Football / 18:30 (Russia. Premier League)",Baltika – Rubin (18:30 (Russia. Premier League)) - 18:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Baltika – Rubin" tvg-id="Baltika – Rubin-18:30-2" group-title="Football / 18:30 (Russia. Premier League)",Baltika – Rubin (18:30 (Russia. Premier League)) - 18:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=65d49691687add6a93692a757817bac4f204ed1f
+#EXTINF:-1 tvg-name="Torpedo-BelAZ – Dnepr Mogilyov" tvg-id="Torpedo-BelAZ – Dnepr Mogilyov-18:30-0" group-title="Football / 18:30 (Belarus. Vysheyshaya Liga)",Torpedo-BelAZ – Dnepr Mogilyov (18:30 (Belarus. Vysheyshaya Liga)) - 18:30
+http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f

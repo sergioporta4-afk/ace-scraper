@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Coritiba – Corinthians" tvg-id="Coritiba – Corinthians-23:30-0" group-title="Football / 23:30 (Brazil. Serie A)",Coritiba – Corinthians (23:30 (Brazil. Serie A)) - 23:30
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Mainz 05 – Werder Bremen" tvg-id="Mainz 05 – Werder Bremen-17:00-0" group-title="Football / 17:00 (Germany. Women. Bundesliga)",Mainz 05 – Werder Bremen (17:00 (Germany. Women. Bundesliga)) - 17:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=1950633a3723cb52b17c764125decc04445bd5ff
+#EXTINF:-1 tvg-name="Mainz 05 – Werder Bremen" tvg-id="Mainz 05 – Werder Bremen-17:00-1" group-title="Football / 17:00 (Germany. Women. Bundesliga)",Mainz 05 – Werder Bremen (17:00 (Germany. Women. Bundesliga)) - 17:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229

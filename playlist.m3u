@@ -1,21 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Guingamp – Nantes" tvg-id="Guingamp – Nantes-19:00-0" group-title="Football / 19:00 (France. Ligue 2)",Guingamp – Nantes (19:00 (France. Ligue 2)) - 19:00
-http://192.168.1.58:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-name="Zawisza – Legia Warsaw II" tvg-id="Zawisza – Legia Warsaw II-19:15-0" group-title="Football / 19:15 (Poland. II Liga)",Zawisza – Legia Warsaw II (19:15 (Poland. II Liga)) - 19:15
-http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 tvg-name="Nuremberg – Arminia" tvg-id="Nuremberg – Arminia-19:30-0" group-title="Football / 19:30 (Germany. 2 Bundesliga)",Nuremberg – Arminia (19:30 (Germany. 2 Bundesliga)) - 19:30
-http://192.168.1.58:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-name="Juventus – Parma" tvg-id="Juventus – Parma-19:45-0" group-title="Football / 19:45 (Italy. Serie A)",Juventus – Parma (19:45 (Italy. Serie A)) - 19:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Juventus – Parma" tvg-id="Juventus – Parma-19:45-1" group-title="Football / 19:45 (Italy. Serie A)",Juventus – Parma (19:45 (Italy. Serie A)) - 19:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-name="Juventus – Parma" tvg-id="Juventus – Parma-19:45-2" group-title="Football / 19:45 (Italy. Serie A)",Juventus – Parma (19:45 (Italy. Serie A)) - 19:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Lyon – Le Havre" tvg-id="Lyon – Le Havre-19:45-0" group-title="Football / 19:45 (France. Ligue 1)",Lyon – Le Havre (19:45 (France. Ligue 1)) - 19:45
-http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 tvg-name="Lorient – Troyes" tvg-id="Lorient – Troyes-19:45-0" group-title="Football / 19:45 (France. Ligue 1)",Lorient – Troyes (19:45 (France. Ligue 1)) - 19:45
-http://192.168.1.58:6878/ace/getstream?id=6e672fbd2d325fde727a61aa2ef8b8b02e05c6a4
-#EXTINF:-1 tvg-name="Brest – Toulouse" tvg-id="Brest – Toulouse-19:45-0" group-title="Football / 19:45 (France. Ligue 1)",Brest – Toulouse (19:45 (France. Ligue 1)) - 19:45
-http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
-#EXTINF:-1 tvg-name="Auxerre – Angers" tvg-id="Auxerre – Angers-19:45-0" group-title="Football / 19:45 (France. Ligue 1)",Auxerre – Angers (19:45 (France. Ligue 1)) - 19:45
-http://192.168.1.58:6878/ace/getstream?id=fd572fdeeaaff430ab2775e3bae1620295660ebd
+#EXTINF:-1 tvg-name="Atletico-MG – Vitoria-BA" tvg-id="Atletico-MG – Vitoria-BA-22:30-0" group-title="Football / 22:30 (Brazil. Serie A)",Atletico-MG – Vitoria-BA (22:30 (Brazil. Serie A)) - 22:30
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Huracan – Rio Cuarto" tvg-id="Huracan – Rio Cuarto-23:00-0" group-title="Football / 23:00 (Argentina. Liga Profesional)",Huracan – Rio Cuarto (23:00 (Argentina. Liga Profesional)) - 23:00
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7

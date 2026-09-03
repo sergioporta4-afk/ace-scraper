@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="RB Salzburg – Rapid Vienna" tvg-id="RB Salzburg – Rapid Vienna-19:30-0" group-title="Football / 19:30 (Austria. Bundesliga)",RB Salzburg – Rapid Vienna (19:30 (Austria. Bundesliga)) - 19:30
+#EXTINF:-1 tvg-name="Magdeburg – Fuechse Berlin" tvg-id="Magdeburg – Fuechse Berlin-19:15-0" group-title="Football / 19:15 (Germany. Bundesliga)",Magdeburg – Fuechse Berlin (19:15 (Germany. Bundesliga)) - 19:15
 http://192.168.1.58:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
-#EXTINF:-1 tvg-name="Falkirk – Rangers" tvg-id="Falkirk – Rangers-20:00-0" group-title="Football / 20:00 (Scotland. Premiership)",Falkirk – Rangers (20:00 (Scotland. Premiership)) - 20:00 - Link 1
+#EXTINF:-1 tvg-name="Toulouse – Lille" tvg-id="Toulouse – Lille-19:45-0" group-title="Football / 19:45 (France. Ligue 1)",Toulouse – Lille (19:45 (France. Ligue 1)) - 19:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 tvg-name="Toulouse – Lille" tvg-id="Toulouse – Lille-19:45-1" group-title="Football / 19:45 (France. Ligue 1)",Toulouse – Lille (19:45 (France. Ligue 1)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:-1 tvg-name="Toulouse – Lille" tvg-id="Toulouse – Lille-19:45-2" group-title="Football / 19:45 (France. Ligue 1)",Toulouse – Lille (19:45 (France. Ligue 1)) - 19:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1 tvg-name="Hibernian – Hearts" tvg-id="Hibernian – Hearts-19:45-0" group-title="Football / 19:45 (Scotland. Premiership)",Hibernian – Hearts (19:45 (Scotland. Premiership)) - 19:45 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="Falkirk – Rangers" tvg-id="Falkirk – Rangers-20:00-1" group-title="Football / 20:00 (Scotland. Premiership)",Falkirk – Rangers (20:00 (Scotland. Premiership)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-name="Falkirk – Rangers" tvg-id="Falkirk – Rangers-20:00-2" group-title="Football / 20:00 (Scotland. Premiership)",Falkirk – Rangers (20:00 (Scotland. Premiership)) - 20:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
-#EXTINF:-1 tvg-name="Falkirk – Rangers" tvg-id="Falkirk – Rangers-20:00-3" group-title="Football / 20:00 (Scotland. Premiership)",Falkirk – Rangers (20:00 (Scotland. Premiership)) - 20:00 - Link 4
+#EXTINF:-1 tvg-name="Hibernian – Hearts" tvg-id="Hibernian – Hearts-19:45-1" group-title="Football / 19:45 (Scotland. Premiership)",Hibernian – Hearts (19:45 (Scotland. Premiership)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-name="Hibernian – Hearts" tvg-id="Hibernian – Hearts-19:45-2" group-title="Football / 19:45 (Scotland. Premiership)",Hibernian – Hearts (19:45 (Scotland. Premiership)) - 19:45 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd

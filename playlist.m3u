@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Magdeburg – Fuechse Berlin" tvg-id="Magdeburg – Fuechse Berlin-19:15-0" group-title="Football / 19:15 (Germany. Bundesliga)",Magdeburg – Fuechse Berlin (19:15 (Germany. Bundesliga)) - 19:15
-http://192.168.1.58:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
 #EXTINF:-1 tvg-name="Toulouse – Lille" tvg-id="Toulouse – Lille-19:45-0" group-title="Football / 19:45 (France. Ligue 1)",Toulouse – Lille (19:45 (France. Ligue 1)) - 19:45 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
 #EXTINF:-1 tvg-name="Toulouse – Lille" tvg-id="Toulouse – Lille-19:45-1" group-title="Football / 19:45 (France. Ligue 1)",Toulouse – Lille (19:45 (France. Ligue 1)) - 19:45 - Link 2

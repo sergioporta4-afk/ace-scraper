@@ -1,33 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Adler Mannheim – Skelleftea" tvg-id="Adler Mannheim – Skelleftea-16:00-0" group-title="Football / 16:00 (Champions League)",Adler Mannheim – Skelleftea (16:00 (Champions League)) - 16:00
-http://192.168.1.58:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
-#EXTINF:-1 tvg-name="Arsenal – Chelsea" tvg-id="Arsenal – Chelsea-16:30-0" group-title="Football / 16:30 (England. Premier League)",Arsenal – Chelsea (16:30 (England. Premier League)) - 16:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-name="Arsenal – Chelsea" tvg-id="Arsenal – Chelsea-16:30-1" group-title="Football / 16:30 (England. Premier League)",Arsenal – Chelsea (16:30 (England. Premier League)) - 16:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Arsenal – Chelsea" tvg-id="Arsenal – Chelsea-16:30-2" group-title="Football / 16:30 (England. Premier League)",Arsenal – Chelsea (16:30 (England. Premier League)) - 16:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="Arsenal – Chelsea" tvg-id="Arsenal – Chelsea-16:30-3" group-title="Football / 16:30 (England. Premier League)",Arsenal – Chelsea (16:30 (England. Premier League)) - 16:30 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-name="Arsenal – Chelsea" tvg-id="Arsenal – Chelsea-16:30-4" group-title="Football / 16:30 (England. Premier League)",Arsenal – Chelsea (16:30 (England. Premier League)) - 16:30 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 tvg-name="Arsenal – Chelsea" tvg-id="Arsenal – Chelsea-16:30-5" group-title="Football / 16:30 (England. Premier League)",Arsenal – Chelsea (16:30 (England. Premier League)) - 16:30 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 tvg-name="Eintracht – Augsburg" tvg-id="Eintracht – Augsburg-16:30-0" group-title="Football / 16:30 (Germany. Bundesliga)",Eintracht – Augsburg (16:30 (Germany. Bundesliga)) - 16:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="Eintracht – Augsburg" tvg-id="Eintracht – Augsburg-16:30-1" group-title="Football / 16:30 (Germany. Bundesliga)",Eintracht – Augsburg (16:30 (Germany. Bundesliga)) - 16:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Eintracht – Augsburg" tvg-id="Eintracht – Augsburg-16:30-2" group-title="Football / 16:30 (Germany. Bundesliga)",Eintracht – Augsburg (16:30 (Germany. Bundesliga)) - 16:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
-#EXTINF:-1 tvg-name="Eintracht – Augsburg" tvg-id="Eintracht – Augsburg-16:30-3" group-title="Football / 16:30 (Germany. Bundesliga)",Eintracht – Augsburg (16:30 (Germany. Bundesliga)) - 16:30 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=fd572fdeeaaff430ab2775e3bae1620295660ebd
-#EXTINF:-1 tvg-name="Dynamo M – Spartak M" tvg-id="Dynamo M – Spartak M-16:30-0" group-title="Football / 16:30 (Russia. Premier League)",Dynamo M – Spartak M (16:30 (Russia. Premier League)) - 16:30 - Link 1
+#EXTINF:-1 tvg-name="Baltika – Lokomotiv M" tvg-id="Baltika – Lokomotiv M-18:45-0" group-title="Football / 18:45 (Russia. Premier League)",Baltika – Lokomotiv M (18:45 (Russia. Premier League)) - 18:45
 http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Dynamo M – Spartak M" tvg-id="Dynamo M – Spartak M-16:30-1" group-title="Football / 16:30 (Russia. Premier League)",Dynamo M – Spartak M (16:30 (Russia. Premier League)) - 16:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="Bologna – Sassuolo" tvg-id="Bologna – Sassuolo-17:00-0" group-title="Football / 17:00 (Italy. Serie A)",Bologna – Sassuolo (17:00 (Italy. Serie A)) - 17:00 - Link 1
+#EXTINF:-1 tvg-name="Juventus – Milan" tvg-id="Juventus – Milan-19:45-0" group-title="Football / 19:45 (Italy. Serie A)",Juventus – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Bologna – Sassuolo" tvg-id="Bologna – Sassuolo-17:00-1" group-title="Football / 17:00 (Italy. Serie A)",Bologna – Sassuolo (17:00 (Italy. Serie A)) - 17:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Crvena Zvezda – Partizan" tvg-id="Crvena Zvezda – Partizan-18:00-0" group-title="Football / 18:00 (Serbia. Superliga)",Crvena Zvezda – Partizan (18:00 (Serbia. Superliga)) - 18:00
+#EXTINF:-1 tvg-name="Juventus – Milan" tvg-id="Juventus – Milan-19:45-1" group-title="Football / 19:45 (Italy. Serie A)",Juventus – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="Juventus – Milan" tvg-id="Juventus – Milan-19:45-2" group-title="Football / 19:45 (Italy. Serie A)",Juventus – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="Juventus – Milan" tvg-id="Juventus – Milan-19:45-3" group-title="Football / 19:45 (Italy. Serie A)",Juventus – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="Juventus – Milan" tvg-id="Juventus – Milan-19:45-4" group-title="Football / 19:45 (Italy. Serie A)",Juventus – Milan (19:45 (Italy. Serie A)) - 19:45 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-name="Marseille – Paris" tvg-id="Marseille – Paris-19:45-0" group-title="Football / 19:45 (France. Ligue 1)",Marseille – Paris (19:45 (France. Ligue 1)) - 19:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="Marseille – Paris" tvg-id="Marseille – Paris-19:45-1" group-title="Football / 19:45 (France. Ligue 1)",Marseille – Paris (19:45 (France. Ligue 1)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="Marseille – Paris" tvg-id="Marseille – Paris-19:45-2" group-title="Football / 19:45 (France. Ligue 1)",Marseille – Paris (19:45 (France. Ligue 1)) - 19:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1 tvg-name="Inter-RS – Santos-SP" tvg-id="Inter-RS – Santos-SP-20:00-0" group-title="Football / 20:00 (Brazil. Serie A)",Inter-RS – Santos-SP (20:00 (Brazil. Serie A)) - 20:00
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="Cruzeiro-MG – Athletico-PR" tvg-id="Cruzeiro-MG – Athletico-PR-20:00-0" group-title="Football / 20:00 (Brazil. Serie A)",Cruzeiro-MG – Athletico-PR (20:00 (Brazil. Serie A)) - 20:00
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

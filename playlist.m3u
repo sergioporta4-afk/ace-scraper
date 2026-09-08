@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Vitoria-BA – Gremio-RS" tvg-id="Vitoria-BA – Gremio-RS-0:00-0" group-title="Football / 8 September at 0:00(Brazil. Serie A)",Vitoria-BA – Gremio-RS (8 September at 0:00(Brazil. Serie A)) - 0:00
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Real Madrid U-19 – Inter U-1" tvg-id="Real Madrid U-19 – Inter U-1-15:00-0" group-title="Football / 15:00 (UEFA Youth League)",Real Madrid U-19 – Inter U-1 (15:00 (UEFA Youth League)) - 15:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
+#EXTINF:-1 tvg-name="Real Madrid U-19 – Inter U-1" tvg-id="Real Madrid U-19 – Inter U-1-15:00-1" group-title="Football / 15:00 (UEFA Youth League)",Real Madrid U-19 – Inter U-1 (15:00 (UEFA Youth League)) - 15:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027

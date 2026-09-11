@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Krylia Sovetov – Rodina" tvg-id="Krylia Sovetov – Rodina-16:00-0" group-title="Football / 16:00 (Russia. Premier League)",Krylia Sovetov – Rodina (16:00 (Russia. Premier League)) - 16:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Krylia Sovetov – Rodina" tvg-id="Krylia Sovetov – Rodina-16:00-1" group-title="Football / 16:00 (Russia. Premier League)",Krylia Sovetov – Rodina (16:00 (Russia. Premier League)) - 16:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Minsk – Slavia Mazyr" tvg-id="Minsk – Slavia Mazyr-18:10-0" group-title="Football / 18:10 (Belarus. Vysheyshaya Liga)",Minsk – Slavia Mazyr (18:10 (Belarus. Vysheyshaya Liga)) - 18:10
+http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
+#EXTINF:-1 tvg-name="Bordeaux – Adler Mannheim" tvg-id="Bordeaux – Adler Mannheim-19:15-0" group-title="Football / 19:15 (Champions League)",Bordeaux – Adler Mannheim (19:15 (Champions League)) - 19:15
+http://192.168.1.58:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
+#EXTINF:-1 tvg-name="Union Berlin – Schalke 0" tvg-id="Union Berlin – Schalke 0-19:30-0" group-title="Football / 19:30 (Germany. Bundesliga)",Union Berlin – Schalke 0 (19:30 (Germany. Bundesliga)) - 19:30
+http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212

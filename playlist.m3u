@@ -1,15 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sassuolo – Juventus" tvg-id="Sassuolo – Juventus-19:45-0" group-title="Football / 19:45 (Italy. Serie A)",Sassuolo – Juventus (19:45 (Italy. Serie A)) - 19:45 - Link 1
+#EXTINF:-1 tvg-name="Al-Shamal – Al-Ittihad Jeddah" tvg-id="Al-Shamal – Al-Ittihad Jeddah-17:00-0" group-title="Football / 17:00 (AFC Champions League Elite)",Al-Shamal – Al-Ittihad Jeddah (17:00 (AFC Champions League Elite)) - 17:00
+http://192.168.1.58:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
+#EXTINF:-1 tvg-name="Leverkusen – Bayern Munich" tvg-id="Leverkusen – Bayern Munich-17:00-0" group-title="Football / 17:00 (Germany. Women. Bundesliga)",Leverkusen – Bayern Munich (17:00 (Germany. Women. Bundesliga)) - 17:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=1950633a3723cb52b17c764125decc04445bd5ff
+#EXTINF:-1 tvg-name="Leverkusen – Bayern Munich" tvg-id="Leverkusen – Bayern Munich-17:00-1" group-title="Football / 17:00 (Germany. Women. Bundesliga)",Leverkusen – Bayern Munich (17:00 (Germany. Women. Bundesliga)) - 17:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="Torino – Roma" tvg-id="Torino – Roma-17:30-0" group-title="Football / 17:30 (Italy. Serie A)",Torino – Roma (17:30 (Italy. Serie A)) - 17:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="Torino – Roma" tvg-id="Torino – Roma-17:30-1" group-title="Football / 17:30 (Italy. Serie A)",Torino – Roma (17:30 (Italy. Serie A)) - 17:30 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Sassuolo – Juventus" tvg-id="Sassuolo – Juventus-19:45-1" group-title="Football / 19:45 (Italy. Serie A)",Sassuolo – Juventus (19:45 (Italy. Serie A)) - 19:45 - Link 2
+#EXTINF:-1 tvg-name="Torino – Roma" tvg-id="Torino – Roma-17:30-2" group-title="Football / 17:30 (Italy. Serie A)",Torino – Roma (17:30 (Italy. Serie A)) - 17:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 tvg-name="Torino – Roma" tvg-id="Torino – Roma-17:30-3" group-title="Football / 17:30 (Italy. Serie A)",Torino – Roma (17:30 (Italy. Serie A)) - 17:30 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-name="Torino – Roma" tvg-id="Torino – Roma-17:30-4" group-title="Football / 17:30 (Italy. Serie A)",Torino – Roma (17:30 (Italy. Serie A)) - 17:30 - Link 5
 http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Sassuolo – Juventus" tvg-id="Sassuolo – Juventus-19:45-2" group-title="Football / 19:45 (Italy. Serie A)",Sassuolo – Juventus (19:45 (Italy. Serie A)) - 19:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-name="Brest – PSG" tvg-id="Brest – PSG-19:45-0" group-title="Football / 19:45 (France. Ligue 1)",Brest – PSG (19:45 (France. Ligue 1)) - 19:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Brest – PSG" tvg-id="Brest – PSG-19:45-1" group-title="Football / 19:45 (France. Ligue 1)",Brest – PSG (19:45 (France. Ligue 1)) - 19:45 - Link 2
+#EXTINF:-1 tvg-name="Torino – Roma" tvg-id="Torino – Roma-17:30-5" group-title="Football / 17:30 (Italy. Serie A)",Torino – Roma (17:30 (Italy. Serie A)) - 17:30 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-name="Como – Parma" tvg-id="Como – Parma-17:30-0" group-title="Football / 17:30 (Italy. Serie A)",Como – Parma (17:30 (Italy. Serie A)) - 17:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Como – Parma" tvg-id="Como – Parma-17:30-1" group-title="Football / 17:30 (Italy. Serie A)",Como – Parma (17:30 (Italy. Serie A)) - 17:30 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Famalicao – Sporting" tvg-id="Famalicao – Sporting-20:30-0" group-title="Football / 20:30 (Portugal. Primeira Liga)",Famalicao – Sporting (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 tvg-name="Famalicao – Sporting" tvg-id="Famalicao – Sporting-20:30-1" group-title="Football / 20:30 (Portugal. Primeira Liga)",Famalicao – Sporting (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 2
+#EXTINF:-1 tvg-name="Como – Parma" tvg-id="Como – Parma-17:30-2" group-title="Football / 17:30 (Italy. Serie A)",Como – Parma (17:30 (Italy. Serie A)) - 17:30 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Stal Mielec – Nieciecza" tvg-id="Stal Mielec – Nieciecza-18:00-0" group-title="Football / 14 September at 18:00(Poland. I Liga)",Stal Mielec – Nieciecza (14 September at 18:00(Poland. I Liga)) - 18:00
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867

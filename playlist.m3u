@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bahia – Remo" tvg-id="Bahia – Remo-0:00-0" group-title="Football / 15 September at 0:00(Brazil. Serie A)",Bahia – Remo (15 September at 0:00(Brazil. Serie A)) - 0:00
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Al-Hilal Riyadh – Al-Gharafa" tvg-id="Al-Hilal Riyadh – Al-Gharafa-19:15-0" group-title="Football / 19:15 (AFC Champions League Elite)",Al-Hilal Riyadh – Al-Gharafa (19:15 (AFC Champions League Elite)) - 19:15 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
+#EXTINF:-1 tvg-name="Al-Hilal Riyadh – Al-Gharafa" tvg-id="Al-Hilal Riyadh – Al-Gharafa-19:15-1" group-title="Football / 19:15 (AFC Champions League Elite)",Al-Hilal Riyadh – Al-Gharafa (19:15 (AFC Champions League Elite)) - 19:15 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab

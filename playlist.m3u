@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Lokomotiv M – Krylia Sovetov" tvg-id="Lokomotiv M – Krylia Sovetov-18:45-0" group-title="Football / 18:45 (Russia. Premier League)",Lokomotiv M – Krylia Sovetov (18:45 (Russia. Premier League)) - 18:45
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Baltika – Zenit" tvg-id="Baltika – Zenit-18:45-0" group-title="Football / 18:45 (Russia. Premier League)",Baltika – Zenit (18:45 (Russia. Premier League)) - 18:45
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-name="PSG – Zagreb" tvg-id="PSG – Zagreb-19:45-0" group-title="Football / 19:45 (EHF Champions League)",PSG – Zagreb (19:45 (EHF Champions League)) - 19:45
-http://192.168.1.58:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-name="Fuechse Berlin – Veszprem" tvg-id="Fuechse Berlin – Veszprem-19:45-0" group-title="Football / 19:45 (EHF Champions League)",Fuechse Berlin – Veszprem (19:45 (EHF Champions League)) - 19:45
-http://192.168.1.58:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
 #EXTINF:-1 tvg-name="Anderlecht – Lyon" tvg-id="Anderlecht – Lyon-20:00-0" group-title="Football / 20:00 (Europa League)",Anderlecht – Lyon (20:00 (Europa League)) - 20:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-name="Anderlecht – Lyon" tvg-id="Anderlecht – Lyon-20:00-1" group-title="Football / 20:00 (Europa League)",Anderlecht – Lyon (20:00 (Europa League)) - 20:00 - Link 2

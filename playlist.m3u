@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Belshina – Minsk" tvg-id="Belshina – Minsk-14:30-0" group-title="Football / 14:30 (Belarus. Vysheyshaya Liga)",Belshina – Minsk (14:30 (Belarus. Vysheyshaya Liga)) - 14:30
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-#EXTINF:-1 tvg-name="Ocelari Trinec – Kometa Brno" tvg-id="Ocelari Trinec – Kometa Brno-16:00-0" group-title="Football / 16:00 (Czech Republic. Extraliga)",Ocelari Trinec – Kometa Brno (16:00 (Czech Republic. Extraliga)) - 16:00
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Bayern Munich – Union Berlin" tvg-id="Bayern Munich – Union Berlin-19:30-0" group-title="Football / 19:30 (Germany. Bundesliga)",Bayern Munich – Union Berlin (19:30 (Germany. Bundesliga)) - 19:30
+http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c

@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Remo – Santos-SP" tvg-id="Remo – Santos-SP-22:30-0" group-title="Football / 22:30 (Brazil. Serie A)",Remo – Santos-SP (22:30 (Brazil. Serie A)) - 22:30
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="River Plate – Huracan" tvg-id="River Plate – Huracan-23:00-0" group-title="Football / 23:00 (Argentina. Liga Profesional)",River Plate – Huracan (23:00 (Argentina. Liga Profesional)) - 23:00
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7

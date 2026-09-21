@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Athletico-PR – Bahia" tvg-id="Athletico-PR – Bahia-23:30-0" group-title="Football / 20 September at 23:30(Brazil. Serie A)",Athletico-PR – Bahia (20 September at 23:30(Brazil. Serie A)) - 23:30
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Werder Bremen – Stuttgart" tvg-id="Werder Bremen – Stuttgart-17:00-0" group-title="Football / 17:00 (Germany. Women. Bundesliga)",Werder Bremen – Stuttgart (17:00 (Germany. Women. Bundesliga)) - 17:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=1950633a3723cb52b17c764125decc04445bd5ff
+#EXTINF:-1 tvg-name="Werder Bremen – Stuttgart" tvg-id="Werder Bremen – Stuttgart-17:00-1" group-title="Football / 17:00 (Germany. Women. Bundesliga)",Werder Bremen – Stuttgart (17:00 (Germany. Women. Bundesliga)) - 17:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229

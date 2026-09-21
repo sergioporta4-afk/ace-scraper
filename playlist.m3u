@@ -1,17 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Milan – Lecce" tvg-id="Milan – Lecce-19:45-0" group-title="Football / 19:45 (Italy. Serie A)",Milan – Lecce (19:45 (Italy. Serie A)) - 19:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Milan – Lecce" tvg-id="Milan – Lecce-19:45-1" group-title="Football / 19:45 (Italy. Serie A)",Milan – Lecce (19:45 (Italy. Serie A)) - 19:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Milan – Lecce" tvg-id="Milan – Lecce-19:45-2" group-title="Football / 19:45 (Italy. Serie A)",Milan – Lecce (19:45 (Italy. Serie A)) - 19:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-name="Marseille – PSG" tvg-id="Marseille – PSG-19:45-0" group-title="Football / 19:45 (France. Ligue 1)",Marseille – PSG (19:45 (France. Ligue 1)) - 19:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Marseille – PSG" tvg-id="Marseille – PSG-19:45-1" group-title="Football / 19:45 (France. Ligue 1)",Marseille – PSG (19:45 (France. Ligue 1)) - 19:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 tvg-name="Corinthians – Fluminense" tvg-id="Corinthians – Fluminense-20:00-0" group-title="Football / 20:00 (Brazil. Serie A)",Corinthians – Fluminense (20:00 (Brazil. Serie A)) - 20:00
+#EXTINF:-1 tvg-name="Athletico-PR – Bahia" tvg-id="Athletico-PR – Bahia-23:30-0" group-title="Football / 20 September at 23:30(Brazil. Serie A)",Athletico-PR – Bahia (20 September at 23:30(Brazil. Serie A)) - 23:30
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Porto – Benfica" tvg-id="Porto – Benfica-20:30-0" group-title="Football / 20:30 (Portugal. Primeira Liga)",Porto – Benfica (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Porto – Benfica" tvg-id="Porto – Benfica-20:30-1" group-title="Football / 20:30 (Portugal. Primeira Liga)",Porto – Benfica (20:30 (Portugal. Primeira Liga)) - 20:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2

@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Werder Bremen – Stuttgart" tvg-id="Werder Bremen – Stuttgart-17:00-0" group-title="Football / 17:00 (Germany. Women. Bundesliga)",Werder Bremen – Stuttgart (17:00 (Germany. Women. Bundesliga)) - 17:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=1950633a3723cb52b17c764125decc04445bd5ff
-#EXTINF:-1 tvg-name="Werder Bremen – Stuttgart" tvg-id="Werder Bremen – Stuttgart-17:00-1" group-title="Football / 17:00 (Germany. Women. Bundesliga)",Werder Bremen – Stuttgart (17:00 (Germany. Women. Bundesliga)) - 17:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="Real Madrid – PSG" tvg-id="Real Madrid – PSG-20:00-0" group-title="Football / 20:00 (Women. Champions League)",Real Madrid – PSG (20:00 (Women. Champions League)) - 20:00
+http://192.168.1.58:6878/ace/getstream?id=40f9a0993165b3c0f5bce84f69a0a0f2e205ac9d

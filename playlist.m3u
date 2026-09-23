@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Real Madrid – PSG" tvg-id="Real Madrid – PSG-20:00-0" group-title="Football / 20:00 (Women. Champions League)",Real Madrid – PSG (20:00 (Women. Champions League)) - 20:00
+#EXTINF:-1 tvg-name="Barcelona – Paris" tvg-id="Barcelona – Paris-20:00-0" group-title="Football / 20:00 (Women. Champions League)",Barcelona – Paris (20:00 (Women. Champions League)) - 20:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=40f9a0993165b3c0f5bce84f69a0a0f2e205ac9d
+#EXTINF:-1 tvg-name="Barcelona – Paris" tvg-id="Barcelona – Paris-20:00-1" group-title="Football / 20:00 (Women. Champions League)",Barcelona – Paris (20:00 (Women. Champions League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867

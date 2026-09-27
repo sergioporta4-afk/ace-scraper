@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Leicester Tigers – Saracens" tvg-id="Leicester Tigers – Saracens-15:00-0" group-title="Football / 15:00 (England. Premiership)",Leicester Tigers – Saracens (15:00 (England. Premiership)) - 15:00
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-name="Kometa Brno – Dynamo Pardubice" tvg-id="Kometa Brno – Dynamo Pardubice-16:00-0" group-title="Football / 16:00 (Czech Republic. Extraliga)",Kometa Brno – Dynamo Pardubice (16:00 (Czech Republic. Extraliga)) - 16:00
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Germany GER – Greece GRE" tvg-id="Germany GER – Greece GRE-19:45-0" group-title="Football / 19:45 (UEFA Nations League)",Germany GER – Greece GRE (19:45 (UEFA Nations League)) - 19:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-name="Germany GER – Greece GRE" tvg-id="Germany GER – Greece GRE-19:45-1" group-title="Football / 19:45 (UEFA Nations League)",Germany GER – Greece GRE (19:45 (UEFA Nations League)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-name="Israel ISR – Ireland IRL" tvg-id="Israel ISR – Ireland IRL-19:45-0" group-title="Football / 19:45 (UEFA Nations League)",Israel ISR – Ireland IRL (19:45 (UEFA Nations League)) - 19:45
+http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-name="Norway NOR – Portugal POR" tvg-id="Norway NOR – Portugal POR-19:45-0" group-title="Football / 19:45 (UEFA Nations League)",Norway NOR – Portugal POR (19:45 (UEFA Nations League)) - 19:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="Norway NOR – Portugal POR" tvg-id="Norway NOR – Portugal POR-19:45-1" group-title="Football / 19:45 (UEFA Nations League)",Norway NOR – Portugal POR (19:45 (UEFA Nations League)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f

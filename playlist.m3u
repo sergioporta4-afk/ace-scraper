@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Germany GER – Greece GRE" tvg-id="Germany GER – Greece GRE-19:45-0" group-title="Football / 19:45 (UEFA Nations League)",Germany GER – Greece GRE (19:45 (UEFA Nations League)) - 19:45 - Link 1
+#EXTINF:-1 tvg-name="Azerbaijan AZE – Liechtenstein LIE" tvg-id="Azerbaijan AZE – Liechtenstein LIE-17:00-0" group-title="Football / 17:00 (UEFA Nations League)",Azerbaijan AZE – Liechtenstein LIE (17:00 (UEFA Nations League)) - 17:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-name="Germany GER – Greece GRE" tvg-id="Germany GER – Greece GRE-19:45-1" group-title="Football / 19:45 (UEFA Nations League)",Germany GER – Greece GRE (19:45 (UEFA Nations League)) - 19:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-name="Israel ISR – Ireland IRL" tvg-id="Israel ISR – Ireland IRL-19:45-0" group-title="Football / 19:45 (UEFA Nations League)",Israel ISR – Ireland IRL (19:45 (UEFA Nations League)) - 19:45
-http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="Norway NOR – Portugal POR" tvg-id="Norway NOR – Portugal POR-19:45-0" group-title="Football / 19:45 (UEFA Nations League)",Norway NOR – Portugal POR (19:45 (UEFA Nations League)) - 19:45 - Link 1
+#EXTINF:-1 tvg-name="Azerbaijan AZE – Liechtenstein LIE" tvg-id="Azerbaijan AZE – Liechtenstein LIE-17:00-1" group-title="Football / 17:00 (UEFA Nations League)",Azerbaijan AZE – Liechtenstein LIE (17:00 (UEFA Nations League)) - 17:00 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-name="Norway NOR – Portugal POR" tvg-id="Norway NOR – Portugal POR-19:45-1" group-title="Football / 19:45 (UEFA Nations League)",Norway NOR – Portugal POR (19:45 (UEFA Nations League)) - 19:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 tvg-name="Azerbaijan AZE – Liechtenstein LIE" tvg-id="Azerbaijan AZE – Liechtenstein LIE-17:00-2" group-title="Football / 17:00 (UEFA Nations League)",Azerbaijan AZE – Liechtenstein LIE (17:00 (UEFA Nations League)) - 17:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=b2de6896bde31180ac213fce395c437fa3b2a892
+#EXTINF:-1 tvg-name="Azerbaijan AZE – Liechtenstein LIE" tvg-id="Azerbaijan AZE – Liechtenstein LIE-17:00-3" group-title="Football / 17:00 (UEFA Nations League)",Azerbaijan AZE – Liechtenstein LIE (17:00 (UEFA Nations League)) - 17:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-name="HB Koege – Servette" tvg-id="HB Koege – Servette-17:45-0" group-title="Football / 17:45 (Women. Champions League)",HB Koege – Servette (17:45 (Women. Champions League)) - 17:45
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867

@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Borisfen – Rubon" tvg-id="Borisfen – Rubon-15:45-0" group-title="Football / 15:45 (Belarus. Premier League)",Borisfen – Rubon (15:45 (Belarus. Premier League)) - 15:45
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-#EXTINF:-1 tvg-name="Vitkovice – Karlovy Vary" tvg-id="Vitkovice – Karlovy Vary-16:30-0" group-title="Football / 16:30 (Czech Republic. Extraliga)",Vitkovice – Karlovy Vary (16:30 (Czech Republic. Extraliga)) - 16:30
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
-#EXTINF:-1 tvg-name="Cyprus CYP – Armenia ARM" tvg-id="Cyprus CYP – Armenia ARM-17:00-0" group-title="Football / 17:00 (UEFA Nations League)",Cyprus CYP – Armenia ARM (17:00 (UEFA Nations League)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-name="Latvia LVA – Montenegro MNE" tvg-id="Latvia LVA – Montenegro MNE-17:00-0" group-title="Football / 17:00 (UEFA Nations League)",Latvia LVA – Montenegro MNE (17:00 (UEFA Nations League)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="Sao Paolo – Santos-SP:00" tvg-id="Sao Paolo – Santos-SP:00-0:00-0" group-title="Football / 0:00 (Brazil. Serie A)",Sao Paolo – Santos-SP:00 (0:00 (Brazil. Serie A)) - 0:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="Sao Paolo – Santos-SP:00" tvg-id="Sao Paolo – Santos-SP:00-0:00-1" group-title="Football / 0:00 (Brazil. Serie A)",Sao Paolo – Santos-SP:00 (0:00 (Brazil. Serie A)) - 0:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Boca Juniors – Union de Santa Fe:30" tvg-id="Boca Juniors – Union de Santa Fe:30-1:30-0" group-title="Football / 1:30 (Argentina. Liga Profesional)",Boca Juniors – Union de Santa Fe:30 (1:30 (Argentina. Liga Profesional)) - 1:30
+http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565

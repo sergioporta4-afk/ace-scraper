@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sao Paolo – Santos-SP:00" tvg-id="Sao Paolo – Santos-SP:00-0:00-0" group-title="Football / 0:00 (Brazil. Serie A)",Sao Paolo – Santos-SP:00 (0:00 (Brazil. Serie A)) - 0:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="Sao Paolo – Santos-SP:00" tvg-id="Sao Paolo – Santos-SP:00-0:00-1" group-title="Football / 0:00 (Brazil. Serie A)",Sao Paolo – Santos-SP:00 (0:00 (Brazil. Serie A)) - 0:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-name="Boca Juniors – Union de Santa Fe:30" tvg-id="Boca Juniors – Union de Santa Fe:30-1:30-0" group-title="Football / 1:30 (Argentina. Liga Profesional)",Boca Juniors – Union de Santa Fe:30 (1:30 (Argentina. Liga Profesional)) - 1:30
-http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-name="Hutnik Krakow – GKS Tychy" tvg-id="Hutnik Krakow – GKS Tychy-14:15-0" group-title="Football / 14:15 (Poland. II Liga)",Hutnik Krakow – GKS Tychy (14:15 (Poland. II Liga)) - 14:15
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="Cologne – Freiburg" tvg-id="Cologne – Freiburg-15:00-0" group-title="Football / 15:00 (Germany. Women. Bundesliga)",Cologne – Freiburg (15:00 (Germany. Women. Bundesliga)) - 15:00
+http://192.168.1.58:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-name="Bristol Bears – Northampton Saints" tvg-id="Bristol Bears – Northampton Saints-15:14-0" group-title="Football / 15:05 (England. Premiership)",Bristol Bears – Northampton Saints (15:05 (England. Premiership)) - 15:14
+http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b

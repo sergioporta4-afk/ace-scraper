@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Newcastle Red Bulls – Leicester Tigers" tvg-id="Newcastle Red Bulls – Leicester Tigers-19:45-0" group-title="Football / 19:45 (England. Premiership)",Newcastle Red Bulls – Leicester Tigers (19:45 (England. Premiership)) - 19:45
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-name="Spain ESP – Czech Republic CZE" tvg-id="Spain ESP – Czech Republic CZE-19:45-0" group-title="Football / 19:45 (UEFA Nations League)",Spain ESP – Czech Republic CZE (19:45 (UEFA Nations League)) - 19:45 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 #EXTINF:-1 tvg-name="Spain ESP – Czech Republic CZE" tvg-id="Spain ESP – Czech Republic CZE-19:45-1" group-title="Football / 19:45 (UEFA Nations League)",Spain ESP – Czech Republic CZE (19:45 (UEFA Nations League)) - 19:45 - Link 2

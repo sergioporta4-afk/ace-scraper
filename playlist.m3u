@@ -11,3 +11,5 @@ http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a4558
 http://192.168.1.58:6878/ace/getstream?id=b2de6896bde31180ac213fce395c437fa3b2a892
 #EXTINF:-1 tvg-name="Greece GRE – Germany GER" tvg-id="Greece GRE – Germany GER-19:45-0" group-title="Football / 19:45 (UEFA Nations League)",Greece GRE – Germany GER (19:45 (UEFA Nations League)) - 19:45
 http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-name="Talleres de Cordoba – Belgrano" tvg-id="Talleres de Cordoba – Belgrano-21:00-0" group-title="Football / 21:00 (Argentina. Liga Profesional)",Talleres de Cordoba – Belgrano (21:00 (Argentina. Liga Profesional)) - 21:00
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7

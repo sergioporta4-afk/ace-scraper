@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Plzen – Ceske Budejovice" tvg-id="Plzen – Ceske Budejovice-16:30-0" group-title="Football / 16:30 (Czech Republic. Extraliga)",Plzen – Ceske Budejovice (16:30 (Czech Republic. Extraliga)) - 16:30
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Palmeiras – Bahia:30" tvg-id="Palmeiras – Bahia:30-1:30-0" group-title="Football / 1:30 (Brazil. Serie A)",Palmeiras – Bahia:30 (1:30 (Brazil. Serie A)) - 1:30
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

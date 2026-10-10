@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Nuremberg – Wolfsburg" tvg-id="Nuremberg – Wolfsburg-19:30-0" group-title="Football / 19:30 (Germany. 2 Bundesliga)",Nuremberg – Wolfsburg (19:30 (Germany. 2 Bundesliga)) - 19:30
-http://192.168.1.58:6878/ace/getstream?id=fd572fdeeaaff430ab2775e3bae1620295660ebd
 #EXTINF:-1 tvg-name="Napoli – Frosinone" tvg-id="Napoli – Frosinone-19:45-0" group-title="Football / 19:45 (Italy. Serie A)",Napoli – Frosinone (19:45 (Italy. Serie A)) - 19:45 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 tvg-name="Napoli – Frosinone" tvg-id="Napoli – Frosinone-19:45-1" group-title="Football / 19:45 (Italy. Serie A)",Napoli – Frosinone (19:45 (Italy. Serie A)) - 19:45 - Link 2

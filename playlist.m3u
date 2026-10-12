@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Gremio-RS – Inter-RS" tvg-id="Gremio-RS – Inter-RS-21:30-0" group-title="Football / 21:30 (Brazil. Serie A)",Gremio-RS – Inter-RS (21:30 (Brazil. Serie A)) - 21:30
-http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-name="Palmeiras – Corinthians" tvg-id="Palmeiras – Corinthians-21:30-0" group-title="Football / 21:30 (Brazil. Serie A)",Palmeiras – Corinthians (21:30 (Brazil. Serie A)) - 21:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-name="Palmeiras – Corinthians" tvg-id="Palmeiras – Corinthians-21:30-1" group-title="Football / 21:30 (Brazil. Serie A)",Palmeiras – Corinthians (21:30 (Brazil. Serie A)) - 21:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=86262568aa72b956b06ac67b1c310a32248a0e98
-#EXTINF:-1 tvg-name="Palmeiras – Corinthians" tvg-id="Palmeiras – Corinthians-21:30-2" group-title="Football / 21:30 (Brazil. Serie A)",Palmeiras – Corinthians (21:30 (Brazil. Serie A)) - 21:30 - Link 3
+#EXTINF:-1 tvg-name="Bahia – Mirassol" tvg-id="Bahia – Mirassol-23:30-0" group-title="Football / 11 October at 23:30(Brazil. Serie A)",Bahia – Mirassol (11 October at 23:30(Brazil. Serie A)) - 23:30
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

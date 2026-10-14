@@ -1,15 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Lens – Sporting" tvg-id="Lens – Sporting-17:45-0" group-title="Football / 17:45 (Champions League)",Lens – Sporting (17:45 (Champions League)) - 17:45
-http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
-#EXTINF:-1 tvg-name="Sabah – Slavia Prague" tvg-id="Sabah – Slavia Prague-17:45-0" group-title="Football / 17:45 (Champions League)",Sabah – Slavia Prague (17:45 (Champions League)) - 17:45
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Havelse – Wuerzburg" tvg-id="Havelse – Wuerzburg-18:00-0" group-title="Football / 18:00 (Germany. 3 Bundesliga)",Havelse – Wuerzburg (18:00 (Germany. 3 Bundesliga)) - 18:00
-http://192.168.1.58:6878/ace/getstream?id=14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
-#EXTINF:-1 tvg-name="Stuttgart II – Hoffenheim II" tvg-id="Stuttgart II – Hoffenheim II-18:00-0" group-title="Football / 18:00 (Germany. 3 Bundesliga)",Stuttgart II – Hoffenheim II (18:00 (Germany. 3 Bundesliga)) - 18:00
-http://192.168.1.58:6878/ace/getstream?id=428b92f3c71cd3cbf66ef6193808b39d16a52730
-#EXTINF:-1 tvg-name="Saarbruecken – Duisburg" tvg-id="Saarbruecken – Duisburg-18:00-0" group-title="Football / 18:00 (Germany. 3 Bundesliga)",Saarbruecken – Duisburg (18:00 (Germany. 3 Bundesliga)) - 18:00
-http://192.168.1.58:6878/ace/getstream?id=1fb794b1503c5955b75ea0106ee6360b80d78849
-#EXTINF:-1 tvg-name="RW Essen – Fortuna Cologne" tvg-id="RW Essen – Fortuna Cologne-18:00-0" group-title="Football / 18:00 (Germany. 3 Bundesliga)",RW Essen – Fortuna Cologne (18:00 (Germany. 3 Bundesliga)) - 18:00
-http://192.168.1.58:6878/ace/getstream?id=ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
-#EXTINF:-1 tvg-name="Hansa Rostock – Meppen" tvg-id="Hansa Rostock – Meppen-18:00-0" group-title="Football / 18:00 (Germany. 3 Bundesliga)",Hansa Rostock – Meppen (18:00 (Germany. 3 Bundesliga)) - 18:00
-http://192.168.1.58:6878/ace/getstream?id=d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
+#EXTINF:-1 tvg-name="Manchester City U-19 – PSG U-1" tvg-id="Manchester City U-19 – PSG U-1-15:00-0" group-title="Football / 15:00 (UEFA Youth League)",Manchester City U-19 – PSG U-1 (15:00 (UEFA Youth League)) - 15:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-name="Manchester City U-19 – PSG U-1" tvg-id="Manchester City U-19 – PSG U-1-15:00-1" group-title="Football / 15:00 (UEFA Youth League)",Manchester City U-19 – PSG U-1 (15:00 (UEFA Youth League)) - 15:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027

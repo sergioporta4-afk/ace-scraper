@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Montpellier – Skanderborg Aarhus" tvg-id="Montpellier – Skanderborg Aarhus-19:26-0" group-title="Football / 19:45 (EHF Champions League)",Montpellier – Skanderborg Aarhus (19:45 (EHF Champions League)) - 19:26
-http://192.168.1.58:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
 #EXTINF:-1 tvg-name="Marseille – Olympiacos" tvg-id="Marseille – Olympiacos-20:00-0" group-title="Football / 20:00 (Europa League)",Marseille – Olympiacos (20:00 (Europa League)) - 20:00
 http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
 #EXTINF:-1 tvg-name="Benfica – Celtic" tvg-id="Benfica – Celtic-20:00-0" group-title="Football / 20:00 (Europa League)",Benfica – Celtic (20:00 (Europa League)) - 20:00 - Link 1

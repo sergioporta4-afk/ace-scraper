@@ -1,5 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Dinamo Minsk – Slavia Mazyr" tvg-id="Dinamo Minsk – Slavia Mazyr-16:30-0" group-title="Football / 16:30 (Belarus. Vysheyshaya Liga)",Dinamo Minsk – Slavia Mazyr (16:30 (Belarus. Vysheyshaya Liga)) - 16:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-#EXTINF:-1 tvg-name="Dinamo Minsk – Slavia Mazyr" tvg-id="Dinamo Minsk – Slavia Mazyr-16:30-1" group-title="Football / 16:30 (Belarus. Vysheyshaya Liga)",Dinamo Minsk – Slavia Mazyr (16:30 (Belarus. Vysheyshaya Liga)) - 16:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=9a2aad5b2b4294e07021bdd58b1ca5de3a2c4040
+#EXTINF:-1 tvg-name="Montpellier – Skanderborg Aarhus" tvg-id="Montpellier – Skanderborg Aarhus-19:26-0" group-title="Football / 19:45 (EHF Champions League)",Montpellier – Skanderborg Aarhus (19:45 (EHF Champions League)) - 19:26
+http://192.168.1.58:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
+#EXTINF:-1 tvg-name="Marseille – Olympiacos" tvg-id="Marseille – Olympiacos-20:00-0" group-title="Football / 20:00 (Europa League)",Marseille – Olympiacos (20:00 (Europa League)) - 20:00
+http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
+#EXTINF:-1 tvg-name="Benfica – Celtic" tvg-id="Benfica – Celtic-20:00-0" group-title="Football / 20:00 (Europa League)",Benfica – Celtic (20:00 (Europa League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
+#EXTINF:-1 tvg-name="Benfica – Celtic" tvg-id="Benfica – Celtic-20:00-1" group-title="Football / 20:00 (Europa League)",Benfica – Celtic (20:00 (Europa League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-name="NEC – Levski" tvg-id="NEC – Levski-20:00-0" group-title="Football / 20:00 (Europa League)",NEC – Levski (20:00 (Europa League)) - 20:00
+http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-name="Hoffenheim – Besiktas" tvg-id="Hoffenheim – Besiktas-20:00-0" group-title="Football / 20:00 (Europa League)",Hoffenheim – Besiktas (20:00 (Europa League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=7c12288663069a12aff58f3f62e8ea47ab78c65d
+#EXTINF:-1 tvg-name="Hoffenheim – Besiktas" tvg-id="Hoffenheim – Besiktas-20:00-1" group-title="Football / 20:00 (Europa League)",Hoffenheim – Besiktas (20:00 (Europa League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
+#EXTINF:-1 tvg-name="Celta – Juventus" tvg-id="Celta – Juventus-20:00-0" group-title="Football / 20:00 (Europa League)",Celta – Juventus (20:00 (Europa League)) - 20:00
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Jagiellonia – Ararat-Armenia" tvg-id="Jagiellonia – Ararat-Armenia-20:00-0" group-title="Football / 20:00 (Europa League)",Jagiellonia – Ararat-Armenia (20:00 (Europa League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 tvg-name="Jagiellonia – Ararat-Armenia" tvg-id="Jagiellonia – Ararat-Armenia-20:00-1" group-title="Football / 20:00 (Europa League)",Jagiellonia – Ararat-Armenia (20:00 (Europa League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-name="Bournemouth – Sturm" tvg-id="Bournemouth – Sturm-20:00-0" group-title="Football / 20:00 (Europa League)",Bournemouth – Sturm (20:00 (Europa League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 tvg-name="Bournemouth – Sturm" tvg-id="Bournemouth – Sturm-20:00-1" group-title="Football / 20:00 (Europa League)",Bournemouth – Sturm (20:00 (Europa League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="Dinamo Zagreb – Anderlecht" tvg-id="Dinamo Zagreb – Anderlecht-20:00-0" group-title="Football / 20:00 (Europa League)",Dinamo Zagreb – Anderlecht (20:00 (Europa League)) - 20:00
+http://192.168.1.58:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c

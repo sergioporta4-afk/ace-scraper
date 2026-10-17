@@ -1,21 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bologna – Inter" tvg-id="Bologna – Inter-17:00-0" group-title="Football / 17:00 (Italy. Serie A)",Bologna – Inter (17:00 (Italy. Serie A)) - 17:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Bologna – Inter" tvg-id="Bologna – Inter-17:00-1" group-title="Football / 17:00 (Italy. Serie A)",Bologna – Inter (17:00 (Italy. Serie A)) - 17:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
-#EXTINF:-1 tvg-name="Bologna – Inter" tvg-id="Bologna – Inter-17:00-2" group-title="Football / 17:00 (Italy. Serie A)",Bologna – Inter (17:00 (Italy. Serie A)) - 17:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=af3e4e9fcc5a69848b7f84d3fcf2c4de72bf1b4b
-#EXTINF:-1 tvg-name="Bologna – Inter" tvg-id="Bologna – Inter-17:00-3" group-title="Football / 17:00 (Italy. Serie A)",Bologna – Inter (17:00 (Italy. Serie A)) - 17:00 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Skra Belchatow – Trefl Gdansk" tvg-id="Skra Belchatow – Trefl Gdansk-17:00-0" group-title="Football / 17:00 (Poland. PlusLiga)",Skra Belchatow – Trefl Gdansk (17:00 (Poland. PlusLiga)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-name="Newcastle United – Aston Villa" tvg-id="Newcastle United – Aston Villa-17:30-0" group-title="Football / 17:30 (England. Premier League)",Newcastle United – Aston Villa (17:30 (England. Premier League)) - 17:30
-http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-name="Bayern Munich – RB Leipzig" tvg-id="Bayern Munich – RB Leipzig-17:30-0" group-title="Football / 17:30 (Germany. Bundesliga)",Bayern Munich – RB Leipzig (17:30 (Germany. Bundesliga)) - 17:30 - Link 1
+#EXTINF:-1 tvg-name="Hanover 96 – St Pauli" tvg-id="Hanover 96 – St Pauli-19:30-0" group-title="Football / 19:30 (Germany. 2 Bundesliga)",Hanover 96 – St Pauli (19:30 (Germany. 2 Bundesliga)) - 19:30
+http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-name="Roma – Genoa" tvg-id="Roma – Genoa-19:45-0" group-title="Football / 19:45 (Italy. Serie A)",Roma – Genoa (19:45 (Italy. Serie A)) - 19:45 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-name="Bayern Munich – RB Leipzig" tvg-id="Bayern Munich – RB Leipzig-17:30-1" group-title="Football / 17:30 (Germany. Bundesliga)",Bayern Munich – RB Leipzig (17:30 (Germany. Bundesliga)) - 17:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=98f7c6627892ba874bd175ef1f9e67199c7e11af
-#EXTINF:-1 tvg-name="Lokomotiv M – Krasnodar" tvg-id="Lokomotiv M – Krasnodar-17:30-0" group-title="Football / 17:30 (Russia. Premier League)",Lokomotiv M – Krasnodar (17:30 (Russia. Premier League)) - 17:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Lokomotiv M – Krasnodar" tvg-id="Lokomotiv M – Krasnodar-17:30-1" group-title="Football / 17:30 (Russia. Premier League)",Lokomotiv M – Krasnodar (17:30 (Russia. Premier League)) - 17:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="Roma – Genoa" tvg-id="Roma – Genoa-19:45-1" group-title="Football / 19:45 (Italy. Serie A)",Roma – Genoa (19:45 (Italy. Serie A)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="Roma – Genoa" tvg-id="Roma – Genoa-19:45-2" group-title="Football / 19:45 (Italy. Serie A)",Roma – Genoa (19:45 (Italy. Serie A)) - 19:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Troyes – Lens" tvg-id="Troyes – Lens-19:45-0" group-title="Football / 19:45 (France. Ligue 1)",Troyes – Lens (19:45 (France. Ligue 1)) - 19:45
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="Lille – Brest" tvg-id="Lille – Brest-19:45-0" group-title="Football / 19:45 (France. Ligue 1)",Lille – Brest (19:45 (France. Ligue 1)) - 19:45
+http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 tvg-name="Dundee – Rangers" tvg-id="Dundee – Rangers-20:00-0" group-title="Football / 20:00 (Scotland. Premiership)",Dundee – Rangers (20:00 (Scotland. Premiership)) - 20:00
+http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e

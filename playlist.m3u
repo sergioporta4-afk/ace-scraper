@@ -1,9 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Slepsk Suwalki – Barkom-Kazhany" tvg-id="Slepsk Suwalki – Barkom-Kazhany-17:00-0" group-title="Football / 17:00 (Poland. PlusLiga)",Slepsk Suwalki – Barkom-Kazhany (17:00 (Poland. PlusLiga)) - 17:00
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-name="Maxline – Neman" tvg-id="Maxline – Neman-18:00-0" group-title="Football / 18:00 (Belarus. Vysheyshaya Liga)",Maxline – Neman (18:00 (Belarus. Vysheyshaya Liga)) - 18:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-#EXTINF:-1 tvg-name="Maxline – Neman" tvg-id="Maxline – Neman-18:00-1" group-title="Football / 18:00 (Belarus. Vysheyshaya Liga)",Maxline – Neman (18:00 (Belarus. Vysheyshaya Liga)) - 18:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=9a2aad5b2b4294e07021bdd58b1ca5de3a2c4040
 #EXTINF:-1 tvg-name="Baltika – Rostov" tvg-id="Baltika – Rostov-19:00-0" group-title="Football / 19:00 (Russia. Premier League)",Baltika – Rostov (19:00 (Russia. Premier League)) - 19:00
 http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Juventus – Lazio" tvg-id="Juventus – Lazio-19:45-0" group-title="Football / 19:45 (Italy. Serie A)",Juventus – Lazio (19:45 (Italy. Serie A)) - 19:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Juventus – Lazio" tvg-id="Juventus – Lazio-19:45-1" group-title="Football / 19:45 (Italy. Serie A)",Juventus – Lazio (19:45 (Italy. Serie A)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-name="Juventus – Lazio" tvg-id="Juventus – Lazio-19:45-2" group-title="Football / 19:45 (Italy. Serie A)",Juventus – Lazio (19:45 (Italy. Serie A)) - 19:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="Juventus – Lazio" tvg-id="Juventus – Lazio-19:45-3" group-title="Football / 19:45 (Italy. Serie A)",Juventus – Lazio (19:45 (Italy. Serie A)) - 19:45 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Juventus – Lazio" tvg-id="Juventus – Lazio-19:45-4" group-title="Football / 19:45 (Italy. Serie A)",Juventus – Lazio (19:45 (Italy. Serie A)) - 19:45 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-name="Juventus – Lazio" tvg-id="Juventus – Lazio-19:45-5" group-title="Football / 19:45 (Italy. Serie A)",Juventus – Lazio (19:45 (Italy. Serie A)) - 19:45 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 tvg-name="Juventus – Lazio" tvg-id="Juventus – Lazio-19:45-6" group-title="Football / 19:45 (Italy. Serie A)",Juventus – Lazio (19:45 (Italy. Serie A)) - 19:45 - Link 7
+http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="Lyon – Nice" tvg-id="Lyon – Nice-19:45-0" group-title="Football / 19:45 (France. Ligue 1)",Lyon – Nice (19:45 (France. Ligue 1)) - 19:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="Lyon – Nice" tvg-id="Lyon – Nice-19:45-1" group-title="Football / 19:45 (France. Ligue 1)",Lyon – Nice (19:45 (France. Ligue 1)) - 19:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=98f7c6627892ba874bd175ef1f9e67199c7e11af
+#EXTINF:-1 tvg-name="Fluminense – Santos-SP" tvg-id="Fluminense – Santos-SP-20:00-0" group-title="Football / 20:00 (Brazil. Serie A)",Fluminense – Santos-SP (20:00 (Brazil. Serie A)) - 20:00
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

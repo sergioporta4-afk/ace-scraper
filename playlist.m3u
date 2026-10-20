@@ -1,19 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CHKS Chelm – Cuprum Gorzow" tvg-id="CHKS Chelm – Cuprum Gorzow-16:30-0" group-title="Football / 16:30 (Poland. PlusLiga)",CHKS Chelm – Cuprum Gorzow (16:30 (Poland. PlusLiga)) - 16:30
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-name="Monza – Cagliari" tvg-id="Monza – Cagliari-17:30-0" group-title="Football / 17:30 (Italy. Serie A)",Monza – Cagliari (17:30 (Italy. Serie A)) - 17:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-name="Monza – Cagliari" tvg-id="Monza – Cagliari-17:30-1" group-title="Football / 17:30 (Italy. Serie A)",Monza – Cagliari (17:30 (Italy. Serie A)) - 17:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-name="Monza – Cagliari" tvg-id="Monza – Cagliari-17:30-2" group-title="Football / 17:30 (Italy. Serie A)",Monza – Cagliari (17:30 (Italy. Serie A)) - 17:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
-#EXTINF:-1 tvg-name="Monza – Cagliari" tvg-id="Monza – Cagliari-17:30-3" group-title="Football / 17:30 (Italy. Serie A)",Monza – Cagliari (17:30 (Italy. Serie A)) - 17:30 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-name="Rodina – Orenburg" tvg-id="Rodina – Orenburg-17:30-0" group-title="Football / 17:30 (Russia. Premier League)",Rodina – Orenburg (17:30 (Russia. Premier League)) - 17:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Rodina – Orenburg" tvg-id="Rodina – Orenburg-17:30-1" group-title="Football / 17:30 (Russia. Premier League)",Rodina – Orenburg (17:30 (Russia. Premier League)) - 17:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-name="Dinamo Minsk – Arsenal Dzerzhinsk" tvg-id="Dinamo Minsk – Arsenal Dzerzhinsk-18:00-0" group-title="Football / 18:00 (Belarus. Vysheyshaya Liga)",Dinamo Minsk – Arsenal Dzerzhinsk (18:00 (Belarus. Vysheyshaya Liga)) - 18:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-#EXTINF:-1 tvg-name="Dinamo Minsk – Arsenal Dzerzhinsk" tvg-id="Dinamo Minsk – Arsenal Dzerzhinsk-18:00-1" group-title="Football / 18:00 (Belarus. Vysheyshaya Liga)",Dinamo Minsk – Arsenal Dzerzhinsk (18:00 (Belarus. Vysheyshaya Liga)) - 18:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=9a2aad5b2b4294e07021bdd58b1ca5de3a2c4040
+#EXTINF:-1 tvg-name="Corinthians – Vitoria-BA:00" tvg-id="Corinthians – Vitoria-BA:00-0:00-0" group-title="Football / 0:00 (Brazil. Serie A)",Corinthians – Vitoria-BA:00 (0:00 (Brazil. Serie A)) - 0:00
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

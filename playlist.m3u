@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Corinthians – Vitoria-BA:00" tvg-id="Corinthians – Vitoria-BA:00-0:00-0" group-title="Football / 0:00 (Brazil. Serie A)",Corinthians – Vitoria-BA:00 (0:00 (Brazil. Serie A)) - 0:00
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Manchester City U-19 – AEK U-1" tvg-id="Manchester City U-19 – AEK U-1-15:00-0" group-title="Football / 15:00 (UEFA Youth League)",Manchester City U-19 – AEK U-1 (15:00 (UEFA Youth League)) - 15:00
+http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-name="Olsztyn – Norwid Czestochowa" tvg-id="Olsztyn – Norwid Czestochowa-16:30-0" group-title="Football / 16:30 (Poland. PlusLiga)",Olsztyn – Norwid Czestochowa (16:30 (Poland. PlusLiga)) - 16:30
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee

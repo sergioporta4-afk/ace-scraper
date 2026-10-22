@@ -1,27 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Real Betis – Feyenoord" tvg-id="Real Betis – Feyenoord-20:00-0" group-title="Football / 20:00 (Champions League)",Real Betis – Feyenoord (20:00 (Champions League)) - 20:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
-#EXTINF:-1 tvg-name="Real Betis – Feyenoord" tvg-id="Real Betis – Feyenoord-20:00-1" group-title="Football / 20:00 (Champions League)",Real Betis – Feyenoord (20:00 (Champions League)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-name="Brugge – Lens" tvg-id="Brugge – Lens-20:00-0" group-title="Football / 20:00 (Champions League)",Brugge – Lens (20:00 (Champions League)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
-#EXTINF:-1 tvg-name="Aston Villa – Viking" tvg-id="Aston Villa – Viking-20:00-0" group-title="Football / 20:00 (Champions League)",Aston Villa – Viking (20:00 (Champions League)) - 20:00 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=9231f38e71a85ad24b4c11a5e360992e30c916ed
-#EXTINF:-1 tvg-name="Aston Villa – Viking" tvg-id="Aston Villa – Viking-20:00-1" group-title="Football / 20:00 (Champions League)",Aston Villa – Viking (20:00 (Champions League)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
-#EXTINF:-1 tvg-name="Aston Villa – Viking" tvg-id="Aston Villa – Viking-20:00-2" group-title="Football / 20:00 (Champions League)",Aston Villa – Viking (20:00 (Champions League)) - 20:00 - Link 3
+#EXTINF:-1 tvg-name="Besiktas – Crystal Palace" tvg-id="Besiktas – Crystal Palace-20:00-0" group-title="Football / 20:00 (Europa League)",Besiktas – Crystal Palace (20:00 (Europa League)) - 20:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-name="Inter – Shakhtar Donetsk" tvg-id="Inter – Shakhtar Donetsk-20:00-0" group-title="Football / 20:00 (Champions League)",Inter – Shakhtar Donetsk (20:00 (Champions League)) - 20:00
-http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
-#EXTINF:-1 tvg-name="Real Madrid RM – RB Leipzig" tvg-id="Real Madrid RM – RB Leipzig-20:00-0" group-title="Football / 20:00 (Champions League)",Real Madrid RM – RB Leipzig (20:00 (Champions League)) - 20:00 - Link 1
+#EXTINF:-1 tvg-name="Besiktas – Crystal Palace" tvg-id="Besiktas – Crystal Palace-20:00-1" group-title="Football / 20:00 (Europa League)",Besiktas – Crystal Palace (20:00 (Europa League)) - 20:00 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
-#EXTINF:-1 tvg-name="Real Madrid RM – RB Leipzig" tvg-id="Real Madrid RM – RB Leipzig-20:00-1" group-title="Football / 20:00 (Champions League)",Real Madrid RM – RB Leipzig (20:00 (Champions League)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-name="Bayern Munich – Arsenal" tvg-id="Bayern Munich – Arsenal-20:00-0" group-title="Football / 20:00 (Champions League)",Bayern Munich – Arsenal (20:00 (Champions League)) - 20:00 - Link 1
+#EXTINF:-1 tvg-name="Hoffenheim – Lyon" tvg-id="Hoffenheim – Lyon-20:00-0" group-title="Football / 20:00 (Europa League)",Hoffenheim – Lyon (20:00 (Europa League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=9231f38e71a85ad24b4c11a5e360992e30c916ed
+#EXTINF:-1 tvg-name="Hoffenheim – Lyon" tvg-id="Hoffenheim – Lyon-20:00-1" group-title="Football / 20:00 (Europa League)",Hoffenheim – Lyon (20:00 (Europa League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
+#EXTINF:-1 tvg-name="Jagiellonia – Anderlecht" tvg-id="Jagiellonia – Anderlecht-20:00-0" group-title="Football / 20:00 (Europa League)",Jagiellonia – Anderlecht (20:00 (Europa League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 tvg-name="Jagiellonia – Anderlecht" tvg-id="Jagiellonia – Anderlecht-20:00-1" group-title="Football / 20:00 (Europa League)",Jagiellonia – Anderlecht (20:00 (Europa League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-name="Bournemouth – Milan" tvg-id="Bournemouth – Milan-20:00-0" group-title="Football / 20:00 (Europa League)",Bournemouth – Milan (20:00 (Europa League)) - 20:00 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Bayern Munich – Arsenal" tvg-id="Bayern Munich – Arsenal-20:00-1" group-title="Football / 20:00 (Champions League)",Bayern Munich – Arsenal (20:00 (Champions League)) - 20:00 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-name="Bayern Munich – Arsenal" tvg-id="Bayern Munich – Arsenal-20:00-2" group-title="Football / 20:00 (Champions League)",Bayern Munich – Arsenal (20:00 (Champions League)) - 20:00 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-name="Bayern Munich – Arsenal" tvg-id="Bayern Munich – Arsenal-20:00-3" group-title="Football / 20:00 (Champions League)",Bayern Munich – Arsenal (20:00 (Champions League)) - 20:00 - Link 4
+#EXTINF:-1 tvg-name="Bournemouth – Milan" tvg-id="Bournemouth – Milan-20:00-1" group-title="Football / 20:00 (Europa League)",Bournemouth – Milan (20:00 (Europa League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
+#EXTINF:-1 tvg-name="Bournemouth – Milan" tvg-id="Bournemouth – Milan-20:00-2" group-title="Football / 20:00 (Europa League)",Bournemouth – Milan (20:00 (Europa League)) - 20:00 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="Celtic – Celta" tvg-id="Celtic – Celta-20:00-0" group-title="Football / 20:00 (Europa League)",Celtic – Celta (20:00 (Europa League)) - 20:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 tvg-name="Celtic – Celta" tvg-id="Celtic – Celta-20:00-1" group-title="Football / 20:00 (Europa League)",Celtic – Celta (20:00 (Europa League)) - 20:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-name="Lillestroem – Real Sociedad" tvg-id="Lillestroem – Real Sociedad-20:00-0" group-title="Football / 20:00 (Europa League)",Lillestroem – Real Sociedad (20:00 (Europa League)) - 20:00
+http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a

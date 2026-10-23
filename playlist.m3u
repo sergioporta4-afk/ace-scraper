@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Stuttgart – Borussia M" tvg-id="Stuttgart – Borussia M-19:30-0" group-title="Football / 19:30 (Germany. Bundesliga)",Stuttgart – Borussia M (19:30 (Germany. Bundesliga)) - 19:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Stuttgart – Borussia M" tvg-id="Stuttgart – Borussia M-19:30-1" group-title="Football / 19:30 (Germany. Bundesliga)",Stuttgart – Borussia M (19:30 (Germany. Bundesliga)) - 19:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=8dc603264e8df30fa1dec9a313e606f46582ef25
-#EXTINF:-1 tvg-name="Stuttgart – Borussia M" tvg-id="Stuttgart – Borussia M-19:30-2" group-title="Football / 19:30 (Germany. Bundesliga)",Stuttgart – Borussia M (19:30 (Germany. Bundesliga)) - 19:30 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
-#EXTINF:-1 tvg-name="Cuprum Gorzow – Barkom-Kazhany" tvg-id="Cuprum Gorzow – Barkom-Kazhany-19:30-0" group-title="Football / 19:30 (Poland. PlusLiga)",Cuprum Gorzow – Barkom-Kazhany (19:30 (Poland. PlusLiga)) - 19:30
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 #EXTINF:-1 tvg-name="Torino – Monza" tvg-id="Torino – Monza-19:45-0" group-title="Football / 19:45 (Italy. Serie A)",Torino – Monza (19:45 (Italy. Serie A)) - 19:45 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 #EXTINF:-1 tvg-name="Torino – Monza" tvg-id="Torino – Monza-19:45-1" group-title="Football / 19:45 (Italy. Serie A)",Torino – Monza (19:45 (Italy. Serie A)) - 19:45 - Link 2

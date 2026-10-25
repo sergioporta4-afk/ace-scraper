@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Udinese – Milan" tvg-id="Udinese – Milan-20:45-0" group-title="Football / 20:45 (Italy. Serie A)",Udinese – Milan (20:45 (Italy. Serie A)) - 20:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Udinese – Milan" tvg-id="Udinese – Milan-20:45-1" group-title="Football / 20:45 (Italy. Serie A)",Udinese – Milan (20:45 (Italy. Serie A)) - 20:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-name="Udinese – Milan" tvg-id="Udinese – Milan-20:45-2" group-title="Football / 20:45 (Italy. Serie A)",Udinese – Milan (20:45 (Italy. Serie A)) - 20:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="Sporting – Viseu" tvg-id="Sporting – Viseu-21:30-0" group-title="Football / 21:30 (Portugal. Primeira Liga)",Sporting – Viseu (21:30 (Portugal. Primeira Liga)) - 21:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-name="Sporting – Viseu" tvg-id="Sporting – Viseu-21:30-1" group-title="Football / 21:30 (Portugal. Primeira Liga)",Sporting – Viseu (21:30 (Portugal. Primeira Liga)) - 21:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

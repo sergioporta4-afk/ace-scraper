@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sporting – Viseu" tvg-id="Sporting – Viseu-21:30-0" group-title="Football / 21:30 (Portugal. Primeira Liga)",Sporting – Viseu (21:30 (Portugal. Primeira Liga)) - 21:30 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
-#EXTINF:-1 tvg-name="Sporting – Viseu" tvg-id="Sporting – Viseu-21:30-1" group-title="Football / 21:30 (Portugal. Primeira Liga)",Sporting – Viseu (21:30 (Portugal. Primeira Liga)) - 21:30 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Skra Belchatow – Katowice" tvg-id="Skra Belchatow – Katowice-17:30-0" group-title="Football / 17:30 (Poland. PlusLiga)",Skra Belchatow – Katowice (17:30 (Poland. PlusLiga)) - 17:30
+http://192.168.1.58:6878/ace/getstream?id=98f7c6627892ba874bd175ef1f9e67199c7e11af

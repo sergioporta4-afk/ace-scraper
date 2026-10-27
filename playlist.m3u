@@ -1,3 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Skra Belchatow – Katowice" tvg-id="Skra Belchatow – Katowice-17:30-0" group-title="Football / 17:30 (Poland. PlusLiga)",Skra Belchatow – Katowice (17:30 (Poland. PlusLiga)) - 17:30
-http://192.168.1.58:6878/ace/getstream?id=98f7c6627892ba874bd175ef1f9e67199c7e11af
+#EXTINF:-1 tvg-name="Torino – Como" tvg-id="Torino – Como-20:45-0" group-title="Football / 20:45 (Italy. Serie A)",Torino – Como (20:45 (Italy. Serie A)) - 20:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Torino – Como" tvg-id="Torino – Como-20:45-1" group-title="Football / 20:45 (Italy. Serie A)",Torino – Como (20:45 (Italy. Serie A)) - 20:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=0891665b3d5b40b58129a021314286b96e1910c6
+#EXTINF:-1 tvg-name="Torino – Como" tvg-id="Torino – Como-20:45-2" group-title="Football / 20:45 (Italy. Serie A)",Torino – Como (20:45 (Italy. Serie A)) - 20:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 tvg-name="Torino – Como" tvg-id="Torino – Como-20:45-3" group-title="Football / 20:45 (Italy. Serie A)",Torino – Como (20:45 (Italy. Serie A)) - 20:45 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Torino – Como" tvg-id="Torino – Como-20:45-4" group-title="Football / 20:45 (Italy. Serie A)",Torino – Como (20:45 (Italy. Serie A)) - 20:45 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-name="Roma – Cagliari" tvg-id="Roma – Cagliari-20:45-0" group-title="Football / 20:45 (Italy. Serie A)",Roma – Cagliari (20:45 (Italy. Serie A)) - 20:45 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-name="Roma – Cagliari" tvg-id="Roma – Cagliari-20:45-1" group-title="Football / 20:45 (Italy. Serie A)",Roma – Cagliari (20:45 (Italy. Serie A)) - 20:45 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-name="Roma – Cagliari" tvg-id="Roma – Cagliari-20:45-2" group-title="Football / 20:45 (Italy. Serie A)",Roma – Cagliari (20:45 (Italy. Serie A)) - 20:45 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-name="Roma – Cagliari" tvg-id="Roma – Cagliari-20:45-3" group-title="Football / 20:45 (Italy. Serie A)",Roma – Cagliari (20:45 (Italy. Serie A)) - 20:45 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Roma – Cagliari" tvg-id="Roma – Cagliari-20:45-4" group-title="Football / 20:45 (Italy. Serie A)",Roma – Cagliari (20:45 (Italy. Serie A)) - 20:45 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=d8adc12780ce2ec8a3f5afda63606382a480e85c
+#EXTINF:-1 tvg-name="Roma – Cagliari" tvg-id="Roma – Cagliari-20:45-5" group-title="Football / 20:45 (Italy. Serie A)",Roma – Cagliari (20:45 (Italy. Serie A)) - 20:45 - Link 6
+http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f

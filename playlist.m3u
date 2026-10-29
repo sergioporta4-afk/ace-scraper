@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Genoa – Juventus" tvg-id="Genoa – Juventus-20:45-0" group-title="Football / 20:45 (Italy. Serie A)",Genoa – Juventus (20:45 (Italy. Serie A)) - 20:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-name="Genoa – Juventus" tvg-id="Genoa – Juventus-20:45-1" group-title="Football / 20:45 (Italy. Serie A)",Genoa – Juventus (20:45 (Italy. Serie A)) - 20:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Genoa – Juventus" tvg-id="Genoa – Juventus-20:45-2" group-title="Football / 20:45 (Italy. Serie A)",Genoa – Juventus (20:45 (Italy. Serie A)) - 20:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-name="Genoa – Juventus" tvg-id="Genoa – Juventus-20:45-3" group-title="Football / 20:45 (Italy. Serie A)",Genoa – Juventus (20:45 (Italy. Serie A)) - 20:45 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-name="Bahia – Sao Paolo:30" tvg-id="Bahia – Sao Paolo:30-1:30-0" group-title="Football / 1:30 (Brazil. Serie A)",Bahia – Sao Paolo:30 (1:30 (Brazil. Serie A)) - 1:30
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

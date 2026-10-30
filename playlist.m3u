@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bahia – Sao Paolo:30" tvg-id="Bahia – Sao Paolo:30-1:30-0" group-title="Football / 1:30 (Brazil. Serie A)",Bahia – Sao Paolo:30 (1:30 (Brazil. Serie A)) - 1:30
+#EXTINF:-1 tvg-name="Lille – Lens" tvg-id="Lille – Lens-21:05-0" group-title="Football / 21:05 (France. Ligue 1)",Lille – Lens (21:05 (France. Ligue 1)) - 21:05 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Lille – Lens" tvg-id="Lille – Lens-21:05-1" group-title="Football / 21:05 (France. Ligue 1)",Lille – Lens (21:05 (France. Ligue 1)) - 21:05 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-name="Lille – Lens" tvg-id="Lille – Lens-21:05-2" group-title="Football / 21:05 (France. Ligue 1)",Lille – Lens (21:05 (France. Ligue 1)) - 21:05 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=98f7c6627892ba874bd175ef1f9e67199c7e11af
+#EXTINF:-1 tvg-name="Lille – Lens" tvg-id="Lille – Lens-21:05-3" group-title="Football / 21:05 (France. Ligue 1)",Lille – Lens (21:05 (France. Ligue 1)) - 21:05 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
+#EXTINF:-1 tvg-name="Lille – Lens" tvg-id="Lille – Lens-21:05-4" group-title="Football / 21:05 (France. Ligue 1)",Lille – Lens (21:05 (France. Ligue 1)) - 21:05 - Link 5
+http://192.168.1.58:6878/ace/getstream?id=d8adc12780ce2ec8a3f5afda63606382a480e85c
+#EXTINF:-1 tvg-name="Casa Pia – Sporting" tvg-id="Casa Pia – Sporting-21:15-0" group-title="Football / 21:15 (Portugal. Primeira Liga)",Casa Pia – Sporting (21:15 (Portugal. Primeira Liga)) - 21:15
 http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

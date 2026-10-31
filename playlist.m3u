@@ -25,3 +25,5 @@ http://192.168.1.58:6878/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68
 http://192.168.1.58:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-name="Aston Villa – Fulham" tvg-id="Aston Villa – Fulham-21:00-1" group-title="Football / 21:00 (England. Premier League)",Aston Villa – Fulham (21:00 (England. Premier League)) - 21:00 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
+#EXTINF:-1 tvg-name="Porto – Estoril Praia" tvg-id="Porto – Estoril Praia-21:30-0" group-title="Football / 21:30 (Portugal. Primeira Liga)",Porto – Estoril Praia (21:30 (Portugal. Primeira Liga)) - 21:30
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

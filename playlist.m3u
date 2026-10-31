@@ -1,13 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Lille – Lens" tvg-id="Lille – Lens-21:05-0" group-title="Football / 21:05 (France. Ligue 1)",Lille – Lens (21:05 (France. Ligue 1)) - 21:05 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-name="Lille – Lens" tvg-id="Lille – Lens-21:05-1" group-title="Football / 21:05 (France. Ligue 1)",Lille – Lens (21:05 (France. Ligue 1)) - 21:05 - Link 2
+#EXTINF:-1 tvg-name="Leverkusen – Stuttgart" tvg-id="Leverkusen – Stuttgart-15:30-0" group-title="Football / 15:30 (Germany. Bundesliga)",Leverkusen – Stuttgart (15:30 (Germany. Bundesliga)) - 15:30 - Link 1
 http://192.168.1.58:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-name="Lille – Lens" tvg-id="Lille – Lens-21:05-2" group-title="Football / 21:05 (France. Ligue 1)",Lille – Lens (21:05 (France. Ligue 1)) - 21:05 - Link 3
+#EXTINF:-1 tvg-name="Leverkusen – Stuttgart" tvg-id="Leverkusen – Stuttgart-15:30-1" group-title="Football / 15:30 (Germany. Bundesliga)",Leverkusen – Stuttgart (15:30 (Germany. Bundesliga)) - 15:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
+#EXTINF:-1 tvg-name="Dynamo M – Akhmat" tvg-id="Dynamo M – Akhmat-15:30-0" group-title="Football / 15:30 (Russia. Premier League)",Dynamo M – Akhmat (15:30 (Russia. Premier League)) - 15:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 tvg-name="Dynamo M – Akhmat" tvg-id="Dynamo M – Akhmat-15:30-1" group-title="Football / 15:30 (Russia. Premier League)",Dynamo M – Akhmat (15:30 (Russia. Premier League)) - 15:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-name="Manchester City – Brighton" tvg-id="Manchester City – Brighton-16:00-0" group-title="Football / 16:00 (England. Premier League)",Manchester City – Brighton (16:00 (England. Premier League)) - 16:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:-1 tvg-name="Manchester City – Brighton" tvg-id="Manchester City – Brighton-16:00-1" group-title="Football / 16:00 (England. Premier League)",Manchester City – Brighton (16:00 (England. Premier League)) - 16:00 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-name="Manchester City – Brighton" tvg-id="Manchester City – Brighton-16:00-2" group-title="Football / 16:00 (England. Premier League)",Manchester City – Brighton (16:00 (England. Premier League)) - 16:00 - Link 3
 http://192.168.1.58:6878/ace/getstream?id=98f7c6627892ba874bd175ef1f9e67199c7e11af
-#EXTINF:-1 tvg-name="Lille – Lens" tvg-id="Lille – Lens-21:05-3" group-title="Football / 21:05 (France. Ligue 1)",Lille – Lens (21:05 (France. Ligue 1)) - 21:05 - Link 4
+#EXTINF:-1 tvg-name="Manchester City – Brighton" tvg-id="Manchester City – Brighton-16:00-3" group-title="Football / 16:00 (England. Premier League)",Manchester City – Brighton (16:00 (England. Premier League)) - 16:00 - Link 4
+http://192.168.1.58:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
+#EXTINF:-1 tvg-name="Hull City – Ipswich Town" tvg-id="Hull City – Ipswich Town-16:00-0" group-title="Football / 16:00 (England. Premier League)",Hull City – Ipswich Town (16:00 (England. Premier League)) - 16:00
+http://192.168.1.58:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
+#EXTINF:-1 tvg-name="Brentford – Nottingham Forest" tvg-id="Brentford – Nottingham Forest-16:00-0" group-title="Football / 16:00 (England. Premier League)",Brentford – Nottingham Forest (16:00 (England. Premier League)) - 16:00 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=8dc603264e8df30fa1dec9a313e606f46582ef25
+#EXTINF:-1 tvg-name="Brentford – Nottingham Forest" tvg-id="Brentford – Nottingham Forest-16:00-1" group-title="Football / 16:00 (England. Premier League)",Brentford – Nottingham Forest (16:00 (England. Premier League)) - 16:00 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
-#EXTINF:-1 tvg-name="Lille – Lens" tvg-id="Lille – Lens-21:05-4" group-title="Football / 21:05 (France. Ligue 1)",Lille – Lens (21:05 (France. Ligue 1)) - 21:05 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=d8adc12780ce2ec8a3f5afda63606382a480e85c
-#EXTINF:-1 tvg-name="Casa Pia – Sporting" tvg-id="Casa Pia – Sporting-21:15-0" group-title="Football / 21:15 (Portugal. Primeira Liga)",Casa Pia – Sporting (21:15 (Portugal. Primeira Liga)) - 21:15
-http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-name="Brentford – Nottingham Forest" tvg-id="Brentford – Nottingham Forest-16:00-2" group-title="Football / 16:00 (England. Premier League)",Brentford – Nottingham Forest (16:00 (England. Premier League)) - 16:00 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1 tvg-name="Bath – Sale Sharks" tvg-id="Bath – Sale Sharks-16:05-0" group-title="Football / 16:05 (England. Premiership)",Bath – Sale Sharks (16:05 (England. Premiership)) - 16:05
+http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="Arka Gdynia – Budowlani Lodz" tvg-id="Arka Gdynia – Budowlani Lodz-17:00-0" group-title="Football / 17:00 (Poland. Ekstraliga)",Arka Gdynia – Budowlani Lodz (17:00 (Poland. Ekstraliga)) - 17:00
+http://192.168.1.58:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b

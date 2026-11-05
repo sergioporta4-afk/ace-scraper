@@ -1,35 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Borisfen – Grodno 93" tvg-id="Borisfen – Grodno 93-18:15-0" group-title="Football / 18:15 (Belarus. Premier League)",Borisfen – Grodno 93 (18:15 (Belarus. Premier League)) - 18:15
-http://192.168.1.58:6878/ace/getstream?id=3e1f6de8444abb15efeadb97952d6324e5b6ed9f
-#EXTINF:-1 tvg-name="Crystal Palace – Hoffenheim" tvg-id="Crystal Palace – Hoffenheim-18:45-0" group-title="Football / 18:45 (Europa League)",Crystal Palace – Hoffenheim (18:45 (Europa League)) - 18:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-name="Crystal Palace – Hoffenheim" tvg-id="Crystal Palace – Hoffenheim-18:45-1" group-title="Football / 18:45 (Europa League)",Crystal Palace – Hoffenheim (18:45 (Europa League)) - 18:45 - Link 2
+#EXTINF:-1 tvg-name="Mackenzie – Minas" tvg-id="Mackenzie – Minas-22:30-0" group-title="Football / 22:30 (Brazil. Women. Superliga)",Mackenzie – Minas (22:30 (Brazil. Women. Superliga)) - 22:30
+http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Palmeiras – Remo" tvg-id="Palmeiras – Remo-23:30-0" group-title="Football / 23:30 (Brazil. Serie A)",Palmeiras – Remo (23:30 (Brazil. Serie A)) - 23:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-name="Palmeiras – Remo" tvg-id="Palmeiras – Remo-23:30-1" group-title="Football / 23:30 (Brazil. Serie A)",Palmeiras – Remo (23:30 (Brazil. Serie A)) - 23:30 - Link 2
 http://192.168.1.58:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-name="Crystal Palace – Hoffenheim" tvg-id="Crystal Palace – Hoffenheim-18:45-2" group-title="Football / 18:45 (Europa League)",Crystal Palace – Hoffenheim (18:45 (Europa League)) - 18:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
-#EXTINF:-1 tvg-name="Crystal Palace – Hoffenheim" tvg-id="Crystal Palace – Hoffenheim-18:45-3" group-title="Football / 18:45 (Europa League)",Crystal Palace – Hoffenheim (18:45 (Europa League)) - 18:45 - Link 4
-http://192.168.1.58:6878/ace/getstream?id=9231f38e71a85ad24b4c11a5e360992e30c916ed
-#EXTINF:-1 tvg-name="Crystal Palace – Hoffenheim" tvg-id="Crystal Palace – Hoffenheim-18:45-4" group-title="Football / 18:45 (Europa League)",Crystal Palace – Hoffenheim (18:45 (Europa League)) - 18:45 - Link 5
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-name="Crystal Palace – Hoffenheim" tvg-id="Crystal Palace – Hoffenheim-18:45-5" group-title="Football / 18:45 (Europa League)",Crystal Palace – Hoffenheim (18:45 (Europa League)) - 18:45 - Link 6
-http://192.168.1.58:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-name="Sparta Prague – Bournemouth" tvg-id="Sparta Prague – Bournemouth-18:45-0" group-title="Football / 18:45 (Europa League)",Sparta Prague – Bournemouth (18:45 (Europa League)) - 18:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
-#EXTINF:-1 tvg-name="Sparta Prague – Bournemouth" tvg-id="Sparta Prague – Bournemouth-18:45-1" group-title="Football / 18:45 (Europa League)",Sparta Prague – Bournemouth (18:45 (Europa League)) - 18:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 tvg-name="Sparta Prague – Bournemouth" tvg-id="Sparta Prague – Bournemouth-18:45-2" group-title="Football / 18:45 (Europa League)",Sparta Prague – Bournemouth (18:45 (Europa League)) - 18:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-name="Real Sociedad – Lyon" tvg-id="Real Sociedad – Lyon-18:45-0" group-title="Football / 18:45 (Europa League)",Real Sociedad – Lyon (18:45 (Europa League)) - 18:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Real Sociedad – Lyon" tvg-id="Real Sociedad – Lyon-18:45-1" group-title="Football / 18:45 (Europa League)",Real Sociedad – Lyon (18:45 (Europa League)) - 18:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-name="Milan – Ferencvaros" tvg-id="Milan – Ferencvaros-18:45-0" group-title="Football / 18:45 (Europa League)",Milan – Ferencvaros (18:45 (Europa League)) - 18:45 - Link 1
-http://192.168.1.58:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-name="Milan – Ferencvaros" tvg-id="Milan – Ferencvaros-18:45-1" group-title="Football / 18:45 (Europa League)",Milan – Ferencvaros (18:45 (Europa League)) - 18:45 - Link 2
-http://192.168.1.58:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
-#EXTINF:-1 tvg-name="Milan – Ferencvaros" tvg-id="Milan – Ferencvaros-18:45-2" group-title="Football / 18:45 (Europa League)",Milan – Ferencvaros (18:45 (Europa League)) - 18:45 - Link 3
-http://192.168.1.58:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-name="Levski – Jagiellonia" tvg-id="Levski – Jagiellonia-18:45-0" group-title="Football / 18:45 (Europa League)",Levski – Jagiellonia (18:45 (Europa League)) - 18:45
-http://192.168.1.58:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
-#EXTINF:-1 tvg-name="NEC – Omonia" tvg-id="NEC – Omonia-18:45-0" group-title="Football / 18:45 (Europa League)",NEC – Omonia (18:45 (Europa League)) - 18:45
-http://192.168.1.58:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-name="Palmeiras – Remo" tvg-id="Palmeiras – Remo-23:30-2" group-title="Football / 23:30 (Brazil. Serie A)",Palmeiras – Remo (23:30 (Brazil. Serie A)) - 23:30 - Link 3
+http://192.168.1.58:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e

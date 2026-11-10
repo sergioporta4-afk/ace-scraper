@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Renata – SESI Bauru" tvg-id="Renata – SESI Bauru-1:00-0" group-title="Football / 1:00 (Brazil. Superliga)",Renata – SESI Bauru (1:00 (Brazil. Superliga)) - 1:00
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Katowice – CHKS Chelm" tvg-id="Katowice – CHKS Chelm-17:30-0" group-title="Football / 17:30 (Poland. PlusLiga)",Katowice – CHKS Chelm (17:30 (Poland. PlusLiga)) - 17:30
+http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-name="KooKoo – Eisbaeren Berlin" tvg-id="KooKoo – Eisbaeren Berlin-17:30-0" group-title="Football / 17:30 (Champions League)",KooKoo – Eisbaeren Berlin (17:30 (Champions League)) - 17:30
+http://192.168.1.58:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 tvg-name="Real Madrid – Paris" tvg-id="Real Madrid – Paris-18:45-0" group-title="Football / 18:45 (Women. Champions League)",Real Madrid – Paris (18:45 (Women. Champions League)) - 18:45
+http://192.168.1.58:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-name="Hartberg – Kaposvar" tvg-id="Hartberg – Kaposvar-19:00-0" group-title="Football / 19:00 (Champions League Qualifying)",Hartberg – Kaposvar (19:00 (Champions League Qualifying)) - 19:00
+http://192.168.1.58:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc

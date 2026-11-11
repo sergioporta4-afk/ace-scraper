@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sao Jose – Montes Claros" tvg-id="Sao Jose – Montes Claros-22:30-0" group-title="Football / 22:30 (Brazil. Superliga)",Sao Jose – Montes Claros (22:30 (Brazil. Superliga)) - 22:30
-http://192.168.1.58:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-name="Saipa – Dynamo Pardubice" tvg-id="Saipa – Dynamo Pardubice-17:30-0" group-title="Football / 17:30 (Champions League)",Saipa – Dynamo Pardubice (17:30 (Champions League)) - 17:30 - Link 1
+http://192.168.1.58:6878/ace/getstream?id=40f9a0993165b3c0f5bce84f69a0a0f2e205ac9d
+#EXTINF:-1 tvg-name="Saipa – Dynamo Pardubice" tvg-id="Saipa – Dynamo Pardubice-17:30-1" group-title="Football / 17:30 (Champions League)",Saipa – Dynamo Pardubice (17:30 (Champions League)) - 17:30 - Link 2
+http://192.168.1.58:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f

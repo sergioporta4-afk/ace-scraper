@@ -17,10 +17,18 @@ logger = logging.getLogger(__name__)
 TIME_WINDOW_PAST = int(os.getenv("TIME_WINDOW_PAST", "120"))
 TIME_WINDOW_FUTURE = int(os.getenv("TIME_WINDOW_FUTURE", "60"))
 # Fallback offset (hours) if the page does not tell us its timezone.
-DEFAULT_TZ_OFFSET = float(os.getenv("LIVETV_TZ_OFFSET", "1"))
+DEFAULT_TZ_OFFSET = float(os.getenv("LIVETV_TZ_OFFSET", "2"))
 INCLUDE_WEB_LINKS = os.getenv("INCLUDE_WEB_LINKS", "0") == "1"
+DEFAULT_BASE_URL = os.getenv("LIVETV_BASE_URL", "https://livetv.sx/it/allupcomingsports/1/")
 
-MONTHS = "January|February|March|April|May|June|July|August|September|October|November|December"
+MONTH_MAP = {
+    "january": 1, "february": 2, "march": 3, "april": 4, "may": 5, "june": 6,
+    "july": 7, "august": 8, "september": 9, "october": 10, "november": 11, "december": 12,
+    "gennaio": 1, "febbraio": 2, "marzo": 3, "aprile": 4, "maggio": 5, "giugno": 6,
+    "luglio": 7, "agosto": 8, "settembre": 9, "ottobre": 10, "novembre": 11, "dicembre": 12,
+}
+MONTHS_PATTERN = "|".join(MONTH_MAP.keys())
+
 EVENT_ID_RE = re.compile(r"/eventinfo/(\d+)")
 ACE_ID_RE = re.compile(r"acestream://([0-9a-fA-F]{40})(?![0-9a-zA-Z])")
 TZ_RE = re.compile(r'#timezone"[^>]*>\s*UTC\s*([+-])\s*(\d{1,2})(?::(\d{2}))?', re.IGNORECASE)
@@ -42,23 +50,15 @@ def _build_retry_session():
     session.headers.update({
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.9",
+        "Accept-Language": "it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7",
     })
     return session
 
 
 class LiveTVScraper:
-    """Scrapes the livetv.sx football page (sport id 1).
+    """Scrapes the livetv.sx football page (sport id 1, Italian or English)."""
 
-    Page layout (verified Nov 2026):
-      * ``span#upcoming``  -> multi-sport "top events" block; the icon alt is
-        "<Sport>. <Competition>" (e.g. "Football. UEFA Nations League").
-      * ``table.main``     -> the football listing; icon alt is just the competition.
-    Each event row: <tr><td><img alt=...></td><td><a href="/enx/eventinfo/ID_slug/">Teams</a>
-    ... <span class="evdesc">13 November at 20:45 (Competition)</span></td></tr>
-    """
-
-    def __init__(self, base_url="https://livetv.sx/enx/allupcomingsports/1/"):
+    def __init__(self, base_url=DEFAULT_BASE_URL):
         self.base_url = base_url
         self.session = _build_retry_session()
         parsed = urlparse(base_url)
@@ -75,7 +75,15 @@ class LiveTVScraper:
             "page_tz": None,
         }
 
-    # ------------------------------------------------------------------ parsing
+    def _normalize_url(self, src):
+        src = (src or "").strip()
+        if not src:
+            return ""
+        if src.startswith("//"):
+            return f"https:{src}"
+        if src.startswith("/"):
+            return f"{self.base_origin}{src}"
+        return src
 
     def _detect_timezone(self, html):
         m = TZ_RE.search(html)
@@ -97,12 +105,11 @@ class LiveTVScraper:
         hour, minute = int(tm.group(1)), int(tm.group(2))
         now = datetime.now(self.page_tz)
 
-        dm = re.search(rf"(\d{{1,2}})\s+({MONTHS})", text, re.IGNORECASE)
+        dm = re.search(rf"(\d{{1,2}})\s+({MONTHS_PATTERN})\b", text, re.IGNORECASE)
         try:
             if dm:
-                month = datetime.strptime(dm.group(2).capitalize(), "%B").month
+                month = MONTH_MAP[dm.group(2).lower()]
                 dt = datetime(now.year, month, int(dm.group(1)), hour, minute, tzinfo=self.page_tz)
-                # Year rollover (e.g. listing "2 January" while we are in December)
                 if dt < now - timedelta(days=180):
                     dt = dt.replace(year=now.year + 1)
                 elif dt > now + timedelta(days=180):
@@ -127,18 +134,11 @@ class LiveTVScraper:
 
         img = row.find("img", alt=True)
         alt = self._clean_text(img["alt"]) if img else ""
-        icon_src = (img.get("src") or "").strip() if img else ""
-        if icon_src.startswith("//"):
-            icon_url = f"https:{icon_src}"
-        elif icon_src.startswith("/"):
-            icon_url = f"{self.base_origin}{icon_src}"
-        else:
-            icon_url = icon_src
+        icon_url = self._normalize_url(img.get("src")) if img else ""
         in_top_block = row.find_parent("span", id="upcoming") is not None
 
         if in_top_block:
-            # Multi-sport block: keep only football rows.
-            if not alt.lower().startswith("football."):
+            if not alt.lower().startswith(("football.", "calcio.")):
                 return None
             competition = alt.split(".", 1)[1].strip()
         else:
@@ -160,8 +160,7 @@ class LiveTVScraper:
             competition = cm.group(1).strip() if cm else ""
         time_text = re.sub(r"\([^()]*\)\s*$", "", desc).strip()
 
-        href = link["href"]
-        detail_url = href if href.startswith("http") else f"{self.base_origin}{href}"
+        detail_url = self._normalize_url(link["href"])
         return {
             "event_id": event_id,
             "teams": teams,
@@ -193,8 +192,9 @@ class LiveTVScraper:
             if not info:
                 continue
             prev = events.get(info["event_id"])
-            # Prefer the row that carries a full date ("13 November at 20:45").
-            if prev is None or (not re.search(MONTHS, prev["time_text"]) and re.search(MONTHS, info["time_text"])):
+            has_month = bool(re.search(rf"\b({MONTHS_PATTERN})\b", info["time_text"], re.IGNORECASE))
+            prev_has_month = bool(prev and re.search(rf"\b({MONTHS_PATTERN})\b", prev["time_text"], re.IGNORECASE))
+            if prev is None or (not prev_has_month and has_month):
                 info["is_live"] = info["is_live"] or (prev or {}).get("is_live", False)
                 events[info["event_id"]] = info
             elif info["is_live"]:
@@ -231,29 +231,71 @@ class LiveTVScraper:
         )
         return filtered
 
-    def get_acestream_links(self, detail_url):
-        """Return a sorted list of stream URLs (acestream://<40 hex> first)."""
+    def get_event_details(self, detail_url):
+        """Fetch an event page and return streams (with bitrate/lang) + team crests."""
         try:
             response = self.session.get(detail_url, timeout=30)
             response.raise_for_status()
         except Exception as e:
             logger.error("Error fetching streams for %s: %s", detail_url, e)
             self.stats["http_errors"] += 1
-            return []
+            return {"streams": [], "team_logos": []}
 
         html = response.text
-        ace_ids = {m.lower() for m in ACE_ID_RE.findall(html)}
-        links = [f"acestream://{i}" for i in sorted(ace_ids)]
+        soup = BeautifulSoup(html, "html.parser")
+
+        # 1. Extract the two team crests (e.g. //cdn.livetv.../img/teams/fullsize/ods/10390.gif)
+        team_logos = []
+        seen_logos = set()
+        for img in soup.select("img[src*='/img/teams/']"):
+            url = self._normalize_url(img.get("src"))
+            if url and url not in seen_logos:
+                seen_logos.add(url)
+                team_logos.append(url)
+            if len(team_logos) >= 2:
+                break
+
+        # 2. Extract acestream links and any per-row metadata (bitrate, language)
+        meta_by_id = {}
+        for a in soup.select("a[href*='acestream://']"):
+            m = ACE_ID_RE.search(a.get("href", ""))
+            if not m:
+                continue
+            ace_id = m.group(1).lower()
+            tr = a.find_parent("tr")
+            row_text = self._clean_text(tr.get_text(" ")) if tr else ""
+            bm = re.search(r"(\d+)\s*kbps", row_text, re.IGNORECASE)
+            bitrate = int(bm.group(1)) if bm else 0
+            lang = ""
+            if tr:
+                flag_img = tr.select_one("img[src*='linkflag']")
+                if flag_img:
+                    lang = self._clean_text(flag_img.get("title") or flag_img.get("alt") or "")
+            prev = meta_by_id.get(ace_id)
+            if prev is None or bitrate > prev["bitrate"]:
+                meta_by_id[ace_id] = {"url": f"acestream://{ace_id}", "bitrate": bitrate, "lang": lang}
+
+        # Fallback regex scan in case any acestream:// link wasn't inside an <a> tag
+        for ace_id in {m.lower() for m in ACE_ID_RE.findall(html)}:
+            meta_by_id.setdefault(ace_id, {"url": f"acestream://{ace_id}", "bitrate": 0, "lang": ""})
+
+        # Sort highest bitrate first, then by URL for deterministic order
+        streams = sorted(meta_by_id.values(), key=lambda s: (-s["bitrate"], s["url"]))
 
         if INCLUDE_WEB_LINKS:
             web = set()
             for wl in re.findall(r"(?:https?:)?//[^\s\"'<>]+webplayer[^\s\"'<]*", html, re.IGNORECASE):
                 web.add(wl if wl.startswith("http") else f"https:{wl}")
-            links += sorted(web)
+            for w in sorted(web):
+                streams.append({"url": w, "bitrate": 0, "lang": ""})
 
-        self.stats["streams_found"] += len(links)
-        logger.info("Found %d stream links for %s", len(links), detail_url)
-        return links
+        self.stats["streams_found"] += len(streams)
+        logger.info("Found %d stream links (%d team logos) for %s", len(streams), len(team_logos), detail_url)
+        return {"streams": streams, "team_logos": team_logos}
+
+    def get_acestream_links(self, detail_url):
+        """Backwards-compatible helper returning only URL strings."""
+        return [s["url"] for s in self.get_event_details(detail_url)["streams"]]
 
 
 if __name__ == "__main__":

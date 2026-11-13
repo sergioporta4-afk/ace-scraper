@@ -1,10 +1,16 @@
 import concurrent.futures
+import io
 import json
 import logging
 import os
 import tempfile
 import time
 from datetime import datetime, timezone
+
+try:
+    from PIL import Image
+except ImportError:
+    Image = None
 
 from scraper import LiveTVScraper
 
@@ -13,6 +19,7 @@ logger = logging.getLogger(__name__)
 
 ACESTREAM_IP = os.getenv("ACESTREAM_IP", "192.168.1.58")
 ACESTREAM_PORT = os.getenv("ACESTREAM_PORT", "6878")
+HTTP_PORT = os.getenv("HTTP_PORT", "8080")
 MAX_WORKERS = int(os.getenv("MAX_WORKERS", "4"))
 REQUEST_DELAY = float(os.getenv("REQUEST_DELAY", "0.3"))
 OUTPUT_PATH = os.getenv("OUTPUT_PATH", "playlist.m3u")
@@ -40,26 +47,100 @@ def atomic_write(path, content):
         raise
 
 
+def _fit_badge(img, box_size=88):
+    img = img.convert("RGBA")
+    img.thumbnail((box_size, box_size), Image.LANCZOS)
+    cell = Image.new("RGBA", (box_size, box_size), (0, 0, 0, 0))
+    cell.paste(img, ((box_size - img.width) // 2, (box_size - img.height) // 2), img)
+    return cell
+
+
+def build_combined_logo(session, event_id, team_logos, logos_dir):
+    """Download the two team crests, place them side by side on a 192x96 PNG, and return its local HTTP URL."""
+    if not team_logos:
+        return ""
+    if len(team_logos) == 1 or Image is None:
+        return team_logos[0]
+
+    os.makedirs(logos_dir, exist_ok=True)
+    filename = f"{event_id}.png"
+    dest_path = os.path.join(logos_dir, filename)
+    local_url = f"http://{ACESTREAM_IP}:{HTTP_PORT}/logos/{filename}"
+
+    if os.path.exists(dest_path) and os.path.getsize(dest_path) > 100:
+        return local_url
+
+    try:
+        imgs = []
+        for url in team_logos[:2]:
+            resp = session.get(url, timeout=10)
+            resp.raise_for_status()
+            imgs.append(Image.open(io.BytesIO(resp.content)))
+
+        left = _fit_badge(imgs[0], 88)
+        right = _fit_badge(imgs[1], 88)
+        canvas = Image.new("RGBA", (192, 96), (0, 0, 0, 0))
+        canvas.paste(left, (4, 4), left)
+        canvas.paste(right, (100, 4), right)
+
+        fd, tmp = tempfile.mkstemp(dir=logos_dir, prefix=".tmp_", suffix=".png")
+        os.close(fd)
+        canvas.save(tmp, format="PNG", optimize=True)
+        os.chmod(tmp, 0o644)
+        os.replace(tmp, dest_path)
+        return local_url
+    except Exception as e:
+        logger.warning("Could not build combined logo for %s (%s), falling back to single logo", event_id, e)
+        return team_logos[0]
+
+
+def cleanup_old_logos(logos_dir, max_age_hours=48):
+    if not os.path.isdir(logos_dir):
+        return
+    cutoff = time.time() - max_age_hours * 3600
+    for name in os.listdir(logos_dir):
+        if not name.endswith(".png"):
+            continue
+        p = os.path.join(logos_dir, name)
+        try:
+            if os.path.getmtime(p) < cutoff:
+                os.unlink(p)
+        except OSError:
+            pass
+
+
+def _format_stream_suffix(stream_obj, index, total):
+    extras = []
+    if stream_obj.get("lang"):
+        extras.append(stream_obj["lang"])
+    if stream_obj.get("bitrate"):
+        extras.append(f"{stream_obj['bitrate']} kbps")
+    meta_str = f" [{' · '.join(extras)}]" if extras else ""
+    if total > 1:
+        return f" - Link {index + 1}{meta_str}"
+    return meta_str
+
+
 def _build_m3u_lines(entries, endpoint="getstream"):
     lines = ["#EXTM3U"]
-    for match, raw_streams in entries:
+    for match, streams in entries:
         ko = match.get("kickoff")
         time_str = ko.strftime("%H:%M") if ko else "LIVE"
         comp = match["competition"]
         safe_teams = sanitize_m3u_attr(match["teams"])
-        group = sanitize_m3u_attr(f"Football / {comp}" if comp else "Football")
-        logo_url = sanitize_m3u_attr(match.get("icon_url", ""))
+        group = sanitize_m3u_attr(f"Calcio / {comp}" if comp else "Calcio")
+        logo_url = sanitize_m3u_attr(match.get("logo_url") or match.get("icon_url", ""))
         logo_attr = f' tvg-logo="{logo_url}"' if logo_url else ""
 
-        for i, s in enumerate(raw_streams):
+        for i, s_obj in enumerate(streams):
+            s = s_obj["url"]
             if s.startswith("acestream://"):
                 ace_id = s[len("acestream://"):]
                 url = f"http://{ACESTREAM_IP}:{ACESTREAM_PORT}/ace/{endpoint}?id={ace_id}"
             else:
                 url = s
             name = f"{time_str} {match['teams']}" + (f" ({comp})" if comp else "")
-            if len(raw_streams) > 1:
-                name += f" - Link {i + 1}"
+            name += _format_stream_suffix(s_obj, i, len(streams))
             lines.append(
                 f'#EXTINF:-1 tvg-name="{safe_teams}" tvg-id="{match["event_id"]}-{i}"'
                 f'{logo_attr} group-title="{group}",{sanitize_m3u_attr(name)}'
@@ -73,13 +154,19 @@ def generate_m3u(output_path=OUTPUT_PATH, output_hls_path=OUTPUT_HLS_PATH):
         base, ext = os.path.splitext(output_path)
         output_hls_path = f"{base}_hls{ext or '.m3u'}"
 
+    logos_dir = os.path.join(os.path.dirname(os.path.abspath(output_path)), "logos")
+    cleanup_old_logos(logos_dir)
+
     scraper = LiveTVScraper()
     matches = scraper.get_matches()
     list_page_ok = scraper.stats["http_errors"] == 0
 
     def fetch_match_streams(match):
         time.sleep(REQUEST_DELAY)
-        return match, scraper.get_acestream_links(match["detail_url"])
+        details = scraper.get_event_details(match["detail_url"])
+        combined = build_combined_logo(scraper.session, match["event_id"], details["team_logos"], logos_dir)
+        match["logo_url"] = combined or match.get("icon_url", "")
+        return match, details["streams"]
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         results = list(executor.map(fetch_match_streams, matches))
@@ -88,13 +175,14 @@ def generate_m3u(output_path=OUTPUT_PATH, output_hls_path=OUTPUT_HLS_PATH):
     entries = []
     for match, streams in results:
         kept = []
-        for s in streams:
+        for s_obj in streams:
+            s = s_obj["url"]
             if s.startswith("acestream://"):
                 ace_id = s[len("acestream://"):]
                 if ace_id in seen_ace_ids:
                     continue
                 seen_ace_ids.add(ace_id)
-            kept.append(s)
+            kept.append(s_obj)
         if kept:
             entries.append((match, kept))
 

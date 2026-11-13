@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 test_resp.html
 runs.json
+www/
+playlist.m3u
+last_run.json
+.kilo/
+virtualenv.pyz

@@ -1,130 +1,123 @@
+import concurrent.futures
 import json
 import logging
 import os
-import re
+import tempfile
 import time
 from datetime import datetime, timezone
 
-import concurrent.futures
 from scraper import LiveTVScraper
 
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
 
 ACESTREAM_IP = os.getenv("ACESTREAM_IP", "192.168.1.58")
 ACESTREAM_PORT = os.getenv("ACESTREAM_PORT", "6878")
-MAX_WORKERS = int(os.getenv("MAX_WORKERS", "5"))
+MAX_WORKERS = int(os.getenv("MAX_WORKERS", "4"))
 REQUEST_DELAY = float(os.getenv("REQUEST_DELAY", "0.3"))
 OUTPUT_PATH = os.getenv("OUTPUT_PATH", "playlist.m3u")
 STATS_PATH = os.getenv("STATS_PATH", "last_run.json")
 
 
 def sanitize_m3u_attr(value):
-    return value.replace('"', "'").replace(',', ' ').strip()
+    return (value or "").replace('"', "'").replace(",", " ").strip()
 
 
-def extract_time(time_str):
-    m = re.search(r'\b(\d{1,2}:\d{2})\b', time_str)
-    return m.group(1) if m else time_str
-
-
-def parse_time_to_minutes(time_str):
-    m = re.search(r'\b(\d{1,2}):(\d{2})\b', time_str)
-    if m:
-        return int(m.group(1)) * 60 + int(m.group(2))
-    return 9999
+def atomic_write(path, content):
+    """Write via temp file + rename so clients never read a half-written file."""
+    directory = os.path.dirname(os.path.abspath(path))
+    os.makedirs(directory, exist_ok=True)
+    fd, tmp = tempfile.mkstemp(dir=directory, prefix=".tmp_", suffix=os.path.splitext(path)[1])
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            f.write(content)
+        os.chmod(tmp, 0o644)
+        os.replace(tmp, path)
+    except BaseException:
+        if os.path.exists(tmp):
+            os.unlink(tmp)
+        raise
 
 
 def generate_m3u(output_path=OUTPUT_PATH):
     scraper = LiveTVScraper()
     matches = scraper.get_matches()
-
-    m3u_content = ["#EXTM3U"]
+    list_page_ok = scraper.stats["http_errors"] == 0
 
     def fetch_match_streams(match):
         time.sleep(REQUEST_DELAY)
-        streams = scraper.get_acestream_links(match['detail_url'])
-        return match, streams
+        return match, scraper.get_acestream_links(match["detail_url"])
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         results = list(executor.map(fetch_match_streams, matches))
 
-    match_data = []
-    seen_acestream_ids = set()
-
+    seen_ace_ids = set()
+    entries = []
     for match, streams in results:
-        unique_streams = []
-        for stream_url in streams:
-            if stream_url.startswith("acestream://"):
-                ace_id = stream_url.replace("acestream://", "")
-                if ace_id in seen_acestream_ids:
+        urls = []
+        for s in streams:
+            if s.startswith("acestream://"):
+                ace_id = s[len("acestream://"):]
+                if ace_id in seen_ace_ids:
                     continue
-                seen_acestream_ids.add(ace_id)
-                final_url = f"http://{ACESTREAM_IP}:{ACESTREAM_PORT}/ace/getstream?id={ace_id}"
+                seen_ace_ids.add(ace_id)
+                urls.append(f"http://{ACESTREAM_IP}:{ACESTREAM_PORT}/ace/getstream?id={ace_id}")
             else:
-                if "cdn.live" in stream_url or "http://:" in stream_url:
-                    continue
-                final_url = stream_url
-            unique_streams.append(final_url)
+                urls.append(s)
+        if urls:
+            entries.append((match, urls))
 
-        if unique_streams:
-            match_data.append({
-                "teams": match['teams'],
-                "competition": match['competition'],
-                "time": extract_time(match['time']),
-                "streams": unique_streams,
-                "sort_key": parse_time_to_minutes(match['time']),
-            })
+    scraper.stats["streams_valid"] = len(seen_ace_ids)
 
-    scraper.stats["streams_valid"] = len(seen_acestream_ids)
+    def sort_key(item):
+        ko = item[0].get("kickoff")
+        return (ko is None, ko.timestamp() if ko else 0, item[0]["teams"])
 
-    match_data.sort(key=lambda m: m['sort_key'])
+    entries.sort(key=sort_key)
 
-    for md in match_data:
-        teams = md['teams']
-        comp = md['competition']
-        time_str = md['time']
-        unique_streams = md['streams']
-
-        group = f"Football" if not comp else f"Football / {comp}"
-        safe_teams = sanitize_m3u_attr(teams)
-        safe_comp = sanitize_m3u_attr(comp)
-        safe_group = sanitize_m3u_attr(group)
-
-        for i, final_url in enumerate(unique_streams):
-            display_name = sanitize_m3u_attr(f"{teams} ({comp}) - {time_str}")
-            if len(unique_streams) > 1:
-                display_name += f" - Link {i+1}"
-
-            m3u_content.append(
-                f'#EXTINF:-1 tvg-name="{safe_teams}" tvg-id="{safe_teams}-{time_str}-{i}" group-title="{safe_group}",{display_name}'
+    lines = ["#EXTM3U"]
+    for match, urls in entries:
+        ko = match.get("kickoff")
+        time_str = ko.strftime("%H:%M") if ko else "LIVE"
+        comp = match["competition"]
+        safe_teams = sanitize_m3u_attr(match["teams"])
+        group = sanitize_m3u_attr(f"Football / {comp}" if comp else "Football")
+        for i, url in enumerate(urls):
+            name = f"{time_str} {match['teams']}" + (f" ({comp})" if comp else "")
+            if len(urls) > 1:
+                name += f" - Link {i + 1}"
+            lines.append(
+                f'#EXTINF:-1 tvg-name="{safe_teams}" tvg-id="{match["event_id"]}-{i}" '
+                f'group-title="{group}",{sanitize_m3u_attr(name)}'
             )
-            m3u_content.append(final_url)
+            lines.append(url)
 
-    if len(m3u_content) > 1:
-        with open(output_path, "w", encoding="utf-8") as f:
-            f.write("\n".join(m3u_content))
-        logger.info(f"Generated {output_path} with {(len(m3u_content)-1)//2} entries")
+    channels = (len(lines) - 1) // 2
+    if channels > 0:
+        atomic_write(output_path, "\n".join(lines) + "\n")
+        logger.info("Generated %s with %d entries", output_path, channels)
+    elif list_page_ok:
+        # livetv reachable but nothing on: publish an empty playlist instead of stale dead links.
+        atomic_write(output_path, "#EXTM3U\n")
+        logger.warning("No streams found -- wrote empty playlist")
     else:
-        logger.warning("No streams found -- playlist will be empty")
+        logger.error("livetv unreachable -- keeping previous playlist")
 
-    run_summary = {
+    summary = {
         "timestamp": datetime.now(timezone.utc).isoformat(),
         "stats": scraper.stats,
-        "channels": (len(m3u_content) - 1) // 2 if len(m3u_content) > 1 else 0,
+        "channels": channels,
         "config": {
             "acestream_ip": ACESTREAM_IP,
             "acestream_port": ACESTREAM_PORT,
             "max_workers": MAX_WORKERS,
             "request_delay": REQUEST_DELAY,
-        }
+        },
     }
-    with open(STATS_PATH, "w", encoding="utf-8") as f:
-        json.dump(run_summary, f, indent=2)
-    logger.info("Run summary written to %s", STATS_PATH)
-
+    atomic_write(STATS_PATH, json.dumps(summary, indent=2))
     scraper.session.close()
+    return 0 if list_page_ok else 1
 
 
 if __name__ == "__main__":
-    generate_m3u()
+    raise SystemExit(generate_m3u())

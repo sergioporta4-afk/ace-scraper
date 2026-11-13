@@ -1,0 +1,12 @@
+[Unit]
+Description=Aggiorna la playlist all'avvio e poi ogni 30 minuti
+
+[Timer]
+# 1 minuto dopo l'avvio del PC
+OnStartupSec=1min
+# poi allo :00 e al :30 di ogni ora
+OnCalendar=*:00/30
+AccuracySec=30s
+
+[Install]
+WantedBy=timers.target

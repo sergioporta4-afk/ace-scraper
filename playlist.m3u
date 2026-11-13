@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Projekt Warszawa – CHKS Chelm" tvg-id="Projekt Warszawa – CHKS Chelm-17:30-0" group-title="Football / 17:30 (Poland. PlusLiga)",Projekt Warszawa – CHKS Chelm (17:30 (Poland. PlusLiga)) - 17:30
-http://192.168.1.58:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-name="Moldova MDA – Kazakhstan KAZ" tvg-id="Moldova MDA – Kazakhstan KAZ-18:00-0" group-title="Football / 18:00 (UEFA Nations League)",Moldova MDA – Kazakhstan KAZ (18:00 (UEFA Nations League)) - 18:00
-http://192.168.1.58:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-#EXTINF:-1 tvg-name="Hamburg – Mainz 05" tvg-id="Hamburg – Mainz 05-18:30-0" group-title="Football / 18:30 (Germany. Women. Bundesliga)",Hamburg – Mainz 05 (18:30 (Germany. Women. Bundesliga)) - 18:30
-http://192.168.1.58:6878/ace/getstream?id=11c5823d4196a90b509f03df1fe78e13cfbbb175

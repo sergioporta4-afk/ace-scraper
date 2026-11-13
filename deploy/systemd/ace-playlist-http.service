@@ -1,0 +1,11 @@
+[Unit]
+Description=Server HTTP per la playlist (http://192.168.1.58:8080/playlist.m3u)
+
+[Service]
+ExecStartPre=/bin/mkdir -p %h/ace-scraper/www
+ExecStart=/usr/bin/python3 -m http.server 8080 --bind 0.0.0.0 --directory %h/ace-scraper/www
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=default.target

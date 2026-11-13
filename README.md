@@ -15,6 +15,7 @@ Sullo Xiaomi (Ubuntu, utente `seu16`), con servizi **systemd utente** che parton
 
 Playlist per la TV (MPEG-TS standard): **http://192.168.1.58:8080/playlist.m3u**
 Playlist parallela HLS (`.m3u8`): **http://192.168.1.58:8080/playlist_hls.m3u**
+Guida EPG (XMLTV, già inclusa nell'header M3U): **http://192.168.1.58:8080/epg.xml**
 Statistiche ultimo run: http://192.168.1.58:8080/last_run.json
 
 ## Comandi utili (sullo Xiaomi)

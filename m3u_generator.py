@@ -5,7 +5,8 @@ import logging
 import os
 import tempfile
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
+from xml.sax.saxutils import escape as xml_escape
 
 try:
     from PIL import Image
@@ -30,7 +31,16 @@ MAX_WORKERS = int(os.getenv("MAX_WORKERS", "4"))
 REQUEST_DELAY = float(os.getenv("REQUEST_DELAY", "0.3"))
 OUTPUT_PATH = os.getenv("OUTPUT_PATH", "playlist.m3u")
 OUTPUT_HLS_PATH = os.getenv("OUTPUT_HLS_PATH", "")
+OUTPUT_EPG_PATH = os.getenv("OUTPUT_EPG_PATH", "")
 STATS_PATH = os.getenv("STATS_PATH", "last_run.json")
+
+EPG_SEGMENTS = [
+    (-30, 0, "🏟️ Pre-partita"),
+    (0, 50, "⚽ 1° Tempo"),
+    (50, 63, "☕ Intervallo"),
+    (63, 115, "⚽ 2° Tempo"),
+    (115, 150, "🏁 Post-partita / Suppl."),
+]
 
 
 def sanitize_m3u_attr(value):
@@ -115,20 +125,9 @@ def cleanup_old_logos(logos_dir, max_age_hours=48):
             pass
 
 
-def _format_stream_suffix(stream_obj, index, total):
-    extras = []
-    if stream_obj.get("lang"):
-        extras.append(stream_obj["lang"])
-    if stream_obj.get("bitrate"):
-        extras.append(f"{stream_obj['bitrate']} kbps")
-    meta_str = f" [{' · '.join(extras)}]" if extras else ""
-    if total > 1:
-        return f" - Link {index + 1}{meta_str}"
-    return meta_str
-
-
-def _build_m3u_lines(entries, endpoint="getstream"):
-    lines = ["#EXTM3U"]
+def _build_m3u_lines(entries, endpoint="getstream", epg_url=""):
+    header = f'#EXTM3U url-tvg="{epg_url}" x-tvg-url="{epg_url}"' if epg_url else "#EXTM3U"
+    lines = [header]
     for match, streams in entries:
         ko = match.get("kickoff")
         if ko and DISPLAY_TZ:
@@ -147,21 +146,87 @@ def _build_m3u_lines(entries, endpoint="getstream"):
                 url = f"http://{ACESTREAM_IP}:{ACESTREAM_PORT}/ace/{endpoint}?id={ace_id}"
             else:
                 url = s
-            name = f"{time_str} {match['teams']}" + (f" ({comp})" if comp else "")
-            name += _format_stream_suffix(s_obj, i, len(streams))
+            tvg_id = f"{match['event_id']}-{i}"
+            # Clean channel name: just time + teams (+ Link N when multiple links exist)
+            name = f"{time_str} {match['teams']}"
+            if len(streams) > 1:
+                name += f" ({i + 1})"
             lines.append(
-                f'#EXTINF:-1 tvg-name="{safe_teams}" tvg-id="{match["event_id"]}-{i}"'
+                f'#EXTINF:-1 tvg-name="{safe_teams}" tvg-id="{tvg_id}"'
                 f'{logo_attr} group-title="{group}",{sanitize_m3u_attr(name)}'
             )
             lines.append(url)
     return lines
 
 
-def generate_m3u(output_path=OUTPUT_PATH, output_hls_path=OUTPUT_HLS_PATH):
+def _fmt_xmltv_dt(dt):
+    if DISPLAY_TZ:
+        dt = dt.astimezone(DISPLAY_TZ)
+    return dt.strftime("%Y%m%d%H%M%S %z")
+
+
+def _build_epg_xml(entries):
+    out = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<tv generator-info-name="ace-scraper">',
+    ]
+    now = datetime.now(timezone.utc)
+
+    for match, streams in entries:
+        ko = match.get("kickoff") or now
+        if DISPLAY_TZ:
+            ko_local = ko.astimezone(DISPLAY_TZ)
+        else:
+            ko_local = ko
+        ko_str = ko_local.strftime("%H:%M")
+        comp = match.get("competition") or "Calcio"
+        teams = match["teams"]
+        logo_url = match.get("logo_url") or match.get("icon_url", "")
+
+        for i, s_obj in enumerate(streams):
+            ch_id = f"{match['event_id']}-{i}"
+            ch_name = f"{ko_str} {teams}" + (f" ({i + 1})" if len(streams) > 1 else "")
+            out.append(f'  <channel id="{xml_escape(ch_id)}">')
+            out.append(f'    <display-name>{xml_escape(ch_name)}</display-name>')
+            if logo_url:
+                out.append(f'    <icon src="{xml_escape(logo_url)}"/>')
+            out.append("  </channel>")
+
+            qual_parts = [f"Competizione: {comp}", f"Fischio d'inizio: {ko_str}"]
+            if s_obj.get("lang"):
+                qual_parts.append(f"Lingua: {s_obj['lang']}")
+            if s_obj.get("bitrate"):
+                qual_parts.append(f"Qualità: {s_obj['bitrate']} kbps")
+            if len(streams) > 1:
+                qual_parts.append(f"Stream: Link {i + 1} di {len(streams)}")
+            desc_text = " · ".join(qual_parts)
+
+            for start_m, end_m, phase_label in EPG_SEGMENTS:
+                seg_start = ko_local + timedelta(minutes=start_m)
+                seg_end = ko_local + timedelta(minutes=end_m)
+                title = f"{phase_label}: {teams}"
+                out.append(
+                    f'  <programme start="{_fmt_xmltv_dt(seg_start)}" '
+                    f'stop="{_fmt_xmltv_dt(seg_end)}" channel="{xml_escape(ch_id)}">'
+                )
+                out.append(f'    <title lang="it">{xml_escape(title)}</title>')
+                out.append(f'    <sub-title lang="it">{xml_escape(comp)}</sub-title>')
+                out.append(f'    <desc lang="it">{xml_escape(desc_text)}</desc>')
+                out.append('    <category lang="it">Sport</category>')
+                out.append("  </programme>")
+
+    out.append("</tv>")
+    return "\n".join(out) + "\n"
+
+
+def generate_m3u(output_path=OUTPUT_PATH, output_hls_path=OUTPUT_HLS_PATH, output_epg_path=OUTPUT_EPG_PATH):
     if not output_hls_path:
         base, ext = os.path.splitext(output_path)
         output_hls_path = f"{base}_hls{ext or '.m3u'}"
+    if not output_epg_path:
+        output_epg_path = os.path.join(os.path.dirname(os.path.abspath(output_path)), "epg.xml")
 
+    epg_http_url = f"http://{ACESTREAM_IP}:{HTTP_PORT}/epg.xml"
     logos_dir = os.path.join(os.path.dirname(os.path.abspath(output_path)), "logos")
     cleanup_old_logos(logos_dir)
 
@@ -202,18 +267,22 @@ def generate_m3u(output_path=OUTPUT_PATH, output_hls_path=OUTPUT_HLS_PATH):
 
     entries.sort(key=sort_key)
 
-    lines_ts = _build_m3u_lines(entries, endpoint="getstream")
-    lines_hls = _build_m3u_lines(entries, endpoint="manifest.m3u8")
+    lines_ts = _build_m3u_lines(entries, endpoint="getstream", epg_url=epg_http_url)
+    lines_hls = _build_m3u_lines(entries, endpoint="manifest.m3u8", epg_url=epg_http_url)
+    epg_xml = _build_epg_xml(entries)
     channels = (len(lines_ts) - 1) // 2
 
     if channels > 0:
         atomic_write(output_path, "\n".join(lines_ts) + "\n")
         atomic_write(output_hls_path, "\n".join(lines_hls) + "\n")
-        logger.info("Generated %s and %s with %d entries", output_path, output_hls_path, channels)
+        atomic_write(output_epg_path, epg_xml)
+        logger.info("Generated %s, %s and %s with %d entries", output_path, output_hls_path, output_epg_path, channels)
     elif list_page_ok:
-        atomic_write(output_path, "#EXTM3U\n")
-        atomic_write(output_hls_path, "#EXTM3U\n")
-        logger.warning("No streams found -- wrote empty playlists")
+        empty_m3u = f'#EXTM3U url-tvg="{epg_http_url}" x-tvg-url="{epg_http_url}"\n'
+        atomic_write(output_path, empty_m3u)
+        atomic_write(output_hls_path, empty_m3u)
+        atomic_write(output_epg_path, epg_xml)
+        logger.warning("No streams found -- wrote empty playlists and EPG")
     else:
         logger.error("livetv unreachable -- keeping previous playlists")
 

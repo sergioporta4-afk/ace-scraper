@@ -1,0 +1,18 @@
+[Unit]
+Description=Stremio Streaming Server (http://192.168.1.58:11470)
+After=network-online.target
+
+[Service]
+WorkingDirectory=%h/stremio-server
+Environment=PATH=%h/stremio-server/bin:/usr/bin:/bin
+Environment=FFMPEG_BIN=%h/stremio-server/bin/ffmpeg
+Environment=FFPROBE_BIN=%h/stremio-server/bin/ffprobe
+Environment=APP_PATH=%h/stremio-server/cache
+Environment=NO_CORS=1
+ExecStart=%h/stremio-server/bin/node %h/stremio-server/server.js
+Restart=always
+RestartSec=5
+Nice=5
+
+[Install]
+WantedBy=default.target

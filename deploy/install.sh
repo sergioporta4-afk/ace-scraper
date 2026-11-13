@@ -24,6 +24,7 @@ mkdir -p "$HOME/.config/systemd/user"
 cp deploy/systemd/*.service deploy/systemd/*.timer "$HOME/.config/systemd/user/"
 systemctl --user daemon-reload
 systemctl --user enable --now ace-playlist-http.service ace-scraper.timer
+[ -f "$HOME/stremio-server/server.js" ] && systemctl --user enable --now stremio-server.service || true
 systemctl --user restart ace-playlist-http.service
 echo "Primo aggiornamento della playlist..."
 systemctl --user start ace-scraper.service || true

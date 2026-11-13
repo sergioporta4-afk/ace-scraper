@@ -18,6 +18,7 @@ BOOT=$(date -d "$(uptime -s)" +%s)
 echo "  acceso da: $(uptime -p | sed 's/up //')  (boot $(uptime -s) UTC)"
 echo "  interfaccia in uso: $(ip route show default | awk '{print $5; exit}')"
 systemctl is-active -q acestream && ok "acestream.service attivo" || ko "acestream.service NON attivo"
+systemctl --user is-active -q stremio-server && ok "stremio-server.service attivo (:11470)" || ko "stremio-server.service NON attivo"
 systemctl --user is-active -q ace-playlist-http && ok "server HTTP playlist attivo" || ko "server HTTP playlist NON attivo"
 systemctl --user is-active -q ace-scraper.timer && ok "timer aggiornamento attivo (prossimo: $(systemctl --user show ace-scraper.timer -p NextElapseUSecRealtime --value))" || ko "timer NON attivo"
 IP=$(getent hosts livetv.sx | awk '{print $1; exit}')
@@ -45,6 +46,8 @@ CODE_EPG=$(curl -s -m5 -o /tmp/_epg.xml -w '%{http_code}' "http://$HOST:8080/epg
 [ "$CODE_EPG" = 200 ] && ok "http://$HOST:8080/epg.xml -> 200 ($(grep -c '<programme ' /tmp/_epg.xml) fasce EPG)" || ko "EPG HTTP -> $CODE_EPG"
 V=$(curl -s -m5 "http://$HOST:6878/webui/api/service?method=get_version" | grep -o '"version": "[^"]*"')
 [ -n "$V" ] && ok "Ace Stream engine raggiungibile ($V)" || ko "Ace Stream engine non raggiungibile su :6878"
+SV=$(curl -s -m5 "http://$HOST:11470/settings" | grep -o '"serverVersion":"[^"]*"')
+[ -n "$SV" ] && ok "Stremio Server raggiungibile ($SV)" || ko "Stremio Server non raggiungibile su :11470"
 
 echo
 [ $FAIL -eq 0 ] && echo "TUTTO OK ✅" || echo "CI SONO PROBLEMI ❌"

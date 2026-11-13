@@ -10,6 +10,7 @@ Sullo Xiaomi (Ubuntu, utente `seu16`), con servizi **systemd utente** che parton
 | Unit | Ruolo |
 |---|---|
 | `acestream.service` (di sistema) | Motore Ace Stream sulla porta 6878 |
+| `stremio-server.service` | Motore Torrent/Transcoding per Stremio TV sulla porta 11470 |
 | `ace-scraper.timer` → `ace-scraper.service` | Aggiorna la playlist 1 min dopo il boot, poi a :00 e :30 |
 | `ace-playlist-http.service` | Serve `~/ace-scraper/www/` sulla porta 8080 |
 

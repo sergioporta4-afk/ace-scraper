@@ -14,6 +14,12 @@ except ImportError:
 
 from scraper import LiveTVScraper
 
+try:
+    from zoneinfo import ZoneInfo
+    DISPLAY_TZ = ZoneInfo(os.getenv("DISPLAY_TZ", "Europe/Rome"))
+except Exception:
+    DISPLAY_TZ = None
+
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
 
@@ -125,6 +131,8 @@ def _build_m3u_lines(entries, endpoint="getstream"):
     lines = ["#EXTM3U"]
     for match, streams in entries:
         ko = match.get("kickoff")
+        if ko and DISPLAY_TZ:
+            ko = ko.astimezone(DISPLAY_TZ)
         time_str = ko.strftime("%H:%M") if ko else "LIVE"
         comp = match["competition"]
         safe_teams = sanitize_m3u_attr(match["teams"])

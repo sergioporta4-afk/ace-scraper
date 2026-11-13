@@ -86,6 +86,24 @@ class LiveTVScraper:
         return src
 
     def _detect_timezone(self, html):
+        # Look for "Your current time zone: HH:MM (UTC +N)" / "Fuso orario attuale: HH:MM (UTC +N)"
+        # Note: livetv /it/ sometimes prints "UTC +2" in the label while its displayed clock (and
+        # all match times) are actually in CET (UTC+1). Comparing the displayed HH:MM with real UTC
+        # gives the exact offset used for match times on the page.
+        clock_m = re.search(r"(\d{1,2}):(\d{2})\s*\(\s*<a[^>]*#timezone", html, re.IGNORECASE)
+        if clock_m:
+            page_h, page_m = int(clock_m.group(1)), int(clock_m.group(2))
+            now_utc = datetime.now(timezone.utc)
+            diff_min = (page_h * 60 + page_m) - (now_utc.hour * 60 + now_utc.minute)
+            if diff_min > 720:
+                diff_min -= 1440
+            elif diff_min < -720:
+                diff_min += 1440
+            offset_hours = round(diff_min / 30) * 0.5
+            self.page_tz = timezone(timedelta(hours=offset_hours))
+            logger.info("livetv page timezone (from header clock %02d:%02d): %s", page_h, page_m, self.page_tz)
+            return
+
         m = TZ_RE.search(html)
         if not m:
             logger.warning("Timezone not found on page, assuming UTC%+g", DEFAULT_TZ_OFFSET)

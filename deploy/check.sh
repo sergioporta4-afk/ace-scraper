@@ -39,6 +39,8 @@ EOF
 echo "== Dal Mac / LAN (come la vede la TV)"
 CODE=$(curl -s -m5 -o /tmp/_pl.m3u -w '%{http_code}' "http://$HOST:8080/playlist.m3u")
 [ "$CODE" = 200 ] && ok "http://$HOST:8080/playlist.m3u -> 200 ($(grep -c EXTINF /tmp/_pl.m3u) canali)" || ko "playlist HTTP -> $CODE"
+CODE_HLS=$(curl -s -m5 -o /tmp/_pl_hls.m3u -w '%{http_code}' "http://$HOST:8080/playlist_hls.m3u")
+[ "$CODE_HLS" = 200 ] && ok "http://$HOST:8080/playlist_hls.m3u -> 200 ($(grep -c EXTINF /tmp/_pl_hls.m3u) canali)" || ko "playlist HLS HTTP -> $CODE_HLS"
 V=$(curl -s -m5 "http://$HOST:6878/webui/api/service?method=get_version" | grep -o '"version": "[^"]*"')
 [ -n "$V" ] && ok "Ace Stream engine raggiungibile ($V)" || ko "Ace Stream engine non raggiungibile su :6878"
 

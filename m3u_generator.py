@@ -16,6 +16,7 @@ ACESTREAM_PORT = os.getenv("ACESTREAM_PORT", "6878")
 MAX_WORKERS = int(os.getenv("MAX_WORKERS", "4"))
 REQUEST_DELAY = float(os.getenv("REQUEST_DELAY", "0.3"))
 OUTPUT_PATH = os.getenv("OUTPUT_PATH", "playlist.m3u")
+OUTPUT_HLS_PATH = os.getenv("OUTPUT_HLS_PATH", "")
 STATS_PATH = os.getenv("STATS_PATH", "last_run.json")
 
 
@@ -39,7 +40,39 @@ def atomic_write(path, content):
         raise
 
 
-def generate_m3u(output_path=OUTPUT_PATH):
+def _build_m3u_lines(entries, endpoint="getstream"):
+    lines = ["#EXTM3U"]
+    for match, raw_streams in entries:
+        ko = match.get("kickoff")
+        time_str = ko.strftime("%H:%M") if ko else "LIVE"
+        comp = match["competition"]
+        safe_teams = sanitize_m3u_attr(match["teams"])
+        group = sanitize_m3u_attr(f"Football / {comp}" if comp else "Football")
+        logo_url = sanitize_m3u_attr(match.get("icon_url", ""))
+        logo_attr = f' tvg-logo="{logo_url}"' if logo_url else ""
+
+        for i, s in enumerate(raw_streams):
+            if s.startswith("acestream://"):
+                ace_id = s[len("acestream://"):]
+                url = f"http://{ACESTREAM_IP}:{ACESTREAM_PORT}/ace/{endpoint}?id={ace_id}"
+            else:
+                url = s
+            name = f"{time_str} {match['teams']}" + (f" ({comp})" if comp else "")
+            if len(raw_streams) > 1:
+                name += f" - Link {i + 1}"
+            lines.append(
+                f'#EXTINF:-1 tvg-name="{safe_teams}" tvg-id="{match["event_id"]}-{i}"'
+                f'{logo_attr} group-title="{group}",{sanitize_m3u_attr(name)}'
+            )
+            lines.append(url)
+    return lines
+
+
+def generate_m3u(output_path=OUTPUT_PATH, output_hls_path=OUTPUT_HLS_PATH):
+    if not output_hls_path:
+        base, ext = os.path.splitext(output_path)
+        output_hls_path = f"{base}_hls{ext or '.m3u'}"
+
     scraper = LiveTVScraper()
     matches = scraper.get_matches()
     list_page_ok = scraper.stats["http_errors"] == 0
@@ -54,18 +87,16 @@ def generate_m3u(output_path=OUTPUT_PATH):
     seen_ace_ids = set()
     entries = []
     for match, streams in results:
-        urls = []
+        kept = []
         for s in streams:
             if s.startswith("acestream://"):
                 ace_id = s[len("acestream://"):]
                 if ace_id in seen_ace_ids:
                     continue
                 seen_ace_ids.add(ace_id)
-                urls.append(f"http://{ACESTREAM_IP}:{ACESTREAM_PORT}/ace/getstream?id={ace_id}")
-            else:
-                urls.append(s)
-        if urls:
-            entries.append((match, urls))
+            kept.append(s)
+        if kept:
+            entries.append((match, kept))
 
     scraper.stats["streams_valid"] = len(seen_ace_ids)
 
@@ -75,33 +106,20 @@ def generate_m3u(output_path=OUTPUT_PATH):
 
     entries.sort(key=sort_key)
 
-    lines = ["#EXTM3U"]
-    for match, urls in entries:
-        ko = match.get("kickoff")
-        time_str = ko.strftime("%H:%M") if ko else "LIVE"
-        comp = match["competition"]
-        safe_teams = sanitize_m3u_attr(match["teams"])
-        group = sanitize_m3u_attr(f"Football / {comp}" if comp else "Football")
-        for i, url in enumerate(urls):
-            name = f"{time_str} {match['teams']}" + (f" ({comp})" if comp else "")
-            if len(urls) > 1:
-                name += f" - Link {i + 1}"
-            lines.append(
-                f'#EXTINF:-1 tvg-name="{safe_teams}" tvg-id="{match["event_id"]}-{i}" '
-                f'group-title="{group}",{sanitize_m3u_attr(name)}'
-            )
-            lines.append(url)
+    lines_ts = _build_m3u_lines(entries, endpoint="getstream")
+    lines_hls = _build_m3u_lines(entries, endpoint="manifest.m3u8")
+    channels = (len(lines_ts) - 1) // 2
 
-    channels = (len(lines) - 1) // 2
     if channels > 0:
-        atomic_write(output_path, "\n".join(lines) + "\n")
-        logger.info("Generated %s with %d entries", output_path, channels)
+        atomic_write(output_path, "\n".join(lines_ts) + "\n")
+        atomic_write(output_hls_path, "\n".join(lines_hls) + "\n")
+        logger.info("Generated %s and %s with %d entries", output_path, output_hls_path, channels)
     elif list_page_ok:
-        # livetv reachable but nothing on: publish an empty playlist instead of stale dead links.
         atomic_write(output_path, "#EXTM3U\n")
-        logger.warning("No streams found -- wrote empty playlist")
+        atomic_write(output_hls_path, "#EXTM3U\n")
+        logger.warning("No streams found -- wrote empty playlists")
     else:
-        logger.error("livetv unreachable -- keeping previous playlist")
+        logger.error("livetv unreachable -- keeping previous playlists")
 
     summary = {
         "timestamp": datetime.now(timezone.utc).isoformat(),

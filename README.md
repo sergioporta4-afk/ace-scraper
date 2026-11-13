@@ -13,7 +13,8 @@ Sullo Xiaomi (Ubuntu, utente `seu16`), con servizi **systemd utente** che parton
 | `ace-scraper.timer` → `ace-scraper.service` | Aggiorna la playlist 1 min dopo il boot, poi a :00 e :30 |
 | `ace-playlist-http.service` | Serve `~/ace-scraper/www/` sulla porta 8080 |
 
-Playlist per la TV: **http://192.168.1.58:8080/playlist.m3u**
+Playlist per la TV (MPEG-TS standard): **http://192.168.1.58:8080/playlist.m3u**
+Playlist parallela HLS (`.m3u8`): **http://192.168.1.58:8080/playlist_hls.m3u**
 Statistiche ultimo run: http://192.168.1.58:8080/last_run.json
 
 ## Comandi utili (sullo Xiaomi)

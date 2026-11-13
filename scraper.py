@@ -127,6 +127,13 @@ class LiveTVScraper:
 
         img = row.find("img", alt=True)
         alt = self._clean_text(img["alt"]) if img else ""
+        icon_src = (img.get("src") or "").strip() if img else ""
+        if icon_src.startswith("//"):
+            icon_url = f"https:{icon_src}"
+        elif icon_src.startswith("/"):
+            icon_url = f"{self.base_origin}{icon_src}"
+        else:
+            icon_url = icon_src
         in_top_block = row.find_parent("span", id="upcoming") is not None
 
         if in_top_block:
@@ -161,6 +168,7 @@ class LiveTVScraper:
             "competition": competition,
             "time_text": time_text,
             "detail_url": detail_url,
+            "icon_url": icon_url,
             "is_live": row.find("img", src=re.compile(r"live\.gif")) is not None,
         }
 

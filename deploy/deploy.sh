@@ -2,7 +2,7 @@
 # Deploy dal Mac allo Xiaomi: copia il codice, prepara il venv, installa/riavvia i servizi systemd utente.
 # Uso: ./deploy/deploy.sh [utente@host]
 set -euo pipefail
-TARGET="${1:-seu16@192.168.1.58}"
+TARGET="${1:-seu16@192.168.8.102}"
 cd "$(dirname "$0")/.."
 
 rsync -av --delete \

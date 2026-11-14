@@ -1,7 +1,7 @@
 #!/bin/bash
 # Verifica completa dello Xiaomi, da lanciare dal Mac (es. 2-3 minuti dopo un riavvio).
 # Uso: ./deploy/check.sh [utente@host]
-TARGET="${1:-seu16@192.168.1.58}"
+TARGET="${1:-seu16@192.168.8.102}"
 HOST="${TARGET#*@}"
 ok()   { printf "  \033[32m✔\033[0m %s\n" "$*"; }
 ko()   { printf "  \033[31m✘\033[0m %s\n" "$*"; FAIL=1; }
@@ -19,6 +19,7 @@ echo "  acceso da: $(uptime -p | sed 's/up //')  (boot $(uptime -s) UTC)"
 echo "  interfaccia in uso: $(ip route show default | awk '{print $5; exit}')"
 systemctl is-active -q acestream && ok "acestream.service attivo" || ko "acestream.service NON attivo"
 systemctl --user is-active -q stremio-server && ok "stremio-server.service attivo (:11470)" || ko "stremio-server.service NON attivo"
+systemctl --user is-active -q mammamia && ok "mammamia.service attivo (:8090)" || ko "mammamia.service NON attivo"
 systemctl --user is-active -q ace-playlist-http && ok "server HTTP playlist attivo" || ko "server HTTP playlist NON attivo"
 systemctl --user is-active -q ace-scraper.timer && ok "timer aggiornamento attivo (prossimo: $(systemctl --user show ace-scraper.timer -p NextElapseUSecRealtime --value))" || ko "timer NON attivo"
 IP=$(getent hosts livetv.sx | awk '{print $1; exit}')

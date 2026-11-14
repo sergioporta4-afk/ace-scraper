@@ -24,7 +24,17 @@ except Exception:
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
 
-ACESTREAM_IP = os.getenv("ACESTREAM_IP", "192.168.1.58")
+import socket
+
+def _detect_local_ip(default="192.168.8.102"):
+    try:
+        with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as s:
+            s.connect(("1.1.1.1", 80))
+            return s.getsockname()[0]
+    except Exception:
+        return default
+
+ACESTREAM_IP = os.getenv("ACESTREAM_IP") or _detect_local_ip()
 ACESTREAM_PORT = os.getenv("ACESTREAM_PORT", "6878")
 HTTP_PORT = os.getenv("HTTP_PORT", "8080")
 MAX_WORKERS = int(os.getenv("MAX_WORKERS", "4"))
